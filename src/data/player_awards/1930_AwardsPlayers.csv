@@ -1,0 +1,50 @@
+IDfg,Name,playerID,awardID,yearID,lgID,tie,notes
+1004598,Lou Gehrig,gehrilo01,Baseball Magazine All-Star,1930,AL,,1B
+1004596,Charlie Gehringer,gehrich01,Baseball Magazine All-Star,1930,AL,,2B
+1007422,Tony Lazzeri,lazzeto01,Baseball Magazine All-Star,1930,AL,,3B
+1002384,Mickey Cochrane,cochrmi01,Baseball Magazine All-Star,1930,AL,,C
+1000379,Earl Averill,averiea01,Baseball Magazine All-Star,1930,AL,,CF
+1011978,Al Simmons,simmoal01,Baseball Magazine All-Star,1930,AL,,LF
+1007887,Ted Lyons,lyonste01,Baseball Magazine All-Star,1930,AL,,P1
+1004010,Wes Ferrell,ferrewe01,Baseball Magazine All-Star,1930,AL,,P2
+1003633,George Earnshaw,earnsge01,Baseball Magazine All-Star,1930,AL,,P3
+1005099,Lefty Grove,grovele01,Baseball Magazine All-Star,1930,AL,,P4
+1011327,Babe Ruth,ruthba01,Baseball Magazine All-Star,1930,AL,,RF
+1002796,Joe Cronin,cronijo01,Baseball Magazine All-Star,1930,AL,,SS
+1012927,Bill Terry,terrybi01,Baseball Magazine All-Star,1930,ML,,1B
+1004364,Frankie Frisch,friscfr01,Baseball Magazine All-Star,1930,ML,,2B
+1007631,Freddie Lindstrom,lindsfr01,Baseball Magazine All-Star,1930,ML,,3B
+1002384,Mickey Cochrane,cochrmi01,Baseball Magazine All-Star,1930,ML,,C
+1014083,Hack Wilson,wilsoha01,Baseball Magazine All-Star,1930,ML,,CF
+1011978,Al Simmons,simmoal01,Baseball Magazine All-Star,1930,ML,,LF
+1007887,Ted Lyons,lyonste01,Baseball Magazine All-Star,1930,ML,,P1
+1004010,Wes Ferrell,ferrewe01,Baseball Magazine All-Star,1930,ML,,P2
+1008044,Pat Malone,malonpa02,Baseball Magazine All-Star,1930,ML,,P3
+1005099,Lefty Grove,grovele01,Baseball Magazine All-Star,1930,ML,,P4
+1011327,Babe Ruth,ruthba01,Baseball Magazine All-Star,1930,ML,,RF
+1002796,Joe Cronin,cronijo01,Baseball Magazine All-Star,1930,ML,,SS
+1012927,Bill Terry,terrybi01,Baseball Magazine All-Star,1930,NL,,1B
+1004364,Frankie Frisch,friscfr01,Baseball Magazine All-Star,1930,NL,,2B
+1007631,Freddie Lindstrom,lindsfr01,Baseball Magazine All-Star,1930,NL,,3B
+1005458,Gabby Hartnett,hartnga01,Baseball Magazine All-Star,1930,NL,,C
+1014083,Hack Wilson,wilsoha01,Baseball Magazine All-Star,1930,NL,,CF
+1005191,Chick Hafey,hafeych01,Baseball Magazine All-Star,1930,NL,,LF
+1007156,Ray Kremer,kremera01,Baseball Magazine All-Star,1930,NL,,P1
+1008044,Pat Malone,malonpa02,Baseball Magazine All-Star,1930,NL,,P2
+1013342,Dazzy Vance,vanceda01,Baseball Magazine All-Star,1930,NL,,P3
+1005229,Bill Hallahan,hallabi01,Baseball Magazine All-Star,1930,NL,,P4
+1002914,Kiki Cuyler,cuyleki01,Baseball Magazine All-Star,1930,NL,,RF
+1006314,Travis Jackson,jackstr01,Baseball Magazine All-Star,1930,NL,,SS
+1005099,Lefty Grove,grovele01,Pitching Triple Crown,1930,AL,,
+1012927,Bill Terry,terrybi01,TSN All-Star,1930,ML,,1B
+1004364,Frankie Frisch,friscfr01,TSN All-Star,1930,ML,,2B
+1007631,Freddie Lindstrom,lindsfr01,TSN All-Star,1930,ML,,3B
+1002384,Mickey Cochrane,cochrmi01,TSN All-Star,1930,ML,,C
+1011327,Babe Ruth,ruthba01,TSN All-Star,1930,ML,,OF
+1011978,Al Simmons,simmoal01,TSN All-Star,1930,ML,,OF
+1014083,Hack Wilson,wilsoha01,TSN All-Star,1930,ML,,OF
+1004010,Wes Ferrell,ferrewe01,TSN All-Star,1930,ML,,P
+1005099,Lefty Grove,grovele01,TSN All-Star,1930,ML,,P
+1002796,Joe Cronin,cronijo01,TSN All-Star,1930,ML,,SS
+1002796,Joe Cronin,cronijo01,TSN Guide MVP,1930,AL,,
+1012927,Bill Terry,terrybi01,TSN Guide MVP,1930,NL,,

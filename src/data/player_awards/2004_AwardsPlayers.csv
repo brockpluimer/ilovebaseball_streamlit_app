@@ -1,0 +1,80 @@
+IDfg,Name,playerID,awardID,yearID,lgID,tie,notes
+844.0,Mariano Rivera,riverma01,Reliever of the Year Award,2004,AL,,
+745.0,David Ortiz,ortizda01,ALCS MVP,2004,AL,,
+847.0,Alfonso Soriano,soriaal01,All-Star Game MVP,2004,ML,,
+231.0,Keith Foulke,foulkke01,Babe Ruth Award,2004,AL,,P
+1091.0,Jamie Moyer,moyerja01,Branch Rickey Award,2004,ML,,
+755.0,Johan Santana,santajo01,Cy Young Award,2004,AL,,
+815.0,Roger Clemens,clemero02,Cy Young Award,2004,NL,,
+11.0,Darin Erstad,erstada01,Gold Glove,2004,AL,,1B
+1067.0,Bret Boone,boonebr01,Gold Glove,2004,AL,,2B
+906.0,Eric Chavez,chaveer01,Gold Glove,2004,AL,,3B
+1275.0,Ivan Rodriguez,rodriiv01,Gold Glove,2004,AL,,C
+731.0,Torii Hunter,hunteto01,Gold Glove,2004,AL,,OF
+1101.0,Ichiro Suzuki,suzukic01,Gold Glove,2004,AL,,OF
+1326.0,Vernon Wells,wellsve01,Gold Glove,2004,AL,,OF
+1277.0,Kenny Rogers,rogerke01,Gold Glove,2004,AL,,P
+826.0,Derek Jeter,jeterde01,Gold Glove,2004,AL,,SS
+432.0,Todd Helton,heltoto01,Gold Glove,2004,NL,,1B
+513.0,Luis Castillo,castilu01,Gold Glove,2004,NL,,2B
+970.0,Scott Rolen,rolensc01,Gold Glove,2004,NL,,3B
+1169.0,Mike Matheny,mathemi01,Gold Glove,2004,NL,,C
+1153.0,Jim Edmonds,edmonji01,Gold Glove,2004,NL,,OF
+54.0,Steve Finley,finlest01,Gold Glove,2004,NL,,OF
+96.0,Andruw Jones,jonesan01,Gold Glove,2004,NL,,OF
+104.0,Greg Maddux,maddugr01,Gold Glove,2004,NL,,P
+656.0,Cesar Izturis,izturce01,Gold Glove,2004,NL,,SS
+210.0,Manny Ramirez,ramirma02,Hank Aaron Award,2004,AL,,
+1109.0,Barry Bonds,bondsba01,Hank Aaron Award,2004,NL,,
+1035.0,Trevor Hoffman,hoffmtr01,Hutch Award,2004,ML,,
+409.0,Jim Thome,thomeji01,Lou Gehrig Memorial Award,2004,ML,,
+778.0,Vladimir Guerrero,guerrvl01,Most Valuable Player,2004,AL,,
+1109.0,Barry Bonds,bondsba01,Most Valuable Player,2004,NL,,
+1177.0,Albert Pujols,pujolal01,NLCS MVP,2004,NL,,
+1086.0,Edgar Martinez,martied01,Roberto Clemente Award,2004,ML,,
+650.0,Eric Gagne,gagneer01,Reliever of the Year Award,2004,NL,,
+1818.0,Bobby Crosby,crosbbo01,Rookie of the Year,2004,AL,,
+1717.0,Jason Bay,bayja01,Rookie of the Year,2004,NL,,
+1281.0,Mark Teixeira,teixema01,Silver Slugger,2004,AL,,1B
+847.0,Alfonso Soriano,soriaal01,Silver Slugger,2004,AL,,2B
+157.0,Melvin Mora,morame01,Silver Slugger,2004,AL,,3B
+393.0,Victor Martinez,martivi01,Silver Slugger,2004,AL,Y,C
+1275.0,Ivan Rodriguez,rodriiv01,Silver Slugger,2004,AL,Y,C
+745.0,David Ortiz,ortizda01,Silver Slugger,2004,AL,,DH
+778.0,Vladimir Guerrero,guerrvl01,Silver Slugger,2004,AL,,OF
+210.0,Manny Ramirez,ramirma02,Silver Slugger,2004,AL,,OF
+114.0,Gary Sheffield,sheffga01,Silver Slugger,2004,AL,,OF
+941.0,Miguel Tejada,tejadmi01,Silver Slugger,2004,AL,,SS
+1177.0,Albert Pujols,pujolal01,Silver Slugger,2004,NL,,1B
+1383.0,Mark Loretta,loretma01,Silver Slugger,2004,NL,,2B
+639.0,Adrian Beltre,beltrad01,Silver Slugger,2004,NL,,3B
+955.0,Johnny Estrada,estrajo01,Silver Slugger,2004,NL,,C
+945.0,Bobby Abreu,abreubo01,Silver Slugger,2004,NL,,OF
+1109.0,Barry Bonds,bondsba01,Silver Slugger,2004,NL,,OF
+1153.0,Jim Edmonds,edmonji01,Silver Slugger,2004,NL,,OF
+1116.0,Livan Hernandez,hernali01,Silver Slugger,2004,NL,,P
+1017.0,Jack Wilson,wilsoja02,Silver Slugger,2004,NL,,SS
+242.0,Paul Konerko,konerpa01,TSN All-Star,2004,AL,,1B
+847.0,Alfonso Soriano,soriaal01,TSN All-Star,2004,AL,,2B
+157.0,Melvin Mora,morame01,TSN All-Star,2004,AL,,3B
+1275.0,Ivan Rodriguez,rodriiv01,TSN All-Star,2004,AL,,C
+745.0,David Ortiz,ortizda01,TSN All-Star,2004,AL,,DH
+778.0,Vladimir Guerrero,guerrvl01,TSN All-Star,2004,AL,,OF
+210.0,Manny Ramirez,ramirma02,TSN All-Star,2004,AL,,OF
+1101.0,Ichiro Suzuki,suzukic01,TSN All-Star,2004,AL,,OF
+755.0,Johan Santana,santajo01,TSN All-Star,2004,AL,,P
+941.0,Miguel Tejada,tejadmi01,TSN All-Star,2004,AL,,SS
+1177.0,Albert Pujols,pujolal01,TSN All-Star,2004,NL,,1B
+1383.0,Mark Loretta,loretma01,TSN All-Star,2004,NL,,2B
+970.0,Scott Rolen,rolensc01,TSN All-Star,2004,NL,,3B
+955.0,Johnny Estrada,estrajo01,TSN All-Star,2004,NL,,C
+1109.0,Barry Bonds,bondsba01,TSN All-Star,2004,NL,,OF
+1153.0,Jim Edmonds,edmonji01,TSN All-Star,2004,NL,,OF
+1131.0,Jason Schmidt,schmija01,TSN All-Star,2004,NL,,P
+1178.0,Edgar Renteria,renteed01,TSN All-Star,2004,NL,,SS
+1109.0,Barry Bonds,bondsba01,TSN Major League Player of the Year,2004,ML,,
+755.0,Johan Santana,santajo01,TSN Pitcher of the Year,2004,AL,,
+1131.0,Jason Schmidt,schmija01,TSN Pitcher of the Year,2004,NL,,
+1122.0,Joe Nathan,nathajo01,TSN Reliever of the Year,2004,AL,Y,
+844.0,Mariano Rivera,riverma01,TSN Reliever of the Year,2004,AL,Y,
+210.0,Manny Ramirez,ramirma02,World Series MVP,2004,ML,,

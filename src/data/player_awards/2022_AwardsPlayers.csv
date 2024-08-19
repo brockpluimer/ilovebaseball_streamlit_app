@@ -1,0 +1,85 @@
+IDfg,Name,playerID,awardID,yearID,lgID,tie,notes
+15640.0,Aaron Judge,judgeaa01,Most Valuable Player,2022,AL,,
+9218.0,Paul Goldschmidt,goldspa01,Most Valuable Player,2022,NL,,
+11579.0,Bryce Harper,harpebr03,NLCS MVP,2022,NL,,
+19755.0,Shohei Ohtani,ohtansh01,Outstanding DH Award,2022,ML,,
+16725.0,Jose Trevino,trevijo01,Platinum Glove,2022,AL,,
+9777.0,Nolan Arenado,arenano01,Platinum Glove,2022,NL,,
+15676.0,Jose Abreu,abreujo02,TSN All-Star,2022,AL,,1B
+9218.0,Paul Goldschmidt,goldspa01,TSN All-Star,2022,NL,,1B
+19950.0,Andres Gimenez,gimenan01,TSN All-Star,2022,AL,,2B
+15362.0,Jeff McNeil,mcneije01,TSN All-Star,2022,NL,,2B
+9777.0,Nolan Arenado,arenano01,TSN All-Star,2022,NL,,3B
+13510.0,Jose Ramirez,ramirjo01,TSN All-Star,2022,AL,,3B
+22581.0,Alejandro Kirk,kirkal01,TSN All-Star,2022,AL,,C
+19556.0,Yordan Alvarez,alvaryo01,TSN All-Star,2022,AL,,DH
+11579.0,Bryce Harper,harpebr03,TSN All-Star,2022,NL,,DH
+15640.0,Aaron Judge,judgeaa01,TSN All-Star,2022,AL,,OF
+20123.0,Juan Soto,sotoju01,TSN All-Star,2022,NL,,OF
+23697.0,Julio Rodriguez,rodriju01,TSN All-Star,2022,AL,,OF
+10155.0,Mike Trout,troutmi01,TSN All-Star,2022,AL,,OF
+13611.0,Mookie Betts,bettsmo01,TSN All-Star,2022,NL,,OF
+1003266.0,Edwin Diaz,diazed04,TSN All-Star,2022,NL,,RP
+21032.0,Emmanuel Clase,claseem01,TSN All-Star,2022,AL,,RP
+8700.0,Justin Verlander,verlaju01,TSN All-Star,2022,AL,,SP
+18684.0,Sandy Alcantara,alcansa01,TSN All-Star,2022,NL,,SP
+12161.0,Xander Bogaerts,bogaexa01,TSN All-Star,2022,AL,,SS
+16252.0,Trea Turner,turnetr01,TSN All-Star,2022,NL,,SS
+15640.0,Aaron Judge,judgeaa01,TSN Major League Player of the Year,2022,ML,,
+8700.0,Justin Verlander,verlaju01,TSN Pitcher of the Year,2022,AL,,
+18684.0,Sandy Alcantara,alcansa01,TSN Pitcher of the Year,2022,NL,,
+1003266.0,Edwin Diaz,diazed04,TSN Reliever of the Year,2022,NL,,
+21032.0,Emmanuel Clase,claseem01,TSN Reliever of the Year,2022,AL,,
+21636.0,Jeremy Pena,penaje02,World Series MVP,2022,ML,,
+21636.0,Jeremy Pena,penaje02,ALCS MVP,2022,AL,,
+4949.0,Giancarlo Stanton,stantmi03,All-Star Game MVP,2022,AL,,
+1003266.0,Edwin Diaz,diazed04,Reliever of the Year Award,2022,NL,,
+21032.0,Emmanuel Clase,claseem01,Reliever of the Year Award,2022,AL,,
+5235.0,Justin Turner,turneju01,Roberto Clemente Award,2022,ML,,
+23697.0,Julio Rodriguez,rodriju01,Rookie of the Year,2022,AL,,
+9218.0,Paul Goldschmidt,goldspa01,Silver Slugger,2022,NL,,1B
+19566.0,Nathaniel Lowe,lowena01,Silver Slugger,2022,AL,,1B
+5417.0,Jose Altuve,altuvjo01,Silver Slugger,2022,AL,,2B
+15362.0,Jeff McNeil,mcneije01,Silver Slugger,2022,NL,,2B
+9777.0,Nolan Arenado,arenano01,Silver Slugger,2022,NL,,3B
+13510.0,Jose Ramirez,ramirjo01,Silver Slugger,2022,AL,,3B
+22581.0,Alejandro Kirk,kirkal01,Silver Slugger,2022,AL,,C
+19556.0,Yordan Alvarez,alvaryo01,Silver Slugger,2022,AL,,DH
+2510.0,Josh Bell,belljo02,Silver Slugger,2022,NL,,DH
+13611.0,Mookie Betts,bettsmo01,Silver Slugger,2022,NL,,OF
+15640.0,Aaron Judge,judgeaa01,Silver Slugger,2022,AL,,OF
+23697.0,Julio Rodriguez,rodriju01,Silver Slugger,2022,AL,,OF
+16478.0,Kyle Schwarber,schwaky01,Silver Slugger,2022,NL,,OF
+20123.0,Juan Soto,sotoju01,Silver Slugger,2022,NL,,OF
+10155.0,Mike Trout,troutmi01,Silver Slugger,2022,AL,,OF
+12161.0,Xander Bogaerts,bogaexa01,Silver Slugger,2022,AL,,SS
+16252.0,Trea Turner,turnetr01,Silver Slugger,2022,NL,,SS
+18568.0,Luis Arraez,arraelu01,Silver Slugger,2022,AL,,UT
+11615.0,Brandon Drury,drurybr01,Silver Slugger,2022,NL,,UT
+21636.0,Jeremy Pena,penaje02,Babe Ruth Award,2022,ML,,
+1177.0,Albert Pujols,pujolal01,Comeback Player of the Year,2022,NL,,
+8700.0,Justin Verlander,verlaju01,Comeback Player of the Year,2022,AL,,
+8700.0,Justin Verlander,verlaju01,Cy Young Award,2022,AL,,
+18684.0,Sandy Alcantara,alcansa01,Cy Young Award,2022,NL,,
+778.0,Vladimir Guerrero,guerrvl02,Gold Glove,2022,AL,,1B
+13419.0,Christian Walker,walkech02,Gold Glove,2022,NL,,1B
+19950.0,Andres Gimenez,gimenan01,Gold Glove,2022,AL,,2B
+17907.0,Brendan Rodgers,rodgebr02,Gold Glove,2022,NL,,2B
+9777.0,Nolan Arenado,arenano01,Gold Glove,2022,NL,,3B
+18795.0,Ramon Urias,uriasra01,Gold Glove,2022,AL,,3B
+16725.0,Jose Trevino,trevijo01,Gold Glove,2022,AL,,C
+13611.0,Mookie Betts,bettsmo01,Gold Glove,2022,NL,,OF
+18564.0,Trent Grisham,grishtr01,Gold Glove,2022,NL,,OF
+17919.0,Ian Happ,happia01,Gold Glove,2022,NL,,OF
+24610.0,Steven Kwan,kwanst01,Gold Glove,2022,AL,,OF
+17620.0,Myles Straw,strawmy01,Gold Glove,2022,AL,,OF
+18345.0,Kyle Tucker,tuckeky01,Gold Glove,2022,AL,,OF
+19427.0,Shane Bieber,biebesh01,Gold Glove,2022,AL,,P
+13743.0,Max Fried,friedma01,Gold Glove,2022,NL,,P
+21636.0,Jeremy Pena,penaje02,Gold Glove,2022,AL,,SS
+18314.0,Dansby Swanson,swansda01,Gold Glove,2022,NL,,SS
+24679.0,Brendan Donovan,donovbr01,Gold Glove,2022,NL,,UT
+9874.0,DJ LeMahieu,lemahdj01,Gold Glove,2022,AL,,UT
+15640.0,Aaron Judge,judgeaa01,Hank Aaron Award,2022,AL,,
+9218.0,Paul Goldschmidt,goldspa01,Hank Aaron Award,2022,NL,,
+5343.0,Brandon Crawford,crawfbr01,Lou Gehrig Memorial Award,2022,ML,,

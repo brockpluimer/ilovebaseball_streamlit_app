@@ -1,0 +1,80 @@
+IDfg,Name,playerID,awardID,yearID,lgID,tie,notes
+923.0,David Justice,justida01,ALCS MVP,2000,AL,,
+826.0,Derek Jeter,jeterde01,All-Star Game MVP,2000,ML,,
+826.0,Derek Jeter,jeterde01,Babe Ruth Award,2000,AL,,SS
+75.0,Todd Stottlemyre,stottto01,Branch Rickey Award,2000,ML,,
+200.0,Pedro Martinez,martipe02,Cy Young Award,2000,AL,,
+60.0,Randy Johnson,johnsra05,Cy Young Award,2000,NL,,
+1093.0,John Olerud,olerujo01,Gold Glove,2000,AL,,1B
+860.0,Roberto Alomar,alomaro01,Gold Glove,2000,AL,,2B
+385.0,Travis Fryman,frymatr01,Gold Glove,2000,AL,,3B
+1275.0,Ivan Rodriguez,rodriiv01,Gold Glove,2000,AL,,C
+911.0,Jermaine Dye,dyeje01,Gold Glove,2000,AL,,OF
+11.0,Darin Erstad,erstada01,Gold Glove,2000,AL,,OF
+1013974.0,Bernie Williams,willibe02,Gold Glove,2000,AL,,OF
+1277.0,Kenny Rogers,rogerke01,Gold Glove,2000,AL,,P
+411.0,Omar Vizquel,vizquom01,Gold Glove,2000,AL,,SS
+1004.0,Pokey Reese,reesepo01,Gold Glove,2000,NL,,2B
+970.0,Scott Rolen,rolensc01,Gold Glove,2000,NL,,3B
+1169.0,Mike Matheny,mathemi01,Gold Glove,2000,NL,,C
+1153.0,Jim Edmonds,edmonji01,Gold Glove,2000,NL,,OF
+54.0,Steve Finley,finlest01,Gold Glove,2000,NL,,OF
+96.0,Andruw Jones,jonesan01,Gold Glove,2000,NL,,OF
+104.0,Greg Maddux,maddugr01,Gold Glove,2000,NL,,P
+620.0,Neifi Perez,perezne01,Gold Glove,2000,NL,,SS
+1297.0,Carlos Delgado,delgaca01,Hank Aaron Award,2000,AL,,1B
+432.0,Todd Helton,heltoto01,Hank Aaron Award,2000,NL,,1B
+818.0,Jason Giambi,giambja01,Hutch Award,2000,ML,,
+75.0,Todd Stottlemyre,stottto01,Lou Gehrig Memorial Award,2000,ML,,
+818.0,Jason Giambi,giambja01,Most Valuable Player,2000,AL,,
+1119.0,Jeff Kent,kentje01,Most Valuable Player,2000,NL,,
+430.0,Mike Hampton,hamptmi01,NLCS MVP,2000,NL,,
+883.0,Al Leiter,leiteal01,Roberto Clemente Award,2000,ML,,
+436.0,Todd Jones,jonesto02,Reliever of the Year Award,2000,AL,,
+260.0,Antonio Alfonseca,alfonan01,Reliever of the Year Award,2000,NL,,
+1098.0,Kazuhiro Sasaki,sasakka01,Rookie of the Year,2000,AL,,
+88.0,Rafael Furcal,furcara01,Rookie of the Year,2000,NL,,
+1297.0,Carlos Delgado,delgaca01,Silver Slugger,2000,AL,,1B
+860.0,Roberto Alomar,alomaro01,Silver Slugger,2000,AL,,2B
+15.0,Troy Glaus,glaustr01,Silver Slugger,2000,AL,,3B
+841.0,Jorge Posada,posadjo01,Silver Slugger,2000,AL,,C
+1012976.0,Frank Thomas,thomafr04,Silver Slugger,2000,AL,,DH
+11.0,Darin Erstad,erstada01,Silver Slugger,2000,AL,,OF
+248.0,Magglio Ordonez,ordonma01,Silver Slugger,2000,AL,,OF
+210.0,Manny Ramirez,ramirma02,Silver Slugger,2000,AL,,OF
+1274.0,Alex Rodriguez,rodrial01,Silver Slugger,2000,AL,,SS
+432.0,Todd Helton,heltoto01,Silver Slugger,2000,NL,,1B
+1119.0,Jeff Kent,kentje01,Silver Slugger,2000,NL,,2B
+97.0,Chipper Jones,jonesch06,Silver Slugger,2000,NL,,3B
+893.0,Mike Piazza,piazzmi01,Silver Slugger,2000,NL,,C
+1109.0,Barry Bonds,bondsba01,Silver Slugger,2000,NL,,OF
+778.0,Vladimir Guerrero,guerrvl01,Silver Slugger,2000,NL,,OF
+302.0,Sammy Sosa,sosasa01,Silver Slugger,2000,NL,,OF
+430.0,Mike Hampton,hamptmi01,Silver Slugger,2000,NL,,P
+1178.0,Edgar Renteria,renteed01,Silver Slugger,2000,NL,,SS
+1297.0,Carlos Delgado,delgaca01,TSN All-Star,2000,AL,,1B
+860.0,Roberto Alomar,alomaro01,TSN All-Star,2000,AL,,2B
+385.0,Travis Fryman,frymatr01,TSN All-Star,2000,AL,,3B
+841.0,Jorge Posada,posadjo01,TSN All-Star,2000,AL,,C
+855.0,David Wells,wellsda01,TSN All-Star,2000,AL,,LHP
+11.0,Darin Erstad,erstada01,TSN All-Star,2000,AL,,OF
+248.0,Magglio Ordonez,ordonma01,TSN All-Star,2000,AL,,OF
+1013974.0,Bernie Williams,willibe02,TSN All-Star,2000,AL,,OF
+200.0,Pedro Martinez,martipe02,TSN All-Star,2000,AL,,RHP
+1274.0,Alex Rodriguez,rodrial01,TSN All-Star,2000,AL,,SS
+432.0,Todd Helton,heltoto01,TSN All-Star,2000,NL,,1B
+1119.0,Jeff Kent,kentje01,TSN All-Star,2000,NL,,2B
+97.0,Chipper Jones,jonesch06,TSN All-Star,2000,NL,,3B
+893.0,Mike Piazza,piazzmi01,TSN All-Star,2000,NL,,C
+90.0,Tom Glavine,glavito02,TSN All-Star,2000,NL,,LHP
+1109.0,Barry Bonds,bondsba01,TSN All-Star,2000,NL,,OF
+778.0,Vladimir Guerrero,guerrvl01,TSN All-Star,2000,NL,,OF
+302.0,Sammy Sosa,sosasa01,TSN All-Star,2000,NL,,OF
+104.0,Greg Maddux,maddugr01,TSN All-Star,2000,NL,,RHP
+1178.0,Edgar Renteria,renteed01,TSN All-Star,2000,NL,,SS
+436.0,Todd Jones,jonesto02,TSN Fireman of the Year,2000,AL,,
+260.0,Antonio Alfonseca,alfonan01,TSN Fireman of the Year,2000,NL,,
+1297.0,Carlos Delgado,delgaca01,TSN Major League Player of the Year,2000,ML,,
+200.0,Pedro Martinez,martipe02,TSN Pitcher of the Year,2000,AL,,
+90.0,Tom Glavine,glavito02,TSN Pitcher of the Year,2000,NL,,
+826.0,Derek Jeter,jeterde01,World Series MVP,2000,ML,,

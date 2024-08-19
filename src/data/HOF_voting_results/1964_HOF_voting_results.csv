@@ -1,0 +1,125 @@
+IDfg,Name,playerID,yearid,votedBy,ballots,needed,votes,inducted,category,needed_note
+1000041,Babe Adams,adamsba01,1964,Veterans,,,,N,Player,
+1000284,Luke Appling,applilu01,1964,BBWAA,201.0,151.0,142.0,N,Player,
+1000284,Luke Appling,applilu01,1964,Run Off,201.0,,189.0,Y,Player,Player receiving most votes inducted
+1000503,Dave Bancroft,bancrda01,1964,Veterans,,,,N,Player,
+1000754,Jake Beckley,becklja01,1964,Veterans,,,,N,Player,
+1001228,Jim Bottomley,bottoji01,1964,Veterans,,,,N,Player,
+1001234,Lou Boudreau,boudrlo01,1964,BBWAA,201.0,151.0,68.0,N,Player,
+1001234,Lou Boudreau,boudrlo01,1964,Run Off,201.0,,43.0,N,Player,Player receiving most votes inducted
+1001421,Tommy Bridges,bridgto01,1964,BBWAA,201.0,151.0,15.0,N,Player,
+1001421,Tommy Bridges,bridgto01,1964,Run Off,201.0,,1.0,N,Player,Player receiving most votes inducted
+1001749,Donie Bush,bushdo01,1964,Veterans,,,,N,Player,
+1001871,Roy Campanella,camparo01,1964,BBWAA,201.0,151.0,115.0,N,Player,
+1001871,Roy Campanella,camparo01,1964,Run Off,201.0,,138.0,N,Player,Player receiving most votes inducted
+1002033,George Case,casege01,1964,BBWAA,201.0,151.0,2.0,N,Player,
+1002093,Phil Cavarretta,cavarph01,1964,BBWAA,201.0,151.0,22.0,N,Player,
+1002093,Phil Cavarretta,cavarph01,1964,Run Off,201.0,,1.0,N,Player,Player receiving most votes inducted
+1002133,Spud Chandler,chandsp01,1964,BBWAA,201.0,151.0,6.0,N,Player,
+1002478,Earle Combs,combsea01,1964,Veterans,,,,N,Player,
+1002537,Roger Connor,connoro01,1964,Veterans,,,,N,Player,
+1002682,Stan Coveleski,covelst01,1964,Veterans,,,,N,Player,
+1002727,Doc Cramer,cramedo01,1964,BBWAA,201.0,151.0,12.0,N,Player,
+1002914,Kiki Cuyler,cuyleki01,1964,Veterans,,,,N,Player,
+1003005,Jake Daubert,daubeja01,1964,Veterans,,,,N,Player,
+1003310,Dom DiMaggio,dimagdo01,1964,BBWAA,201.0,151.0,12.0,N,Player,
+1003355,Bobby Doerr,doerrbo01,1964,BBWAA,201.0,151.0,24.0,N,Player,
+1003355,Bobby Doerr,doerrbo01,1964,Run Off,201.0,,5.0,N,Player,Player receiving most votes inducted
+1003596,Leo Durocher,durocle01,1964,BBWAA,201.0,151.0,15.0,N,Player,
+1003596,Leo Durocher,durocle01,1964,Run Off,201.0,,2.0,N,Player,Player receiving most votes inducted
+1003733,Bob Elliott,elliobo01,1964,BBWAA,201.0,151.0,4.0,N,Player,
+1003889,Red Faber,faberre01,1964,Veterans,,,,Y,Player,
+1004122,Freddie Fitzsimmons,fitzsfr01,1964,Veterans,,,,N,Player,
+1004469,Pud Galvin,galvipu01,1964,Veterans,,,,N,Player,
+1004821,Lefty Gomez,gomezle01,1964,Veterans,,,,N,Player,
+1004874,Joe Gordon,gordojo01,1964,BBWAA,201.0,151.0,30.0,N,Player,
+1004874,Joe Gordon,gordojo01,1964,Run Off,201.0,,1.0,N,Player,Player receiving most votes inducted
+1004893,Goose Goslin,gosligo01,1964,Veterans,,,,N,Player,
+1005061,Burleigh Grimes,grimebu01,1964,Veterans,,,,Y,Player,
+1005068,Charlie Grimm,grimmch01,1964,Veterans,,,,N,Player,
+1005080,Steve Gromek,gromest01,1964,BBWAA,201.0,151.0,1.0,N,Player,
+1005191,Chick Hafey,hafeych01,1964,Veterans,,,,N,Player,
+1005209,Jesse Haines,haineje01,1964,Veterans,,,,N,Player,
+1005314,Ned Hanlon,hanlone01,1964,Veterans,,,,N,Manager,
+1005339,Mel Harder,hardeme01,1964,BBWAA,201.0,151.0,51.0,N,Player,
+1005339,Mel Harder,hardeme01,1964,Run Off,201.0,,14.0,N,Player,Player receiving most votes inducted
+1005664,Tommy Henrich,henrito01,1964,BBWAA,201.0,151.0,13.0,N,Player,
+1005692,Billy Herman,hermabi01,1964,BBWAA,201.0,151.0,26.0,N,Player,
+1005692,Billy Herman,hermabi01,1964,Run Off,201.0,,9.0,N,Player,Player receiving most votes inducted
+1006066,Art Houtteman,houttar01,1964,BBWAA,201.0,151.0,2.0,N,Player,
+1006115,Waite Hoyt,hoytwa01,1964,Veterans,,,,N,Player,
+1006148,Miller Huggins,huggimi01,1964,Veterans,,,,Y,Manager,
+1007968,Sal Maglie,maglisa01,1964,BBWAA,201.0,151.0,13.0,N,Player,
+1008089,Heinie Manush,manushe01,1964,Veterans,,,,Y,Player,
+1008108,Marty Marion,marioma01,1964,BBWAA,201.0,151.0,50.0,N,Player,
+1008108,Marty Marion,marioma01,1964,Run Off,201.0,,17.0,N,Player,Player receiving most votes inducted
+1008125,Rube Marquard,marquru01,1964,Veterans,,,,N,Player,
+1008189,Pepper Martin,martipe01,1964,BBWAA,201.0,151.0,19.0,N,Player,
+1008189,Pepper Martin,martipe01,1964,Run Off,201.0,,5.0,N,Player,Player receiving most votes inducted
+1006238,Fred Hutchinson,hutchfr01,1964,BBWAA,201.0,151.0,10.0,N,Player,
+1006743,Tim Keefe,keefeti01,1964,Veterans,,,,Y,Player,
+1006768,Charlie Keller,kellech01,1964,BBWAA,201.0,151.0,12.0,N,Player,
+1006783,George Kell,kellge01,1964,BBWAA,201.0,151.0,33.0,N,Player,
+1006783,George Kell,kellge01,1964,Run Off,201.0,,8.0,N,Player,Player receiving most votes inducted
+1006922,Ellis Kinder,kindeel01,1964,BBWAA,201.0,151.0,3.0,N,Player,
+1006923,Ralph Kiner,kinerra01,1964,BBWAA,201.0,151.0,31.0,N,Player,
+1006923,Ralph Kiner,kinerra01,1964,Run Off,201.0,,3.0,N,Player,Player receiving most votes inducted
+1006991,Chuck Klein,kleinch01,1964,BBWAA,201.0,151.0,56.0,N,Player,
+1006991,Chuck Klein,kleinch01,1964,Run Off,201.0,,18.0,N,Player,Player receiving most votes inducted
+1007226,Bob Kuzava,kuzavbo01,1964,BBWAA,201.0,151.0,1.0,N,Player,
+1007422,Tony Lazzeri,lazzeto01,1964,Veterans,,,,N,Player,
+1007517,Bob Lemon,lemonbo01,1964,BBWAA,201.0,151.0,24.0,N,Player,
+1007517,Bob Lemon,lemonbo01,1964,Run Off,201.0,,3.0,N,Player,Player receiving most votes inducted
+1007718,Ernie Lombardi,lombaer01,1964,BBWAA,201.0,151.0,33.0,N,Player,
+1007718,Ernie Lombardi,lombaer01,1964,Run Off,201.0,,9.0,N,Player,Player receiving most votes inducted
+1007751,Al Lopez,lopezal01,1964,BBWAA,201.0,151.0,57.0,N,Player,
+1007751,Al Lopez,lopezal01,1964,Run Off,201.0,,34.0,N,Player,Player receiving most votes inducted
+1008413,Frank McCormick,mccorfr01,1964,BBWAA,201.0,151.0,6.0,N,Player,
+1008719,Joe Medwick,medwijo01,1964,BBWAA,201.0,151.0,108.0,N,Player,
+1008719,Joe Medwick,medwijo01,1964,Run Off,201.0,,130.0,N,Player,Player receiving most votes inducted
+1008854,Eddie Miksis,miksied01,1964,BBWAA,201.0,151.0,1.0,N,Player,
+1009014,Johnny Mize,mizejo01,1964,BBWAA,201.0,151.0,54.0,N,Player,
+1009014,Johnny Mize,mizejo01,1964,Run Off,201.0,,12.0,N,Player,Player receiving most votes inducted
+1009128,Terry Moore,moorete01,1964,BBWAA,201.0,151.0,14.0,N,Player,
+1009535,Hal Newhouser,newhoha01,1964,BBWAA,201.0,151.0,26.0,N,Player,
+1009535,Hal Newhouser,newhoha01,1964,Run Off,201.0,,3.0,N,Player,Player receiving most votes inducted
+1011296,Red Ruffing,ruffire01,1964,BBWAA,201.0,151.0,141.0,N,Player,
+1011296,Red Ruffing,ruffire01,1964,Run Off,201.0,,184.0,N,Player,Player receiving most votes inducted
+1011308,Amos Rusie,rusieam01,1964,Veterans,,,,N,Player,
+1011373,Johnny Sain,sainjo01,1964,BBWAA,201.0,151.0,3.0,N,Player,
+1011648,Hal Schumacher,schumha02,1964,BBWAA,201.0,151.0,10.0,N,Player,
+1011766,Joe Sewell,seweljo01,1964,Veterans,,,,N,Player,
+1009546,Bobo Newsom,newsobo01,1964,BBWAA,201.0,151.0,17.0,N,Player,
+1009546,Bobo Newsom,newsobo01,1964,Run Off,201.0,,1.0,N,Player,Player receiving most votes inducted
+1009643,Ron Northey,northro01,1964,BBWAA,201.0,151.0,1.0,N,Player,
+1009734,Lefty O'Doul,odoulle01,1964,Veterans,,,,N,Player,
+1010702,Vic Raschi,raschvi01,1964,BBWAA,201.0,151.0,8.0,N,Player,
+1010776,Pee Wee Reese,reesepe01,1964,BBWAA,201.0,151.0,73.0,N,Player,
+1010776,Pee Wee Reese,reesepe01,1964,Run Off,201.0,,47.0,N,Player,Player receiving most votes inducted
+1010860,Allie Reynolds,reynoal01,1964,BBWAA,201.0,151.0,35.0,N,Player,
+1010860,Allie Reynolds,reynoal01,1964,Run Off,201.0,,6.0,N,Player,Player receiving most votes inducted
+1011011,Phil Rizzuto,rizzuph01,1964,BBWAA,201.0,151.0,45.0,N,Player,
+1011011,Phil Rizzuto,rizzuph01,1964,Run Off,201.0,,11.0,N,Player,Player receiving most votes inducted
+1011157,Red Rolfe,rolfere01,1964,Veterans,,,,N,Player,
+1011768,Rip Sewell,sewelri01,1964,BBWAA,201.0,151.0,1.0,N,Player,
+1012078,Roy Smalley,smallro01,1964,BBWAA,201.0,151.0,1.0,N,Player,
+1012500,Riggs Stephenson,stephri01,1964,Veterans,,,,N,Player,
+1013024,Sam Thompson,thompsa01,1964,Veterans,,,,N,Player,
+1013196,Dizzy Trout,troutdi01,1964,BBWAA,201.0,151.0,1.0,N,Player,
+1013203,Virgil Trucks,truckvi01,1964,BBWAA,201.0,151.0,4.0,N,Player,
+1013350,Johnny Vander Meer,vandejo01,1964,BBWAA,201.0,151.0,51.0,N,Player,
+1013350,Johnny Vander Meer,vandejo01,1964,Run Off,201.0,,20.0,N,Player,Player receiving most votes inducted
+1013377,Arky Vaughan,vaughar01,1964,BBWAA,201.0,151.0,17.0,N,Player,
+1013377,Arky Vaughan,vaughar01,1964,Run Off,201.0,,6.0,N,Player,Player receiving most votes inducted
+1013512,Dixie Walker,walkedi02,1964,BBWAA,201.0,151.0,6.0,N,Player,
+1013583,Bucky Walters,waltebu01,1964,BBWAA,201.0,151.0,35.0,N,Player,
+1013583,Bucky Walters,waltebu01,1964,Run Off,201.0,,8.0,N,Player,Player receiving most votes inducted
+1013596,Lloyd Waner,wanerll01,1964,BBWAA,201.0,151.0,47.0,N,Player,
+1013596,Lloyd Waner,wanerll01,1964,Run Off,201.0,,12.0,N,Player,Player receiving most votes inducted
+1013615,John Ward,wardjo01,1964,Veterans,,,,Y,Player,
+1013637,Lon Warneke,warnelo01,1964,BBWAA,201.0,151.0,13.0,N,Player,
+1013757,Mickey Welch,welchmi01,1964,Veterans,,,,N,Player,
+1013812,Wes Westrum,westrwe01,1964,BBWAA,201.0,151.0,2.0,N,Player,
+1014083,Hack Wilson,wilsoha01,1964,Veterans,,,,N,Player,
+1014354,Rudy York,yorkru01,1964,BBWAA,201.0,151.0,10.0,N,Player,
+1014390,Ross Youngs,youngro01,1964,Veterans,,,,N,Player,

@@ -1,0 +1,57 @@
+IDfg,Name,playerID,awardID,yearID,lgID,tie,notes
+1008106,Juan Marichal,maricju01,All-Star Game MVP,1965,ML,,
+1007124,Sandy Koufax,koufasa01,Babe Ruth Award,1965,NL,,P
+1007124,Sandy Koufax,koufasa01,Cy Young Award,1965,ML,,
+1010167,Joe Pepitone,pepitjo01,Gold Glove,1965,AL,,1B
+1010903,Bobby Richardson,richabo01,Gold Glove,1965,AL,,2B
+1011055,Brooks Robinson,robinbr01,Gold Glove,1965,AL,,3B
+1004315,Bill Freehan,freehbi01,Gold Glove,1965,AL,,C
+1006678,Al Kaline,kalinal01,Gold Glove,1965,AL,,OF
+1013179,Tom Tresh,treshto01,Gold Glove,1965,AL,,OF
+1014326,Carl Yastrzemski,yastrca01,Gold Glove,1965,AL,,OF
+1006660,Jim Kaat,kaatji01,Gold Glove,1965,AL,,P
+1013417,Zoilo Versalles,versazo01,Gold Glove,1965,AL,,SS
+1013855,Bill White,whitebi03,Gold Glove,1965,NL,,1B
+1008316,Bill Mazeroski,mazerbi01,Gold Glove,1965,NL,,2B
+1011447,Ron Santo,santoro01,Gold Glove,1965,NL,,3B
+1013133,Joe Torre,torrejo01,Gold Glove,1965,NL,,C
+1002340,Roberto Clemente,clemero01,Gold Glove,1965,NL,,OF
+1004165,Curt Flood,floodcu01,Gold Glove,1965,NL,,OF
+1008315,Willie Mays,mayswi01,Gold Glove,1965,NL,,OF
+1004662,Bob Gibson,gibsobo01,Gold Glove,1965,NL,,P
+1001938,Leo Cardenas,cardele01,Gold Glove,1965,NL,,SS
+1008082,Mickey Mantle,mantlmi01,Hutch Award,1965,ML,,
+1007410,Vern Law,lawve01,Lou Gehrig Memorial Award,1965,ML,,
+1013417,Zoilo Versalles,versazo01,Most Valuable Player,1965,AL,,
+1008315,Willie Mays,mayswi01,Most Valuable Player,1965,NL,,
+1007124,Sandy Koufax,koufasa01,Pitching Triple Crown,1965,NL,,
+1001068,Curt Blefary,blefacu01,Rookie of the Year,1965,AL,,
+1007473,Jim Lefebvre,lefebji01,Rookie of the Year,1965,NL,,
+1013898,Fred Whitfield,whitffr01,TSN All-Star,1965,AL,,1B
+1010903,Bobby Richardson,richabo01,TSN All-Star,1965,AL,,2B
+1011055,Brooks Robinson,robinbr01,TSN All-Star,1965,AL,,3B
+1000670,Earl Battey,batteea01,TSN All-Star,1965,AL,,C
+1005253,Jimmie Hall,hallji02,TSN All-Star,1965,AL,,OF
+1009772,Tony Oliva,olivato01,TSN All-Star,1965,AL,,OF
+1014326,Carl Yastrzemski,yastrca01,TSN All-Star,1965,AL,,OF
+1004952,Mudcat Grant,grantmu01,TSN All-Star,1965,AL,,P
+1012579,Mel Stottlemyre,stottme01,TSN All-Star,1965,AL,,P
+1013417,Zoilo Versalles,versazo01,TSN All-Star,1965,AL,,SS
+1008423,Willie McCovey,mccovwi01,TSN All-Star,1965,NL,,1B
+1011217,Pete Rose,rosepe01,TSN All-Star,1965,NL,,2B
+1006444,Deron Johnson,johnsde01,TSN All-Star,1965,NL,,3B
+1013133,Joe Torre,torrejo01,TSN All-Star,1965,NL,,C
+1000001,Hank Aaron,aaronha01,TSN All-Star,1965,NL,,OF
+1008315,Willie Mays,mayswi01,TSN All-Star,1965,NL,,OF
+1012426,Willie Stargell,stargwi01,TSN All-Star,1965,NL,,OF
+1007124,Sandy Koufax,koufasa01,TSN All-Star,1965,NL,,P
+1008106,Juan Marichal,maricju01,TSN All-Star,1965,NL,,P
+1014053,Maury Wills,willsma01,TSN All-Star,1965,NL,,SS
+1004085,Eddie Fisher,fisheed02,TSN Fireman of the Year,1965,AL,,
+1000020,Ted Abernathy,abernte02,TSN Fireman of the Year,1965,NL,,
+1007124,Sandy Koufax,koufasa01,TSN Major League Player of the Year,1965,ML,,
+1004952,Mudcat Grant,grantmu01,TSN Pitcher of the Year,1965,AL,,
+1007124,Sandy Koufax,koufasa01,TSN Pitcher of the Year,1965,NL,,
+1009772,Tony Oliva,olivato01,TSN Player of the Year,1965,AL,,
+1008315,Willie Mays,mayswi01,TSN Player of the Year,1965,NL,,
+1007124,Sandy Koufax,koufasa01,World Series MVP,1965,ML,,

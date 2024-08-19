@@ -1,0 +1,57 @@
+IDfg,Name,playerID,awardID,yearID,lgID,tie,notes
+1005478,Buddy Hassett,hassebu01,Baseball Magazine All-Star,1942,AL,,1B
+1004874,Joe Gordon,gordojo01,Baseball Magazine All-Star,1942,AL,,2B
+1006821,Ken Keltner,keltnke01,Baseball Magazine All-Star,1942,AL,,3B
+1003271,Bill Dickey,dickebi01,Baseball Magazine All-Star,1942,AL,,C
+1003311,Joe DiMaggio,dimagjo01,Baseball Magazine All-Star,1942,AL,,CF
+1014040,Ted Williams,willite01,Baseball Magazine All-Star,1942,AL,,LF
+1006169,Tex Hughson,hughste01,Baseball Magazine All-Star,1942,AL,,P1
+1001166,Tiny Bonham,bonhati01,Baseball Magazine All-Star,1942,AL,,P2
+1000411,Jim Bagby,bagbyji02,Baseball Magazine All-Star,1942,AL,,P3
+1008102,Phil Marchildon,marchph01,Baseball Magazine All-Star,1942,AL,,P4
+1002133,Spud Chandler,chandsp01,Baseball Magazine All-Star,1942,AL,,P5
+1012328,Stan Spence,spencst01,Baseball Magazine All-Star,1942,AL,,RF
+1012501,Vern Stephens,stephve01,Baseball Magazine All-Star,1942,AL,,SS
+1009014,Johnny Mize,mizejo01,Baseball Magazine All-Star,1942,ML,,1B
+1004874,Joe Gordon,gordojo01,Baseball Magazine All-Star,1942,ML,,2B
+1006821,Ken Keltner,keltnke01,Baseball Magazine All-Star,1942,ML,,3B
+1003271,Bill Dickey,dickebi01,Baseball Magazine All-Star,1942,ML,,C
+1003311,Joe DiMaggio,dimagjo01,Baseball Magazine All-Star,1942,ML,,CF
+1014040,Ted Williams,willite01,Baseball Magazine All-Star,1942,ML,,LF
+1002598,Mort Cooper,coopemo01,Baseball Magazine All-Star,1942,ML,,P1
+1006169,Tex Hughson,hughste01,Baseball Magazine All-Star,1942,ML,,P2
+1014304,Whit Wyatt,wyattwh01,Baseball Magazine All-Star,1942,ML,,P3
+1001166,Tiny Bonham,bonhati01,Baseball Magazine All-Star,1942,ML,,P4
+1013350,Johnny Vander Meer,vandejo01,Baseball Magazine All-Star,1942,ML,,P5
+1012060,Enos Slaughter,slaugen01,Baseball Magazine All-Star,1942,ML,,RF
+1012501,Vern Stephens,stephve01,Baseball Magazine All-Star,1942,ML,,SS
+1009014,Johnny Mize,mizejo01,Baseball Magazine All-Star,1942,NL,,1B
+1001528,Jimmy Brown,brownji03,Baseball Magazine All-Star,1942,NL,,2B
+1013377,Arky Vaughan,vaughar01,Baseball Magazine All-Star,1942,NL,,3B
+1007718,Ernie Lombardi,lombaer01,Baseball Magazine All-Star,1942,NL,,C
+1010814,Pete Reiser,reisepe01,Baseball Magazine All-Star,1942,NL,,CF
+1008719,Joe Medwick,medwijo01,Baseball Magazine All-Star,1942,NL,,LF
+1002598,Mort Cooper,coopemo01,Baseball Magazine All-Star,1942,NL,,P1
+1014304,Whit Wyatt,wyattwh01,Baseball Magazine All-Star,1942,NL,,P2
+1013350,Johnny Vander Meer,vandejo01,Baseball Magazine All-Star,1942,NL,,P3
+1006166,Tommy Hughes,hugheto04,Baseball Magazine All-Star,1942,NL,,P4
+1000735,Johnny Beazley,beazljo01,Baseball Magazine All-Star,1942,NL,,P5
+1012060,Enos Slaughter,slaugen01,Baseball Magazine All-Star,1942,NL,,RF
+1008108,Marty Marion,marioma01,Baseball Magazine All-Star,1942,NL,,SS
+1004874,Joe Gordon,gordojo01,Most Valuable Player,1942,AL,,
+1002598,Mort Cooper,coopemo01,Most Valuable Player,1942,NL,,
+1014040,Ted Williams,willite01,Triple Crown,1942,AL,,
+1009014,Johnny Mize,mizejo01,TSN All-Star,1942,ML,,1B
+1004874,Joe Gordon,gordojo01,TSN All-Star,1942,ML,,2B
+1005183,Stan Hack,hackst01,TSN All-Star,1942,ML,,3B
+1009919,Mickey Owen,owenmi01,TSN All-Star,1942,ML,,C
+1003311,Joe DiMaggio,dimagjo01,TSN All-Star,1942,ML,,OF
+1012060,Enos Slaughter,slaugen01,TSN All-Star,1942,ML,,OF
+1014040,Ted Williams,willite01,TSN All-Star,1942,ML,,OF
+1001166,Tiny Bonham,bonhati01,TSN All-Star,1942,ML,,P
+1002598,Mort Cooper,coopemo01,TSN All-Star,1942,ML,,P
+1006169,Tex Hughson,hughste01,TSN All-Star,1942,ML,,P
+1010219,Johnny Pesky,peskyjo01,TSN All-Star,1942,ML,,SS
+1004874,Joe Gordon,gordojo01,TSN Guide MVP,1942,AL,,
+1002598,Mort Cooper,coopemo01,TSN Guide MVP,1942,NL,,
+1014040,Ted Williams,willite01,TSN Major League Player of the Year,1942,ML,,

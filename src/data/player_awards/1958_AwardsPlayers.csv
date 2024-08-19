@@ -1,0 +1,43 @@
+IDfg,Name,playerID,awardID,yearID,lgID,tie,notes
+1006079,Elston Howard,howarel01,Babe Ruth Award,1958,AL,,C
+1013225,Bob Turley,turlebo01,Cy Young Award,1958,ML,,
+1010506,Vic Power,powervi01,Gold Glove,1958,AL,,1B
+1001147,Frank Bolling,bollifr01,Gold Glove,1958,AL,,2B
+1008048,Frank Malzone,malzofr01,Gold Glove,1958,AL,,3B
+1007714,Sherm Lollar,lollash01,Gold Glove,1958,AL,,C
+1010340,Jim Piersall,piersji01,Gold Glove,1958,AL,,CF
+1011949,Norm Siebern,siebeno01,Gold Glove,1958,AL,,LF
+1011804,Bobby Shantz,shantbo01,Gold Glove,1958,AL,,P
+1006678,Al Kaline,kalinal01,Gold Glove,1958,AL,,RF
+1000278,Luis Aparicio,aparilu01,Gold Glove,1958,AL,,SS
+1005883,Gil Hodges,hodgegi01,Gold Glove,1958,NL,,1B
+1008316,Bill Mazeroski,mazerbi01,Gold Glove,1958,NL,,2B
+1001283,Ken Boyer,boyerke01,Gold Glove,1958,NL,,3B
+1002729,Del Crandall,crandde01,Gold Glove,1958,NL,,C
+1008315,Willie Mays,mayswi01,Gold Glove,1958,NL,,CF
+1011066,Frank Robinson,robinfr02,Gold Glove,1958,NL,,LF
+1005184,Harvey Haddix,haddiha01,Gold Glove,1958,NL,,P
+1000001,Hank Aaron,aaronha01,Gold Glove,1958,NL,,RF
+1008643,Roy McMillan,mcmilro01,Gold Glove,1958,NL,,SS
+1008471,Gil McDougald,mcdougi01,Lou Gehrig Memorial Award,1958,ML,,
+1006398,Jackie Jensen,jenseja01,Most Valuable Player,1958,AL,,
+1000512,Ernie Banks,bankser01,Most Valuable Player,1958,NL,,
+1010108,Albie Pearson,pearsal02,Rookie of the Year,1958,AL,,
+1002103,Orlando Cepeda,cepedor01,Rookie of the Year,1958,NL,,
+1009405,Stan Musial,musiast01,TSN All-Star,1958,ML,,1B
+1004281,Nellie Fox,foxne01,TSN All-Star,1958,ML,,2B
+1012976,Frank Thomas,thomafr03,TSN All-Star,1958,ML,,3B
+1002729,Del Crandall,crandde01,TSN All-Star,1958,ML,,C
+1000001,Hank Aaron,aaronha01,TSN All-Star,1958,ML,,OF
+1008315,Willie Mays,mayswi01,TSN All-Star,1958,ML,,OF
+1014040,Ted Williams,willite01,TSN All-Star,1958,ML,,OF
+1004355,Bob Friend,frienbo01,TSN All-Star,1958,ML,,P
+1012299,Warren Spahn,spahnwa01,TSN All-Star,1958,ML,,P
+1013225,Bob Turley,turlebo01,TSN All-Star,1958,ML,,P
+1000512,Ernie Banks,bankser01,TSN All-Star,1958,ML,,SS
+1013225,Bob Turley,turlebo01,TSN Major League Player of the Year,1958,ML,,
+1013225,Bob Turley,turlebo01,TSN Pitcher of the Year,1958,AL,,
+1012299,Warren Spahn,spahnwa01,TSN Pitcher of the Year,1958,NL,,
+1006398,Jackie Jensen,jenseja01,TSN Player of the Year,1958,AL,,
+1000512,Ernie Banks,bankser01,TSN Player of the Year,1958,NL,,
+1013225,Bob Turley,turlebo01,World Series MVP,1958,ML,,

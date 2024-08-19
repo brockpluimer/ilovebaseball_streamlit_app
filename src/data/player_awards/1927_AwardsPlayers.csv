@@ -1,0 +1,49 @@
+IDfg,Name,playerID,awardID,yearID,lgID,tie,notes
+1004598.0,Lou Gehrig,gehrilo01,Baseball Magazine All-Star,1927,AL,,1B
+1007422.0,Tony Lazzeri,lazzeto01,Baseball Magazine All-Star,1927,AL,,2B
+1001090.0,Ossie Bluege,bluegos01,Baseball Magazine All-Star,1927,AL,,3B
+1002384.0,Mickey Cochrane,cochrmi01,Baseball Magazine All-Star,1927,AL,,C
+1011290.0,Muddy Ruel,ruelmu01,Baseball Magazine All-Star,1927,AL,,C
+1011978.0,Al Simmons,simmoal01,Baseball Magazine All-Star,1927,AL,,CF
+1004893.0,Goose Goslin,gosligo01,Baseball Magazine All-Star,1927,AL,,LF
+1007887.0,Ted Lyons,lyonste01,Baseball Magazine All-Star,1927,AL,,P1
+1006115.0,Waite Hoyt,hoytwa01,Baseball Magazine All-Star,1927,AL,,P2
+1012996.0,Tommy Thomas,thomato02,Baseball Magazine All-Star,1927,AL,,P3
+1005099.0,Lefty Grove,grovele01,Baseball Magazine All-Star,1927,AL,,P4
+1011327.0,Babe Ruth,ruthba01,Baseball Magazine All-Star,1927,AL,,RF
+1011766.0,Joe Sewell,seweljo01,Baseball Magazine All-Star,1927,AL,,SS
+1004598.0,Lou Gehrig,gehrilo01,Baseball Magazine All-Star,1927,ML,,1B
+1004364.0,Frankie Frisch,friscfr01,Baseball Magazine All-Star,1927,ML,,2B
+1013165.0,Pie Traynor,traynpi01,Baseball Magazine All-Star,1927,ML,,3B
+1002384.0,Mickey Cochrane,cochrmi01,Baseball Magazine All-Star,1927,ML,,C
+1005458.0,Gabby Hartnett,hartnga01,Baseball Magazine All-Star,1927,ML,,C
+1011978.0,Al Simmons,simmoal01,Baseball Magazine All-Star,1927,ML,,CF
+1011327.0,Babe Ruth,ruthba01,Baseball Magazine All-Star,1927,ML,,LF
+1007887.0,Ted Lyons,lyonste01,Baseball Magazine All-Star,1927,ML,,P2
+1005209.0,Jesse Haines,haineje01,Baseball Magazine All-Star,1927,ML,,P3
+1005099.0,Lefty Grove,grovele01,Baseball Magazine All-Star,1927,ML,,P4
+1013597.0,Paul Waner,wanerpa01,Baseball Magazine All-Star,1927,ML,,RF
+1006314.0,Travis Jackson,jackstr01,Baseball Magazine All-Star,1927,ML,,SS
+1012927.0,Bill Terry,terrybi01,Baseball Magazine All-Star,1927,NL,,1B
+1004364.0,Frankie Frisch,friscfr01,Baseball Magazine All-Star,1927,NL,,2B
+1013165.0,Pie Traynor,traynpi01,Baseball Magazine All-Star,1927,NL,,3B
+1005458.0,Gabby Hartnett,hartnga01,Baseball Magazine All-Star,1927,NL,,C
+1014088.0,Jimmie Wilson,wilsoji01,Baseball Magazine All-Star,1927,NL,,C
+1014083.0,Hack Wilson,wilsoha01,Baseball Magazine All-Star,1927,NL,,CF
+1013596.0,Lloyd Waner,wanerll01,Baseball Magazine All-Star,1927,NL,,LF
+1005209.0,Jesse Haines,haineje01,Baseball Magazine All-Star,1927,NL,,P2
+1000128.0,Pete Alexander,alexape01,Baseball Magazine All-Star,1927,NL,,P3
+1010257.0,Jesse Petty,pettyje01,Baseball Magazine All-Star,1927,NL,,P4
+1013597.0,Paul Waner,wanerpa01,Baseball Magazine All-Star,1927,NL,,RF
+1006314.0,Travis Jackson,jackstr01,Baseball Magazine All-Star,1927,NL,,SS
+1004598.0,Lou Gehrig,gehrilo01,Most Valuable Player,1927,AL,,
+1013597.0,Paul Waner,wanerpa01,Most Valuable Player,1927,NL,,
+1004598.0,Lou Gehrig,gehrilo01,TSN All-Star,1927,ML,,1B
+1006030.0,Rogers Hornsby,hornsro01,TSN All-Star,1927,ML,,2B
+1013165.0,Pie Traynor,traynpi01,TSN All-Star,1927,ML,,3B
+1005458.0,Gabby Hartnett,hartnga01,TSN All-Star,1927,ML,,C
+1011327.0,Babe Ruth,ruthba01,TSN All-Star,1927,ML,,OF
+1011978.0,Al Simmons,simmoal01,TSN All-Star,1927,ML,,OF
+1013597.0,Paul Waner,wanerpa01,TSN All-Star,1927,ML,,OF
+1007887.0,Ted Lyons,lyonste01,TSN All-Star,1927,ML,,P
+1006314.0,Travis Jackson,jackstr01,TSN All-Star,1927,ML,,SS

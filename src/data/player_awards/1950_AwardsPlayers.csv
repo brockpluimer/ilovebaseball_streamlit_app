@@ -1,0 +1,55 @@
+IDfg,Name,playerID,awardID,yearID,lgID,tie,notes
+1002423,Jerry Coleman,colemje01,Babe Ruth Award,1950,AL,,2B
+1003510,Walt Dropo,dropowa01,Baseball Magazine All-Star,1950,AL,,1B
+1003355,Bobby Doerr,doerrbo01,Baseball Magazine All-Star,1950,AL,,2B
+1006783,George Kell,kellge01,Baseball Magazine All-Star,1950,AL,,3B
+1000898,Yogi Berra,berrayo01,Baseball Magazine All-Star,1950,AL,,C
+1003311,Joe DiMaggio,dimagjo01,Baseball Magazine All-Star,1950,AL,,CF
+1014040,Ted Williams,willite01,Baseball Magazine All-Star,1950,AL,,LF
+1010702,Vic Raschi,raschvi01,Baseball Magazine All-Star,1950,AL,,P1
+1007517,Bob Lemon,lemonbo01,Baseball Magazine All-Star,1950,AL,,P2
+1006066,Art Houtteman,houttar01,Baseball Magazine All-Star,1950,AL,,P3
+1013795,Vic Wertz,wertzvi01,Baseball Magazine All-Star,1950,AL,,RF
+1011011,Phil Rizzuto,rizzuph01,Baseball Magazine All-Star,1950,AL,,SS
+1009405,Stan Musial,musiast01,Baseball Magazine All-Star,1950,ML,,1B
+1003355,Bobby Doerr,doerrbo01,Baseball Magazine All-Star,1950,ML,,2B
+1006783,George Kell,kellge01,Baseball Magazine All-Star,1950,ML,,3B
+1000898,Yogi Berra,berrayo01,Baseball Magazine All-Star,1950,ML,,C
+1003311,Joe DiMaggio,dimagjo01,Baseball Magazine All-Star,1950,ML,,CF
+1006923,Ralph Kiner,kinerra01,Baseball Magazine All-Star,1950,ML,,LF
+1012299,Warren Spahn,spahnwa01,Baseball Magazine All-Star,1950,ML,,P1
+1010702,Vic Raschi,raschvi01,Baseball Magazine All-Star,1950,ML,,P2
+1007098,Jim Konstanty,konstji01,Baseball Magazine All-Star,1950,ML,,P3
+1004409,Carl Furillo,furilca01,Baseball Magazine All-Star,1950,ML,,RF
+1011011,Phil Rizzuto,rizzuph01,Baseball Magazine All-Star,1950,ML,,SS
+1009405,Stan Musial,musiast01,Baseball Magazine All-Star,1950,NL,,1B
+1011070,Jackie Robinson,robinja02,Baseball Magazine All-Star,1950,NL,,2B
+1003733,Bob Elliott,elliobo01,Baseball Magazine All-Star,1950,NL,,3B
+1001871,Roy Campanella,camparo01,Baseball Magazine All-Star,1950,NL,,C
+1012230,Duke Snider,snidedu01,Baseball Magazine All-Star,1950,NL,,CF
+1006923,Ralph Kiner,kinerra01,Baseball Magazine All-Star,1950,NL,,LF
+1012299,Warren Spahn,spahnwa01,Baseball Magazine All-Star,1950,NL,,P1
+1007098,Jim Konstanty,konstji01,Baseball Magazine All-Star,1950,NL,,P2
+1006358,Larry Jansen,jansela01,Baseball Magazine All-Star,1950,NL,,P3
+1004409,Carl Furillo,furilca01,Baseball Magazine All-Star,1950,NL,,RF
+1005286,Granny Hamner,hamnegr01,Baseball Magazine All-Star,1950,NL,,SS
+1011011,Phil Rizzuto,rizzuph01,Most Valuable Player,1950,AL,,
+1007098,Jim Konstanty,konstji01,Most Valuable Player,1950,NL,,
+1003510,Walt Dropo,dropowa01,Rookie of the Year,1950,AL,,
+1015576,Sam Jethroe,jethrsa01,Rookie of the Year,1950,NL,,
+1003510,Walt Dropo,dropowa01,TSN All-Star,1950,ML,,1B
+1011070,Jackie Robinson,robinja02,TSN All-Star,1950,ML,,2B
+1006783,George Kell,kellge01,TSN All-Star,1950,ML,,3B
+1000898,Yogi Berra,berrayo01,TSN All-Star,1950,ML,,C
+1003346,Larry Doby,dobyla01,TSN All-Star,1950,ML,,OF
+1006923,Ralph Kiner,kinerra01,TSN All-Star,1950,ML,,OF
+1009405,Stan Musial,musiast01,TSN All-Star,1950,ML,,OF
+1007098,Jim Konstanty,konstji01,TSN All-Star,1950,ML,,P
+1007517,Bob Lemon,lemonbo01,TSN All-Star,1950,ML,,P
+1010702,Vic Raschi,raschvi01,TSN All-Star,1950,ML,,P
+1011011,Phil Rizzuto,rizzuph01,TSN All-Star,1950,ML,,SS
+1011011,Phil Rizzuto,rizzuph01,TSN Major League Player of the Year,1950,ML,,
+1007517,Bob Lemon,lemonbo01,TSN Pitcher of the Year,1950,AL,,
+1007098,Jim Konstanty,konstji01,TSN Pitcher of the Year,1950,NL,,
+1011011,Phil Rizzuto,rizzuph01,TSN Player of the Year,1950,AL,,
+1006923,Ralph Kiner,kinerra01,TSN Player of the Year,1950,NL,,

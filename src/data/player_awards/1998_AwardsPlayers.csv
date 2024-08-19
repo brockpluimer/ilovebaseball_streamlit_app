@@ -1,0 +1,80 @@
+IDfg,Name,playerID,awardID,yearID,lgID,tie,notes
+855.0,David Wells,wellsda01,ALCS MVP,1998,AL,,
+860.0,Roberto Alomar,alomaro01,All-Star Game MVP,1998,ML,,
+1001477.0,Scott Brosius,brosisc01,Babe Ruth Award,1998,AL,,3B
+1009040.0,Paul Molitor,molitpa01,Branch Rickey Award,1998,ML,,
+815.0,Roger Clemens,clemero02,Cy Young Award,1998,AL,,
+90.0,Tom Glavine,glavito02,Cy Young Award,1998,NL,,
+1266.0,Rafael Palmeiro,palmera01,Gold Glove,1998,AL,,1B
+860.0,Roberto Alomar,alomaro01,Gold Glove,1998,AL,,2B
+854.0,Robin Ventura,venturo01,Gold Glove,1998,AL,,3B
+1275.0,Ivan Rodriguez,rodriiv01,Gold Glove,1998,AL,,C
+1153.0,Jim Edmonds,edmonji01,Gold Glove,1998,AL,,OF
+1005044.0,Ken Griffey,griffke02,Gold Glove,1998,AL,,OF
+1013974.0,Bernie Williams,willibe02,Gold Glove,1998,AL,,OF
+837.0,Mike Mussina,mussimi01,Gold Glove,1998,AL,,P
+411.0,Omar Vizquel,vizquom01,Gold Glove,1998,AL,,SS
+1067.0,Bret Boone,boonebr01,Gold Glove,1998,NL,,2B
+970.0,Scott Rolen,rolensc01,Gold Glove,1998,NL,,3B
+523.0,Charles Johnson,johnsch04,Gold Glove,1998,NL,,C
+1109.0,Barry Bonds,bondsba01,Gold Glove,1998,NL,,OF
+96.0,Andruw Jones,jonesan01,Gold Glove,1998,NL,,OF
+455.0,Larry Walker,walkela01,Gold Glove,1998,NL,,OF
+104.0,Greg Maddux,maddugr01,Gold Glove,1998,NL,,P
+889.0,Rey Ordonez,ordonre01,Gold Glove,1998,NL,,SS
+1680.0,David Cone,coneda01,Hutch Award,1998,ML,,
+1005166.0,Tony Gwynn,gwynnto01,Lou Gehrig Memorial Award,1998,ML,,
+1251.0,Juan Gonzalez,gonzaju03,Most Valuable Player,1998,AL,,
+302.0,Sammy Sosa,sosasa01,Most Valuable Player,1998,NL,,
+824.0,Sterling Hitchcock,hitchst01,NLCS MVP,1998,NL,,
+815.0,Roger Clemens,clemero02,Pitching Triple Crown,1998,AL,,
+302.0,Sammy Sosa,sosasa01,Roberto Clemente Award,1998,ML,,
+282.0,Tom Gordon,gordoto01,Reliever of the Year Award,1998,AL,,
+1035.0,Trevor Hoffman,hoffmtr01,Reliever of the Year Award,1998,NL,,
+1209.0,Ben Grieve,grievbe01,Rookie of the Year,1998,AL,,
+304.0,Kerry Wood,woodke02,Rookie of the Year,1998,NL,,
+1266.0,Rafael Palmeiro,palmera01,Silver Slugger,1998,AL,,1B
+464.0,Damion Easley,easleda01,Silver Slugger,1998,AL,,2B
+482.0,Dean Palmer,palmede01,Silver Slugger,1998,AL,,3B
+1275.0,Ivan Rodriguez,rodriiv01,Silver Slugger,1998,AL,,C
+1001918.0,Jose Canseco,cansejo01,Silver Slugger,1998,AL,,DH
+1000802.0,Albert Belle,belleal01,Silver Slugger,1998,AL,,OF
+1251.0,Juan Gonzalez,gonzaju03,Silver Slugger,1998,AL,,OF
+1005044.0,Ken Griffey,griffke02,Silver Slugger,1998,AL,,OF
+1274.0,Alex Rodriguez,rodrial01,Silver Slugger,1998,AL,,SS
+1008559.0,Mark McGwire,mcgwima01,Silver Slugger,1998,NL,,1B
+549.0,Craig Biggio,biggicr01,Silver Slugger,1998,NL,,2B
+84.0,Vinny Castilla,castivi02,Silver Slugger,1998,NL,,3B
+893.0,Mike Piazza,piazzmi01,Silver Slugger,1998,NL,,C
+261.0,Moises Alou,aloumo01,Silver Slugger,1998,NL,,OF
+302.0,Sammy Sosa,sosasa01,Silver Slugger,1998,NL,,OF
+1233.0,Greg Vaughn,vaughgr01,Silver Slugger,1998,NL,,OF
+90.0,Tom Glavine,glavito02,Silver Slugger,1998,NL,,P
+335.0,Barry Larkin,larkiba01,Silver Slugger,1998,NL,,SS
+1266.0,Rafael Palmeiro,palmera01,TSN All-Star,1998,AL,,1B
+860.0,Roberto Alomar,alomaro01,TSN All-Star,1998,AL,,2B
+1001477.0,Scott Brosius,brosisc01,TSN All-Star,1998,AL,,3B
+1275.0,Ivan Rodriguez,rodriiv01,TSN All-Star,1998,AL,,C
+1001918.0,Jose Canseco,cansejo01,TSN All-Star,1998,AL,,DH
+855.0,David Wells,wellsda01,TSN All-Star,1998,AL,,LHP
+1000802.0,Albert Belle,belleal01,TSN All-Star,1998,AL,,OF
+1251.0,Juan Gonzalez,gonzaju03,TSN All-Star,1998,AL,,OF
+1005044.0,Ken Griffey,griffke02,TSN All-Star,1998,AL,,OF
+200.0,Pedro Martinez,martipe02,TSN All-Star,1998,AL,,RHP
+1274.0,Alex Rodriguez,rodrial01,TSN All-Star,1998,AL,,SS
+1008559.0,Mark McGwire,mcgwima01,TSN All-Star,1998,NL,,1B
+549.0,Craig Biggio,biggicr01,TSN All-Star,1998,NL,,2B
+84.0,Vinny Castilla,castivi02,TSN All-Star,1998,NL,,3B
+893.0,Mike Piazza,piazzmi01,TSN All-Star,1998,NL,,C
+90.0,Tom Glavine,glavito02,TSN All-Star,1998,NL,,LHP
+261.0,Moises Alou,aloumo01,TSN All-Star,1998,NL,,OF
+302.0,Sammy Sosa,sosasa01,TSN All-Star,1998,NL,,OF
+1233.0,Greg Vaughn,vaughgr01,TSN All-Star,1998,NL,,OF
+178.0,Kevin Brown,brownke01,TSN All-Star,1998,NL,,RHP
+335.0,Barry Larkin,larkiba01,TSN All-Star,1998,NL,,SS
+282.0,Tom Gordon,gordoto01,TSN Fireman of the Year,1998,AL,,
+1035.0,Trevor Hoffman,hoffmtr01,TSN Fireman of the Year,1998,NL,,
+302.0,Sammy Sosa,sosasa01,TSN Major League Player of the Year,1998,ML,,
+815.0,Roger Clemens,clemero02,TSN Pitcher of the Year,1998,AL,,
+178.0,Kevin Brown,brownke01,TSN Pitcher of the Year,1998,NL,,
+1001477.0,Scott Brosius,brosisc01,World Series MVP,1998,ML,,

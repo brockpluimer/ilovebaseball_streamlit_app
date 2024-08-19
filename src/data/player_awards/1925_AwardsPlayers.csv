@@ -1,0 +1,54 @@
+IDfg,Name,playerID,awardID,yearID,lgID,tie,notes
+1012021,George Sisler,sislege01,Baseball Magazine All-Star,1925,AL,,1B
+1002451,Eddie Collins,collied01,Baseball Magazine All-Star,1925,AL,,2B
+1001090,Ossie Bluege,bluegos01,Baseball Magazine All-Star,1925,AL,,3B
+1011290,Muddy Ruel,ruelmu01,Baseball Magazine All-Star,1925,AL,,C1
+1002384,Mickey Cochrane,cochrmi01,Baseball Magazine All-Star,1925,AL,,C2
+1011978,Al Simmons,simmoal01,Baseball Magazine All-Star,1925,AL,,CF
+1004893,Goose Goslin,gosligo01,Baseball Magazine All-Star,1925,AL,,LF
+1006511,Walter Johnson,johnswa01,Baseball Magazine All-Star,1925,AL,,P1
+1007887,Ted Lyons,lyonste01,Baseball Magazine All-Star,1925,AL,,P2
+1002682,Stan Coveleski,covelst01,Baseball Magazine All-Star,1925,AL,,P3
+1010161,Herb Pennock,pennohe01,Baseball Magazine All-Star,1925,AL,,P4
+1005590,Harry Heilmann,heilmha01,Baseball Magazine All-Star,1925,AL,,RF
+1011766,Joe Sewell,seweljo01,Baseball Magazine All-Star,1925,AL,,SS
+1012021,George Sisler,sislege01,Baseball Magazine All-Star,1925,ML,,1B
+1006030,Rogers Hornsby,hornsro01,Baseball Magazine All-Star,1925,ML,,2B
+1013165,Pie Traynor,traynpi01,Baseball Magazine All-Star,1925,ML,,3B
+1011290,Muddy Ruel,ruelmu01,Baseball Magazine All-Star,1925,ML,,C1
+1002384,Mickey Cochrane,cochrmi01,Baseball Magazine All-Star,1925,ML,,C2
+1011978,Al Simmons,simmoal01,Baseball Magazine All-Star,1925,ML,,CF
+1013828,Zack Wheat,wheatza01,Baseball Magazine All-Star,1925,ML,,LF
+1006511,Walter Johnson,johnswa01,Baseball Magazine All-Star,1925,ML,,P1
+1013342,Dazzy Vance,vanceda01,Baseball Magazine All-Star,1925,ML,,P2
+1002682,Stan Coveleski,covelst01,Baseball Magazine All-Star,1925,ML,,P3
+1011008,Eppa Rixey,rixeyep01,Baseball Magazine All-Star,1925,ML,,P4
+1002914,Kiki Cuyler,cuyleki01,Baseball Magazine All-Star,1925,ML,,RF
+1014280,Glenn Wright,wrighgl01,Baseball Magazine All-Star,1925,ML,,SS
+1001228,Jim Bottomley,bottoji01,Baseball Magazine All-Star,1925,NL,,1B
+1006030,Rogers Hornsby,hornsro01,Baseball Magazine All-Star,1925,NL,,2B
+1013165,Pie Traynor,traynpi01,Baseball Magazine All-Star,1925,NL,,3B
+1005458,Gabby Hartnett,hartnga01,Baseball Magazine All-Star,1925,NL,,C1
+1012126,Earl Smith,smithea02,Baseball Magazine All-Star,1925,NL,,C2
+1001944,Max Carey,careyma01,Baseball Magazine All-Star,1925,NL,,CF
+1013828,Zack Wheat,wheatza01,Baseball Magazine All-Star,1925,NL,,LF
+1013342,Dazzy Vance,vanceda01,Baseball Magazine All-Star,1925,NL,,P1
+1000128,Pete Alexander,alexape01,Baseball Magazine All-Star,1925,NL,,P2
+1003390,Pete Donohue,donohpe01,Baseball Magazine All-Star,1925,NL,,P3
+1011008,Eppa Rixey,rixeyep01,Baseball Magazine All-Star,1925,NL,,P4
+1002914,Kiki Cuyler,cuyleki01,Baseball Magazine All-Star,1925,NL,,RF
+1014280,Glenn Wright,wrighgl01,Baseball Magazine All-Star,1925,NL,,SS
+1010116,Roger Peckinpaugh,peckiro01,Most Valuable Player,1925,AL,,
+1006030,Rogers Hornsby,hornsro01,Most Valuable Player,1925,NL,,
+1006030,Rogers Hornsby,hornsro01,Triple Crown,1925,NL,,
+1001228,Jim Bottomley,bottoji01,TSN All-Star,1925,ML,,1B
+1006030,Rogers Hornsby,hornsro01,TSN All-Star,1925,ML,,2B
+1013165,Pie Traynor,traynpi01,TSN All-Star,1925,ML,,3B
+1002384,Mickey Cochrane,cochrmi01,TSN All-Star,1925,ML,,C
+1001944,Max Carey,careyma01,TSN All-Star,1925,ML,,OF
+1002914,Kiki Cuyler,cuyleki01,TSN All-Star,1925,ML,,OF
+1004893,Goose Goslin,gosligo01,TSN All-Star,1925,ML,,OF
+1006511,Walter Johnson,johnswa01,TSN All-Star,1925,ML,,P
+1011174,Eddie Rommel,rommeed01,TSN All-Star,1925,ML,,P
+1013342,Dazzy Vance,vanceda01,TSN All-Star,1925,ML,,P
+1014280,Glenn Wright,wrighgl01,TSN All-Star,1925,ML,,SS

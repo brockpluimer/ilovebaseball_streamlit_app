@@ -1,0 +1,81 @@
+IDfg,Name,playerID,awardID,yearID,lgID,tie,notes
+1007872,Fred Lynn,lynnfr01,ALCS MVP,1982,AL,,
+1002494,Dave Concepcion,conceda01,All-Star Game MVP,1982,ML,,
+1012743,Bruce Sutter,suttebr01,Babe Ruth Award,1982,NL,,RP
+1013461,Pete Vuckovich,vuckope01,Cy Young Award,1982,AL,,
+1001964,Steve Carlton,carltst01,Cy Young Award,1982,NL,,
+1009386,Eddie Murray,murraed02,Gold Glove,1982,AL,,1B
+1013872,Frank White,whitefr01,Gold Glove,1982,AL,,2B
+1000799,Buddy Bell,bellbu01,Gold Glove,1982,AL,,3B
+1001183,Bob Boone,boonebo01,Gold Glove,1982,AL,,C
+1003865,Dwight Evans,evansdw01,Gold Glove,1982,AL,,OF
+1009359,Dwayne Murphy,murphdw01,Gold Glove,1982,AL,,OF
+1014127,Dave Winfield,winfida01,Gold Glove,1982,AL,,OF
+1005124,Ron Guidry,guidrro01,Gold Glove,1982,AL,,P
+1014396,Robin Yount,yountro01,Gold Glove,1982,AL,,SS
+1005706,Keith Hernandez,hernake01,Gold Glove,1982,NL,,1B
+1013184,Manny Trillo,trillma01,Gold Glove,1982,NL,,2B
+1011586,Mike Schmidt,schmimi01,Gold Glove,1982,NL,,3B
+1002015,Gary Carter,cartega01,Gold Glove,1982,NL,,C
+1003091,Andre Dawson,dawsoan01,Gold Glove,1982,NL,,OF
+1007948,Garry Maddox,maddoga01,Gold Glove,1982,NL,,OF
+1009355,Dale Murphy,murphda05,Gold Glove,1982,NL,,OF
+1009583,Phil Niekro,niekrph01,Gold Glove,1982,NL,,P
+1012186,Ozzie Smith,smithoz01,Gold Glove,1982,NL,,SS
+1013037,Andre Thornton,thornan01,Hutch Award,1982,ML,,
+1002108,Ron Cey,ceyro01,Lou Gehrig Memorial Award,1982,ML,,
+1014396,Robin Yount,yountro01,Most Valuable Player,1982,AL,,
+1009355,Dale Murphy,murphda05,Most Valuable Player,1982,NL,,
+1010450,Darrell Porter,porteda02,NLCS MVP,1982,NL,,
+1012011,Ken Singleton,singlke01,Roberto Clemente Award,1982,ML,,
+1010622,Dan Quisenberry,quiseda01,Reliever of the Year Award,1982,AL,,
+1012743,Bruce Sutter,suttebr01,Reliever of the Year Award,1982,NL,,
+1010978,Cal Ripken,ripkeca01,Rookie of the Year,1982,AL,,
+1011481,Steve Sax,saxst01,Rookie of the Year,1982,NL,,
+1002592,Cecil Cooper,coopece01,Silver Slugger,1982,AL,,1B
+1004498,Damaso Garcia,garcida01,Silver Slugger,1982,AL,,2B
+1003123,Doug DeCinces,decindo01,Silver Slugger,1982,AL,,3B
+1010021,Lance Parrish,parrila02,Silver Slugger,1982,AL,,C
+1008687,Hal McRae,mcraeha01,Silver Slugger,1982,AL,,DH
+1006308,Reggie Jackson,jacksre01,Silver Slugger,1982,AL,,OF
+1014113,Willie Wilson,wilsowi02,Silver Slugger,1982,AL,,OF
+1014127,Dave Winfield,winfida01,Silver Slugger,1982,AL,,OF
+1014396,Robin Yount,yountro01,Silver Slugger,1982,AL,,SS
+1009773,Al Oliver,oliveal01,Silver Slugger,1982,NL,,1B
+1009178,Joe Morgan,morgajo02,Silver Slugger,1982,NL,,2B
+1011586,Mike Schmidt,schmimi01,Silver Slugger,1982,NL,,3B
+1002015,Gary Carter,cartega01,Silver Slugger,1982,NL,,C
+1003592,Leon Durham,durhale01,Silver Slugger,1982,NL,,OF
+1005120,Pedro Guerrero,guerrpe01,Silver Slugger,1982,NL,,OF
+1009355,Dale Murphy,murphda05,Silver Slugger,1982,NL,,OF
+1011061,Don Robinson,robindo01,Silver Slugger,1982,NL,,P
+1002494,Dave Concepcion,conceda01,Silver Slugger,1982,NL,,SS
+1002592,Cecil Cooper,coopece01,TSN All-Star,1982,AL,,1B
+1004498,Damaso Garcia,garcida01,TSN All-Star,1982,AL,,2B
+1003123,Doug DeCinces,decindo01,TSN All-Star,1982,AL,,3B
+1010021,Lance Parrish,parrila02,TSN All-Star,1982,AL,,C
+1008687,Hal McRae,mcraeha01,TSN All-Star,1982,AL,,DH
+1014410,Geoff Zahn,zahnge01,TSN All-Star,1982,AL,,LHP
+1003865,Dwight Evans,evansdw01,TSN All-Star,1982,AL,,OF
+1012979,Gorman Thomas,thomago01,TSN All-Star,1982,AL,,OF
+1014127,Dave Winfield,winfida01,TSN All-Star,1982,AL,,OF
+1012532,Dave Stieb,stiebda01,TSN All-Star,1982,AL,,RHP
+1014396,Robin Yount,yountro01,TSN All-Star,1982,AL,,SS
+1009773,Al Oliver,oliveal01,TSN All-Star,1982,NL,,1B
+1013184,Manny Trillo,trillma01,TSN All-Star,1982,NL,,2B
+1011586,Mike Schmidt,schmimi01,TSN All-Star,1982,NL,,3B
+1002015,Gary Carter,cartega01,TSN All-Star,1982,NL,,C
+1001964,Steve Carlton,carltst01,TSN All-Star,1982,NL,,LHP
+1005120,Pedro Guerrero,guerrpe01,TSN All-Star,1982,NL,,OF
+1009355,Dale Murphy,murphda05,TSN All-Star,1982,NL,,OF
+1012176,Lonnie Smith,smithlo01,TSN All-Star,1982,NL,,OF
+1011138,Steve Rogers,rogerst01,TSN All-Star,1982,NL,,RHP
+1012186,Ozzie Smith,smithoz01,TSN All-Star,1982,NL,,SS
+1010622,Dan Quisenberry,quiseda01,TSN Fireman of the Year,1982,AL,,
+1012743,Bruce Sutter,suttebr01,TSN Fireman of the Year,1982,NL,,
+1014396,Robin Yount,yountro01,TSN Major League Player of the Year,1982,ML,,
+1012532,Dave Stieb,stiebda01,TSN Pitcher of the Year,1982,AL,,
+1001964,Steve Carlton,carltst01,TSN Pitcher of the Year,1982,NL,,
+1014396,Robin Yount,yountro01,TSN Player of the Year,1982,AL,,
+1009355,Dale Murphy,murphda05,TSN Player of the Year,1982,NL,,
+1010450,Darrell Porter,porteda02,World Series MVP,1982,ML,,

@@ -1,0 +1,45 @@
+IDfg,Name,playerID,awardID,yearID,lgID,tie,notes
+1008316,Bill Mazeroski,mazerbi01,Babe Ruth Award,1960,NL,,2B
+1007410,Vern Law,lawve01,Cy Young Award,1960,ML,,
+1010506,Vic Power,powervi01,Gold Glove,1960,AL,,1B
+1004281,Nellie Fox,foxne01,Gold Glove,1960,AL,,2B
+1011055,Brooks Robinson,robinbr01,Gold Glove,1960,AL,,3B
+1000670,Earl Battey,batteea01,Gold Glove,1960,AL,,C
+1007296,Jim Landis,landiji01,Gold Glove,1960,AL,,CF
+1008984,Minnie Minoso,minosmi01,Gold Glove,1960,AL,,LF
+1011804,Bobby Shantz,shantbo01,Gold Glove,1960,AL,,P
+1008110,Roger Maris,marisro01,Gold Glove,1960,AL,,RF
+1000278,Luis Aparicio,aparilu01,Gold Glove,1960,AL,,SS
+1013855,Bill White,whitebi03,Gold Glove,1960,NL,,1B
+1008316,Bill Mazeroski,mazerbi01,Gold Glove,1960,NL,,2B
+1001283,Ken Boyer,boyerke01,Gold Glove,1960,NL,,3B
+1002729,Del Crandall,crandde01,Gold Glove,1960,NL,,C
+1008315,Willie Mays,mayswi01,Gold Glove,1960,NL,,CF
+1009085,Wally Moon,moonwa01,Gold Glove,1960,NL,,LF
+1005184,Harvey Haddix,haddiha01,Gold Glove,1960,NL,,P
+1000001,Hank Aaron,aaronha01,Gold Glove,1960,NL,,RF
+1000512,Ernie Banks,bankser01,Gold Glove,1960,NL,,SS
+1005075,Dick Groat,groatdi01,Lou Gehrig Memorial Award,1960,ML,,
+1008110,Roger Maris,marisro01,Most Valuable Player,1960,AL,,
+1005075,Dick Groat,groatdi01,Most Valuable Player,1960,NL,,
+1005329,Ron Hansen,hansero02,Rookie of the Year,1960,AL,,
+1006080,Frank Howard,howarfr01,Rookie of the Year,1960,NL,,
+1012043,Bill Skowron,skowrbi01,TSN All-Star,1960,ML,,1B
+1008316,Bill Mazeroski,mazerbi01,TSN All-Star,1960,ML,,2B
+1008236,Eddie Mathews,matheed01,TSN All-Star,1960,ML,,3B
+1002729,Del Crandall,crandde01,TSN All-Star,1960,ML,,C
+1008110,Roger Maris,marisro01,TSN All-Star,1960,ML,,OF
+1008315,Willie Mays,mayswi01,TSN All-Star,1960,ML,,OF
+1008984,Minnie Minoso,minosmi01,TSN All-Star,1960,ML,,OF
+1001463,Ernie Broglio,brogler01,TSN All-Star,1960,ML,,P
+1007410,Vern Law,lawve01,TSN All-Star,1960,ML,,P
+1012299,Warren Spahn,spahnwa01,TSN All-Star,1960,ML,,P
+1000512,Ernie Banks,bankser01,TSN All-Star,1960,ML,,SS
+1004232,Mike Fornieles,fornimi01,TSN Fireman of the Year,1960,AL,,
+1008441,Lindy McDaniel,mcdanli01,TSN Fireman of the Year,1960,NL,,
+1008316,Bill Mazeroski,mazerbi01,TSN Major League Player of the Year,1960,ML,,
+1003841,Chuck Estrada,estrach01,TSN Pitcher of the Year,1960,AL,,
+1007410,Vern Law,lawve01,TSN Pitcher of the Year,1960,NL,,
+1008110,Roger Maris,marisro01,TSN Player of the Year,1960,AL,,
+1005075,Dick Groat,groatdi01,TSN Player of the Year,1960,NL,,
+1010903,Bobby Richardson,richabo01,World Series MVP,1960,ML,,

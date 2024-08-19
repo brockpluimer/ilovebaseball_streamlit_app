@@ -1,0 +1,60 @@
+IDfg,Name,playerID,awardID,yearID,lgID,tie,notes
+1007957,Bill Madlock,madlobi01,All-Star Game MVP,1975,ML,Y,
+1008246,Jon Matlack,matlajo01,All-Star Game MVP,1975,ML,Y,
+1013054,Luis Tiant,tiantlu01,Babe Ruth Award,1975,AL,,P
+1009973,Jim Palmer,palmeji01,Cy Young Award,1975,AL,,
+1011708,Tom Seaver,seaveto01,Cy Young Award,1975,NL,,
+1011682,George Scott,scottge02,Gold Glove,1975,AL,,1B
+1005033,Bobby Grich,grichbo01,Gold Glove,1975,AL,,2B
+1011055,Brooks Robinson,robinbr01,Gold Glove,1975,AL,,3B
+1009334,Thurman Munson,munsoth01,Gold Glove,1975,AL,,C
+1001031,Paul Blair,blairpa01,Gold Glove,1975,AL,,OF
+1007872,Fred Lynn,lynnfr01,Gold Glove,1975,AL,,OF
+1011283,Joe Rudi,rudijo01,Gold Glove,1975,AL,,OF
+1006660,Jim Kaat,kaatji01,Gold Glove,1975,AL,,P
+1000786,Mark Belanger,belanma01,Gold Glove,1975,AL,,SS
+1004557,Steve Garvey,garvest01,Gold Glove,1975,NL,,1B
+1009178,Joe Morgan,morgajo02,Gold Glove,1975,NL,,2B
+1010823,Ken Reitz,reitzke01,Gold Glove,1975,NL,,3B
+1000826,Johnny Bench,benchjo01,Gold Glove,1975,NL,,C
+1002100,Cesar Cedeno,cedence01,Gold Glove,1975,NL,,OF
+1004639,Cesar Geronimo,geronce01,Gold Glove,1975,NL,,OF
+1007948,Garry Maddox,maddoga01,Gold Glove,1975,NL,,OF
+1008799,Andy Messersmith,messean01,Gold Glove,1975,NL,,P
+1002494,Dave Concepcion,conceda01,Gold Glove,1975,NL,,SS
+1009616,Gary Nolan,nolanga01,Hutch Award,1975,ML,,
+1000826,Johnny Bench,benchjo01,Lou Gehrig Memorial Award,1975,ML,,
+1007872,Fred Lynn,lynnfr01,Most Valuable Player,1975,AL,,
+1009178,Joe Morgan,morgajo02,Most Valuable Player,1975,NL,,
+1001458,Lou Brock,brocklo01,Roberto Clemente Award,1975,ML,,
+1007872,Fred Lynn,lynnfr01,Rookie of the Year,1975,AL,,
+1009065,John Montefusco,montejo01,Rookie of the Year,1975,NL,,
+1008289,John Mayberry,maybejo01,TSN All-Star,1975,AL,,1B
+1001942,Rod Carew,carewro01,TSN All-Star,1975,AL,,2B
+1009517,Graig Nettles,nettlgr01,TSN All-Star,1975,AL,,3B
+1009334,Thurman Munson,munsoth01,TSN All-Star,1975,AL,,C
+1006038,Willie Horton,hortowi01,TSN All-Star,1975,AL,,DH
+1006660,Jim Kaat,kaatji01,TSN All-Star,1975,AL,,LHP
+1006308,Reggie Jackson,jacksre01,TSN All-Star,1975,AL,,OF
+1007872,Fred Lynn,lynnfr01,TSN All-Star,1975,AL,,OF
+1010897,Jim Rice,riceji01,TSN All-Star,1975,AL,,OF
+1009973,Jim Palmer,palmeji01,TSN All-Star,1975,AL,,RHP
+1005384,Toby Harrah,harrato01,TSN All-Star,1975,AL,,SS
+1004557,Steve Garvey,garvest01,TSN All-Star,1975,NL,,1B
+1009178,Joe Morgan,morgajo02,TSN All-Star,1975,NL,,2B
+1007957,Bill Madlock,madlobi01,TSN All-Star,1975,NL,,3B
+1000826,Johnny Bench,benchjo01,TSN All-Star,1975,NL,,C
+1006582,Randy Jones,jonesra01,TSN All-Star,1975,NL,,LHP
+1007855,Greg Luzinski,luzingr01,TSN All-Star,1975,NL,,OF
+1009773,Al Oliver,oliveal01,TSN All-Star,1975,NL,,OF
+1010000,Dave Parker,parkeda01,TSN All-Star,1975,NL,,OF
+1011708,Tom Seaver,seaveto01,TSN All-Star,1975,NL,,RHP
+1001243,Larry Bowa,bowala01,TSN All-Star,1975,NL,,SS
+1004894,Rich Gossage,gossari01,TSN Fireman of the Year,1975,AL,,
+1006116,Al Hrabosky,hraboal01,TSN Fireman of the Year,1975,NL,,
+1009178,Joe Morgan,morgajo02,TSN Major League Player of the Year,1975,ML,,
+1009973,Jim Palmer,palmeji01,TSN Pitcher of the Year,1975,AL,,
+1011708,Tom Seaver,seaveto01,TSN Pitcher of the Year,1975,NL,,
+1007872,Fred Lynn,lynnfr01,TSN Player of the Year,1975,AL,,
+1009178,Joe Morgan,morgajo02,TSN Player of the Year,1975,NL,,
+1011217,Pete Rose,rosepe01,World Series MVP,1975,ML,,

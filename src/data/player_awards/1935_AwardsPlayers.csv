@@ -1,0 +1,51 @@
+IDfg,Name,playerID,awardID,yearID,lgID,tie,notes
+1004996,Hank Greenberg,greenha01,Baseball Magazine All-Star,1935,AL,,1B
+1004596,Charlie Gehringer,gehrich01,Baseball Magazine All-Star,1935,AL,,2B
+1005793,Pinky Higgins,higgipi01,Baseball Magazine All-Star,1935,AL,,3B
+1002384,Mickey Cochrane,cochrmi01,Baseball Magazine All-Star,1935,AL,,C
+1002727,Doc Cramer,cramedo01,Baseball Magazine All-Star,1935,AL,,CF
+1013456,Joe Vosmik,vosmijo01,Baseball Magazine All-Star,1935,AL,,LF
+1001421,Tommy Bridges,bridgto01,Baseball Magazine All-Star,1935,AL,,P1
+1004010,Wes Ferrell,ferrewe01,Baseball Magazine All-Star,1935,AL,,P2
+1005339,Mel Harder,hardeme01,Baseball Magazine All-Star,1935,AL,,P3
+1005099,Lefty Grove,grovele01,Baseball Magazine All-Star,1935,AL,,P4
+1004283,Pete Fox,foxpe01,Baseball Magazine All-Star,1935,AL,,RF
+1002796,Joe Cronin,cronijo01,Baseball Magazine All-Star,1935,AL,,SS
+1004996,Hank Greenberg,greenha01,Baseball Magazine All-Star,1935,ML,,1B
+1004596,Charlie Gehringer,gehrich01,Baseball Magazine All-Star,1935,ML,,2B
+1008189,Pepper Martin,martipe01,Baseball Magazine All-Star,1935,ML,,3B
+1002384,Mickey Cochrane,cochrmi01,Baseball Magazine All-Star,1935,ML,,C
+1000875,Wally Berger,bergewa01,Baseball Magazine All-Star,1935,ML,,CF
+1008719,Joe Medwick,medwijo01,Baseball Magazine All-Star,1935,ML,,LF
+1003106,Dizzy Dean,deandi01,Baseball Magazine All-Star,1935,ML,,P1
+1004010,Wes Ferrell,ferrewe01,Baseball Magazine All-Star,1935,ML,,P2
+1006123,Carl Hubbell,hubbeca01,Baseball Magazine All-Star,1935,ML,,P3
+1001421,Tommy Bridges,bridgto01,Baseball Magazine All-Star,1935,ML,,P4
+1009904,Mel Ott,ottme01,Baseball Magazine All-Star,1935,ML,,RF
+1013377,Arky Vaughan,vaughar01,Baseball Magazine All-Star,1935,ML,,SS
+1012927,Bill Terry,terrybi01,Baseball Magazine All-Star,1935,NL,,1B
+1005692,Billy Herman,hermabi01,Baseball Magazine All-Star,1935,NL,,2B
+1008189,Pepper Martin,martipe01,Baseball Magazine All-Star,1935,NL,,3B
+1005458,Gabby Hartnett,hartnga01,Baseball Magazine All-Star,1935,NL,,C
+1000875,Wally Berger,bergewa01,Baseball Magazine All-Star,1935,NL,,CF
+1008719,Joe Medwick,medwijo01,Baseball Magazine All-Star,1935,NL,,LF
+1003106,Dizzy Dean,deandi01,Baseball Magazine All-Star,1935,NL,,P1
+1006123,Carl Hubbell,hubbeca01,Baseball Magazine All-Star,1935,NL,,P2
+1013637,Lon Warneke,warnelo01,Baseball Magazine All-Star,1935,NL,,P3
+1003224,Paul Derringer,derripa01,Baseball Magazine All-Star,1935,NL,,P4
+1009904,Mel Ott,ottme01,Baseball Magazine All-Star,1935,NL,,RF
+1013377,Arky Vaughan,vaughar01,Baseball Magazine All-Star,1935,NL,,SS
+1004996,Hank Greenberg,greenha01,Most Valuable Player,1935,AL,,
+1005458,Gabby Hartnett,hartnga01,Most Valuable Player,1935,NL,,
+1004996,Hank Greenberg,greenha01,TSN All-Star,1935,ML,,1B
+1004596,Charlie Gehringer,gehrich01,TSN All-Star,1935,ML,,2B
+1008189,Pepper Martin,martipe01,TSN All-Star,1935,ML,,3B
+1002384,Mickey Cochrane,cochrmi01,TSN All-Star,1935,ML,,C
+1002727,Doc Cramer,cramedo01,TSN All-Star,1935,ML,,OF
+1008719,Joe Medwick,medwijo01,TSN All-Star,1935,ML,,OF
+1009904,Mel Ott,ottme01,TSN All-Star,1935,ML,,OF
+1003106,Dizzy Dean,deandi01,TSN All-Star,1935,ML,,P
+1006123,Carl Hubbell,hubbeca01,TSN All-Star,1935,ML,,P
+1013377,Arky Vaughan,vaughar01,TSN All-Star,1935,ML,,SS
+1004996,Hank Greenberg,greenha01,TSN Guide MVP,1935,AL,,
+1013377,Arky Vaughan,vaughar01,TSN Guide MVP,1935,NL,,

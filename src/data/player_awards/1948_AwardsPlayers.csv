@@ -1,0 +1,51 @@
+IDfg,Name,playerID,awardID,yearID,lgID,tie,notes
+1003902.0,Ferris Fain,fainfe01,Baseball Magazine All-Star,1948,AL,,1B
+1004874.0,Joe Gordon,gordojo01,Baseball Magazine All-Star,1948,AL,,2B
+1006783.0,George Kell,kellge01,Baseball Magazine All-Star,1948,AL,,3B
+1012898.0,Birdie Tebbetts,tebbebi01,Baseball Magazine All-Star,1948,AL,,C
+1003311.0,Joe DiMaggio,dimagjo01,Baseball Magazine All-Star,1948,AL,,CF
+1014040.0,Ted Williams,willite01,Baseball Magazine All-Star,1948,AL,,LF
+1007517.0,Bob Lemon,lemonbo01,Baseball Magazine All-Star,1948,AL,,P1
+1009535.0,Hal Newhouser,newhoha01,Baseball Magazine All-Star,1948,AL,,P2
+1010702.0,Vic Raschi,raschvi01,Baseball Magazine All-Star,1948,AL,,P3
+1005664.0,Tommy Henrich,henrito01,Baseball Magazine All-Star,1948,AL,,RF
+1001234.0,Lou Boudreau,boudrlo01,Baseball Magazine All-Star,1948,AL,,SS
+1009014.0,Johnny Mize,mizejo01,Baseball Magazine All-Star,1948,ML,,1B
+1004874.0,Joe Gordon,gordojo01,Baseball Magazine All-Star,1948,ML,,2B
+1009948.0,Andy Pafko,pafkoan01,Baseball Magazine All-Star,1948,ML,,3B
+1012898.0,Birdie Tebbetts,tebbebi01,Baseball Magazine All-Star,1948,ML,,C
+1003311.0,Joe DiMaggio,dimagjo01,Baseball Magazine All-Star,1948,ML,,CF
+1014040.0,Ted Williams,willite01,Baseball Magazine All-Star,1948,ML,,LF
+1007517.0,Bob Lemon,lemonbo01,Baseball Magazine All-Star,1948,ML,,P1
+1011373.0,Johnny Sain,sainjo01,Baseball Magazine All-Star,1948,ML,,P2
+1009535.0,Hal Newhouser,newhoha01,Baseball Magazine All-Star,1948,ML,,P3
+1009405.0,Stan Musial,musiast01,Baseball Magazine All-Star,1948,ML,,RF
+1001234.0,Lou Boudreau,boudrlo01,Baseball Magazine All-Star,1948,ML,,SS
+1009014.0,Johnny Mize,mizejo01,Baseball Magazine All-Star,1948,NL,,1B
+1011070.0,Jackie Robinson,robinja02,Baseball Magazine All-Star,1948,NL,,2B
+1009948.0,Andy Pafko,pafkoan01,Baseball Magazine All-Star,1948,NL,,3B
+1008212.0,Phil Masi,masiph01,Baseball Magazine All-Star,1948,NL,,C
+1012060.0,Enos Slaughter,slaugen01,Baseball Magazine All-Star,1948,NL,,CF
+1006923.0,Ralph Kiner,kinerra01,Baseball Magazine All-Star,1948,NL,,LF
+1011373.0,Johnny Sain,sainjo01,Baseball Magazine All-Star,1948,NL,,P1
+1011585.0,Johnny Schmitz,schmijo01,Baseball Magazine All-Star,1948,NL,,P2
+1001375.0,Harry Brecheen,brechha01,Baseball Magazine All-Star,1948,NL,,P3
+1009405.0,Stan Musial,musiast01,Baseball Magazine All-Star,1948,NL,,RF
+1001234.0,Lou Boudreau,boudrlo01,Most Valuable Player,1948,AL,,
+1009405.0,Stan Musial,musiast01,Most Valuable Player,1948,NL,,
+1009014.0,Johnny Mize,mizejo01,TSN All-Star,1948,ML,,1B
+1004874.0,Joe Gordon,gordojo01,TSN All-Star,1948,ML,,2B
+1003733.0,Bob Elliott,elliobo01,TSN All-Star,1948,ML,,3B
+1012898.0,Birdie Tebbetts,tebbebi01,TSN All-Star,1948,ML,,C
+1003311.0,Joe DiMaggio,dimagjo01,TSN All-Star,1948,ML,,OF
+1009405.0,Stan Musial,musiast01,TSN All-Star,1948,ML,,OF
+1014040.0,Ted Williams,willite01,TSN All-Star,1948,ML,,OF
+1001375.0,Harry Brecheen,brechha01,TSN All-Star,1948,ML,,P
+1007517.0,Bob Lemon,lemonbo01,TSN All-Star,1948,ML,,P
+1011373.0,Johnny Sain,sainjo01,TSN All-Star,1948,ML,,P
+1001234.0,Lou Boudreau,boudrlo01,TSN All-Star,1948,ML,,SS
+1001234.0,Lou Boudreau,boudrlo01,TSN Major League Player of the Year,1948,ML,,
+1007517.0,Bob Lemon,lemonbo01,TSN Pitcher of the Year,1948,AL,,
+1011373.0,Johnny Sain,sainjo01,TSN Pitcher of the Year,1948,NL,,
+1001234.0,Lou Boudreau,boudrlo01,TSN Player of the Year,1948,AL,,
+1009405.0,Stan Musial,musiast01,TSN Player of the Year,1948,NL,,

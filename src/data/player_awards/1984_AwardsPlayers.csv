@@ -1,0 +1,81 @@
+IDfg,Name,playerID,awardID,yearID,lgID,tie,notes
+1004669,Kirk Gibson,gibsoki01,ALCS MVP,1984,AL,,
+1002015,Gary Carter,cartega01,All-Star Game MVP,1984,ML,,
+1009211,Jack Morris,morrija02,Babe Ruth Award,1984,AL,,P
+1005714,Willie Hernandez,hernawi01,Cy Young Award,1984,AL,,
+1012734,Rick Sutcliffe,sutclri01,Cy Young Award,1984,NL,,
+1009386,Eddie Murray,murraed02,Gold Glove,1984,AL,,1B
+1013846,Lou Whitaker,whitalo01,Gold Glove,1984,AL,,2B
+1000799,Buddy Bell,bellbu01,Gold Glove,1984,AL,,3B
+1010021,Lance Parrish,parrila02,Gold Glove,1984,AL,,C
+1003865,Dwight Evans,evansdw01,Gold Glove,1984,AL,,OF
+1009359,Dwayne Murphy,murphdw01,Gold Glove,1984,AL,,OF
+1014127,Dave Winfield,winfida01,Gold Glove,1984,AL,,OF
+1005124,Ron Guidry,guidrro01,Gold Glove,1984,AL,,P
+1013157,Alan Trammell,trammal01,Gold Glove,1984,AL,,SS
+1005706,Keith Hernandez,hernake01,Gold Glove,1984,NL,,1B
+1011411,Ryne Sandberg,sandbry01,Gold Glove,1984,NL,,2B
+1011586,Mike Schmidt,schmimi01,Gold Glove,1984,NL,,3B
+1010153,Tony Pena,penato01,Gold Glove,1984,NL,,C
+1003091,Andre Dawson,dawsoan01,Gold Glove,1984,NL,,OF
+1003220,Bob Dernier,dernibo01,Gold Glove,1984,NL,,OF
+1009355,Dale Murphy,murphda05,Gold Glove,1984,NL,,OF
+1000266,Joaquin Andujar,andujjo01,Gold Glove,1984,NL,,P
+1012186,Ozzie Smith,smithoz01,Gold Glove,1984,NL,,SS
+1011061,Don Robinson,robindo01,Hutch Award,1984,ML,,
+1004557,Steve Garvey,garvest01,Lou Gehrig Memorial Award,1984,ML,,
+1005714,Willie Hernandez,hernawi01,Most Valuable Player,1984,AL,,
+1011411,Ryne Sandberg,sandbry01,Most Valuable Player,1984,NL,,
+1004557,Steve Garvey,garvest01,NLCS MVP,1984,NL,,
+1005124,Ron Guidry,guidrro01,Roberto Clemente Award,1984,ML,,
+1010622,Dan Quisenberry,quiseda01,Reliever of the Year Award,1984,AL,,
+1012743,Bruce Sutter,suttebr01,Reliever of the Year Award,1984,NL,,
+1003033,Alvin Davis,davisal01,Rookie of the Year,1984,AL,,
+1004852,Dwight Gooden,goodedw01,Rookie of the Year,1984,NL,,
+1009386,Eddie Murray,murraed02,Silver Slugger,1984,AL,,1B
+1013846,Lou Whitaker,whitalo01,Silver Slugger,1984,AL,,2B
+1000799,Buddy Bell,bellbu01,Silver Slugger,1984,AL,,3B
+1010021,Lance Parrish,parrila02,Silver Slugger,1984,AL,,C
+1013037,Andre Thornton,thornan01,Silver Slugger,1984,AL,,DH
+1000305,Tony Armas,armasto01,Silver Slugger,1984,AL,,OF
+1010897,Jim Rice,riceji01,Silver Slugger,1984,AL,,OF
+1014127,Dave Winfield,winfida01,Silver Slugger,1984,AL,,OF
+1010978,Cal Ripken,ripkeca01,Silver Slugger,1984,AL,,SS
+1005706,Keith Hernandez,hernake01,Silver Slugger,1984,NL,,1B
+1011411,Ryne Sandberg,sandbry01,Silver Slugger,1984,NL,,2B
+1011586,Mike Schmidt,schmimi01,Silver Slugger,1984,NL,,3B
+1002015,Gary Carter,cartega01,Silver Slugger,1984,NL,,C
+1002841,Jose Cruz,cruzjo01,Silver Slugger,1984,NL,,OF
+1005166,Tony Gwynn,gwynnto01,Silver Slugger,1984,NL,,OF
+1009355,Dale Murphy,murphda05,Silver Slugger,1984,NL,,OF
+1010887,Rick Rhoden,rhoderi01,Silver Slugger,1984,NL,,P
+1012909,Garry Templeton,templga01,Silver Slugger,1984,NL,,SS
+1008261,Don Mattingly,mattido01,TSN All-Star,1984,AL,,1B
+1013846,Lou Whitaker,whitalo01,TSN All-Star,1984,AL,,2B
+1000799,Buddy Bell,bellbu01,TSN All-Star,1984,AL,,3B
+1010021,Lance Parrish,parrila02,TSN All-Star,1984,AL,,C
+1006939,Dave Kingman,kingmda01,TSN All-Star,1984,AL,,DH
+1005714,Willie Hernandez,hernawi01,TSN All-Star,1984,AL,,LHP
+1000305,Tony Armas,armasto01,TSN All-Star,1984,AL,,OF
+1003865,Dwight Evans,evansdw01,TSN All-Star,1984,AL,,OF
+1014127,Dave Winfield,winfida01,TSN All-Star,1984,AL,,OF
+1001111,Mike Boddicker,boddimi01,TSN All-Star,1984,AL,,RHP
+1010978,Cal Ripken,ripkeca01,TSN All-Star,1984,AL,,SS
+1005706,Keith Hernandez,hernake01,TSN All-Star,1984,NL,,1B
+1011411,Ryne Sandberg,sandbry01,TSN All-Star,1984,NL,,2B
+1011586,Mike Schmidt,schmimi01,TSN All-Star,1984,NL,,3B
+1002015,Gary Carter,cartega01,TSN All-Star,1984,NL,,C
+1013052,Mark Thurmond,thurmma01,TSN All-Star,1984,NL,,LHP
+1002841,Jose Cruz,cruzjo01,TSN All-Star,1984,NL,,OF
+1005166,Tony Gwynn,gwynnto01,TSN All-Star,1984,NL,,OF
+1009355,Dale Murphy,murphda05,TSN All-Star,1984,NL,,OF
+1012734,Rick Sutcliffe,sutclri01,TSN All-Star,1984,NL,,RHP
+1012186,Ozzie Smith,smithoz01,TSN All-Star,1984,NL,,SS
+1010622,Dan Quisenberry,quiseda01,TSN Fireman of the Year,1984,AL,,
+1012743,Bruce Sutter,suttebr01,TSN Fireman of the Year,1984,NL,,
+1011411,Ryne Sandberg,sandbry01,TSN Major League Player of the Year,1984,ML,,
+1005714,Willie Hernandez,hernawi01,TSN Pitcher of the Year,1984,AL,,
+1012734,Rick Sutcliffe,sutclri01,TSN Pitcher of the Year,1984,NL,,
+1008261,Don Mattingly,mattido01,TSN Player of the Year,1984,AL,,
+1011411,Ryne Sandberg,sandbry01,TSN Player of the Year,1984,NL,,
+1013157,Alan Trammell,trammal01,World Series MVP,1984,ML,,

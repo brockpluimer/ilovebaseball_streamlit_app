@@ -1,0 +1,53 @@
+IDfg,Name,playerID,awardID,yearID,lgID,tie,notes
+1004227.0,Whitey Ford,fordwh01,Babe Ruth Award,1961,AL,,P
+1004227.0,Whitey Ford,fordwh01,Cy Young Award,1961,ML,,
+1010506.0,Vic Power,powervi01,Gold Glove,1961,AL,,1B
+1010903.0,Bobby Richardson,richabo01,Gold Glove,1961,AL,,2B
+1011055.0,Brooks Robinson,robinbr01,Gold Glove,1961,AL,,3B
+1000670.0,Earl Battey,batteea01,Gold Glove,1961,AL,,C
+1006678.0,Al Kaline,kalinal01,Gold Glove,1961,AL,,OF
+1007296.0,Jim Landis,landiji01,Gold Glove,1961,AL,,OF
+1010340.0,Jim Piersall,piersji01,Gold Glove,1961,AL,,OF
+1007364.0,Frank Lary,laryfr01,Gold Glove,1961,AL,,P
+1000278.0,Luis Aparicio,aparilu01,Gold Glove,1961,AL,,SS
+1013855.0,Bill White,whitebi03,Gold Glove,1961,NL,,1B
+1008316.0,Bill Mazeroski,mazerbi01,Gold Glove,1961,NL,,2B
+1001283.0,Ken Boyer,boyerke01,Gold Glove,1961,NL,,3B
+1002340.0,Roberto Clemente,clemero01,Gold Glove,1961,NL,,OF
+1008315.0,Willie Mays,mayswi01,Gold Glove,1961,NL,,OF
+1010360.0,Vada Pinson,pinsova01,Gold Glove,1961,NL,,OF
+1011804.0,Bobby Shantz,shantbo01,Gold Glove,1961,NL,,P
+1014053.0,Maury Wills,willsma01,Gold Glove,1961,NL,,SS
+1012299.0,Warren Spahn,spahnwa01,Lou Gehrig Memorial Award,1961,ML,,
+1008110.0,Roger Maris,marisro01,Most Valuable Player,1961,AL,,
+1011066.0,Frank Robinson,robinfr02,Most Valuable Player,1961,NL,,
+1011657.0,Don Schwall,schwado01,Rookie of the Year,1961,AL,,
+1013975.0,Billy Williams,willibi01,Rookie of the Year,1961,NL,,
+1002043.0,Norm Cash,cashno01,TSN All-Star,1961,AL,,1B
+1010903.0,Bobby Richardson,richabo01,TSN All-Star,1961,AL,,2B
+1011055.0,Brooks Robinson,robinbr01,TSN All-Star,1961,AL,,3B
+1006079.0,Elston Howard,howarel01,TSN All-Star,1961,AL,,C
+1002404.0,Rocky Colavito,colavro01,TSN All-Star,1961,AL,,OF
+1008082.0,Mickey Mantle,mantlmi01,TSN All-Star,1961,AL,,OF
+1008110.0,Roger Maris,marisro01,TSN All-Star,1961,AL,,OF
+1004227.0,Whitey Ford,fordwh01,TSN All-Star,1961,AL,,P
+1007364.0,Frank Lary,laryfr01,TSN All-Star,1961,AL,,P
+1007188.0,Tony Kubek,kubekto01,TSN All-Star,1961,AL,,SS
+1002103.0,Orlando Cepeda,cepedor01,TSN All-Star,1961,NL,,1B
+1001147.0,Frank Bolling,bollifr01,TSN All-Star,1961,NL,,2B
+1001283.0,Ken Boyer,boyerke01,TSN All-Star,1961,NL,,3B
+1001665.0,Smoky Burgess,burgesm01,TSN All-Star,1961,NL,,C
+1002340.0,Roberto Clemente,clemero01,TSN All-Star,1961,NL,,OF
+1008315.0,Willie Mays,mayswi01,TSN All-Star,1961,NL,,OF
+1011066.0,Frank Robinson,robinfr02,TSN All-Star,1961,NL,,OF
+1006373.0,Joey Jay,jayjo01,TSN All-Star,1961,NL,,P
+1012299.0,Warren Spahn,spahnwa01,TSN All-Star,1961,NL,,P
+1014053.0,Maury Wills,willsma01,TSN All-Star,1961,NL,,SS
+1000328.0,Luis Arroyo,arroylu01,TSN Fireman of the Year,1961,AL,,
+1008935.0,Stu Miller,millest01,TSN Fireman of the Year,1961,NL,,
+1008110.0,Roger Maris,marisro01,TSN Major League Player of the Year,1961,ML,,
+1004227.0,Whitey Ford,fordwh01,TSN Pitcher of the Year,1961,AL,,
+1012299.0,Warren Spahn,spahnwa01,TSN Pitcher of the Year,1961,NL,,
+1008110.0,Roger Maris,marisro01,TSN Player of the Year,1961,AL,,
+1011066.0,Frank Robinson,robinfr02,TSN Player of the Year,1961,NL,,
+1004227.0,Whitey Ford,fordwh01,World Series MVP,1961,ML,,

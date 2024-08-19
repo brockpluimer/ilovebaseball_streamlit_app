@@ -1,0 +1,50 @@
+IDfg,Name,playerID,awardID,yearID,lgID,tie,notes
+1001708,George Burns,burnsge02,Baseball Magazine All-Star,1926,AL,,1B
+1002451,Eddie Collins,collied01,Baseball Magazine All-Star,1926,AL,,2B
+1006683,Willie Kamm,kammwi01,Baseball Magazine All-Star,1926,AL,,3B
+1011290,Muddy Ruel,ruelmu01,Baseball Magazine All-Star,1926,AL,,C
+1008089,Heinie Manush,manushe01,Baseball Magazine All-Star,1926,AL,,OF
+1009255,Johnny Mostil,mostijo01,Baseball Magazine All-Star,1926,AL,,OF
+1011327,Babe Ruth,ruthba01,Baseball Magazine All-Star,1926,AL,,OF
+1013266,George Uhle,uhlege01,Baseball Magazine All-Star,1926,AL,,P1
+1010161,Herb Pennock,pennohe01,Baseball Magazine All-Star,1926,AL,,P2
+1007887,Ted Lyons,lyonste01,Baseball Magazine All-Star,1926,AL,,P3
+1005099,Lefty Grove,grovele01,Baseball Magazine All-Star,1926,AL,,P4
+1011766,Joe Sewell,seweljo01,Baseball Magazine All-Star,1926,AL,,SS
+1001708,George Burns,burnsge02,Baseball Magazine All-Star,1926,ML,,1B
+1006030,Rogers Hornsby,hornsro01,Baseball Magazine All-Star,1926,ML,,2B
+1013165,Pie Traynor,traynpi01,Baseball Magazine All-Star,1926,ML,,3B
+1012126,Earl Smith,smithea02,Baseball Magazine All-Star,1926,ML,,C
+1002914,Kiki Cuyler,cuyleki01,Baseball Magazine All-Star,1926,ML,,OF
+1009255,Johnny Mostil,mostijo01,Baseball Magazine All-Star,1926,ML,,OF
+1011327,Babe Ruth,ruthba01,Baseball Magazine All-Star,1926,ML,,OF
+1013266,George Uhle,uhlege01,Baseball Magazine All-Star,1926,ML,,P1
+1007156,Ray Kremer,kremera01,Baseball Magazine All-Star,1926,ML,,P2
+1010161,Herb Pennock,pennohe01,Baseball Magazine All-Star,1926,ML,,P3
+1007887,Ted Lyons,lyonste01,Baseball Magazine All-Star,1926,ML,,P4
+1000503,Dave Bancroft,bancrda01,Baseball Magazine All-Star,1926,ML,,SS
+1006799,George Kelly,kellyge01,Baseball Magazine All-Star,1926,NL,,1B
+1006030,Rogers Hornsby,hornsro01,Baseball Magazine All-Star,1926,NL,,2B
+1013165,Pie Traynor,traynpi01,Baseball Magazine All-Star,1926,NL,,3B
+1012126,Earl Smith,smithea02,Baseball Magazine All-Star,1926,NL,,C
+1002914,Kiki Cuyler,cuyleki01,Baseball Magazine All-Star,1926,NL,,OF
+1011247,Edd Roush,roushed01,Baseball Magazine All-Star,1926,NL,,OF
+1014083,Hack Wilson,wilsoha01,Baseball Magazine All-Star,1926,NL,,OF
+1007156,Ray Kremer,kremera01,Baseball Magazine All-Star,1926,NL,,P1
+1008313,Carl Mays,maysca01,Baseball Magazine All-Star,1926,NL,,P2
+1001961,Hal Carlson,carlsha01,Baseball Magazine All-Star,1926,NL,,P3
+1010257,Jesse Petty,pettyje01,Baseball Magazine All-Star,1926,NL,,P4
+1000503,Dave Bancroft,bancrda01,Baseball Magazine All-Star,1926,NL,,SS
+1001708,George Burns,burnsge02,Most Valuable Player,1926,AL,,
+1009740,Bob O'Farrell,ofarrbo01,Most Valuable Player,1926,NL,,
+1001708,George Burns,burnsge02,TSN All-Star,1926,ML,,1B
+1006030,Rogers Hornsby,hornsro01,TSN All-Star,1926,ML,,2B
+1013165,Pie Traynor,traynpi01,TSN All-Star,1926,ML,,3B
+1009740,Bob O'Farrell,ofarrbo01,TSN All-Star,1926,ML,,C
+1004893,Goose Goslin,gosligo01,TSN All-Star,1926,ML,,OF
+1009255,Johnny Mostil,mostijo01,TSN All-Star,1926,ML,,OF
+1011327,Babe Ruth,ruthba01,TSN All-Star,1926,ML,,OF
+1000128,Pete Alexander,alexape01,TSN All-Star,1926,ML,,P
+1010161,Herb Pennock,pennohe01,TSN All-Star,1926,ML,,P
+1013266,George Uhle,uhlege01,TSN All-Star,1926,ML,,P
+1011766,Joe Sewell,seweljo01,TSN All-Star,1926,ML,,SS

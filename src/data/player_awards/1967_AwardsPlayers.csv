@@ -1,0 +1,57 @@
+IDfg,Name,playerID,awardID,yearID,lgID,tie,notes
+1010188.0,Tony Perez,perezto01,All-Star Game MVP,1967,ML,,
+1001458.0,Lou Brock,brocklo01,Babe Ruth Award,1967,NL,,OF
+1007724.0,Jim Lonborg,lonboji01,Cy Young Award,1967,AL,,
+1008420.0,Mike McCormick,mccormi03,Cy Young Award,1967,NL,,
+1011682.0,George Scott,scottge02,Gold Glove,1967,AL,,1B
+1007049.0,Bobby Knoop,knoopbo01,Gold Glove,1967,AL,,2B
+1011055.0,Brooks Robinson,robinbr01,Gold Glove,1967,AL,,3B
+1004315.0,Bill Freehan,freehbi01,Gold Glove,1967,AL,,C
+1001031.0,Paul Blair,blairpa01,Gold Glove,1967,AL,,OF
+1006678.0,Al Kaline,kalinal01,Gold Glove,1967,AL,,OF
+1014326.0,Carl Yastrzemski,yastrca01,Gold Glove,1967,AL,,OF
+1006660.0,Jim Kaat,kaatji01,Gold Glove,1967,AL,,P
+1004330.0,Jim Fregosi,fregoji01,Gold Glove,1967,AL,,SS
+1010009.0,Wes Parker,parkewe01,Gold Glove,1967,NL,,1B
+1008316.0,Bill Mazeroski,mazerbi01,Gold Glove,1967,NL,,2B
+1011447.0,Ron Santo,santoro01,Gold Glove,1967,NL,,3B
+1006189.0,Randy Hundley,hundlra01,Gold Glove,1967,NL,,C
+1002340.0,Roberto Clemente,clemero01,Gold Glove,1967,NL,,OF
+1004165.0,Curt Flood,floodcu01,Gold Glove,1967,NL,,OF
+1008315.0,Willie Mays,mayswi01,Gold Glove,1967,NL,,OF
+1004662.0,Bob Gibson,gibsobo01,Gold Glove,1967,NL,,P
+1000160.0,Gene Alley,alleyge01,Gold Glove,1967,NL,,SS
+1014326.0,Carl Yastrzemski,yastrca01,Hutch Award,1967,ML,,
+1000512.0,Ernie Banks,bankser01,Lou Gehrig Memorial Award,1967,ML,,
+1014326.0,Carl Yastrzemski,yastrca01,Most Valuable Player,1967,AL,,
+1002103.0,Orlando Cepeda,cepedor01,Most Valuable Player,1967,NL,,
+1001942.0,Rod Carew,carewro01,Rookie of the Year,1967,AL,,
+1011708.0,Tom Seaver,seaveto01,Rookie of the Year,1967,NL,,
+1014326.0,Carl Yastrzemski,yastrca01,Triple Crown,1967,AL,,
+1006905.0,Harmon Killebrew,killeha01,TSN All-Star,1967,AL,,1B
+1001942.0,Rod Carew,carewro01,TSN All-Star,1967,AL,,2B
+1011055.0,Brooks Robinson,robinbr01,TSN All-Star,1967,AL,,3B
+1004315.0,Bill Freehan,freehbi01,TSN All-Star,1967,AL,,C
+1006678.0,Al Kaline,kalinal01,TSN All-Star,1967,AL,,OF
+1011066.0,Frank Robinson,robinfr02,TSN All-Star,1967,AL,,OF
+1014326.0,Carl Yastrzemski,yastrca01,TSN All-Star,1967,AL,,OF
+1007724.0,Jim Lonborg,lonboji01,TSN All-Star,1967,AL,,P
+1014073.0,Earl Wilson,wilsoea01,TSN All-Star,1967,AL,,P
+1004330.0,Jim Fregosi,fregoji01,TSN All-Star,1967,AL,,SS
+1002103.0,Orlando Cepeda,cepedor01,TSN All-Star,1967,NL,,1B
+1008316.0,Bill Mazeroski,mazerbi01,TSN All-Star,1967,NL,,2B
+1011447.0,Ron Santo,santoro01,TSN All-Star,1967,NL,,3B
+1008378.0,Tim McCarver,mccarti01,TSN All-Star,1967,NL,,C
+1000001.0,Hank Aaron,aaronha01,TSN All-Star,1967,NL,,OF
+1002340.0,Roberto Clemente,clemero01,TSN All-Star,1967,NL,,OF
+1006388.0,Fergie Jenkins,jenkife01,TSN All-Star,1967,NL,,P
+1008420.0,Mike McCormick,mccormi03,TSN All-Star,1967,NL,,P
+1000160.0,Gene Alley,alleyge01,TSN All-Star,1967,NL,,SS
+1011154.0,Minnie Rojas,rojasmi01,TSN Fireman of the Year,1967,AL,,
+1000020.0,Ted Abernathy,abernte02,TSN Fireman of the Year,1967,NL,,
+1014326.0,Carl Yastrzemski,yastrca01,TSN Major League Player of the Year,1967,ML,,
+1007724.0,Jim Lonborg,lonboji01,TSN Pitcher of the Year,1967,AL,,
+1008420.0,Mike McCormick,mccormi03,TSN Pitcher of the Year,1967,NL,,
+1014326.0,Carl Yastrzemski,yastrca01,TSN Player of the Year,1967,AL,,
+1002103.0,Orlando Cepeda,cepedor01,TSN Player of the Year,1967,NL,,
+1004662.0,Bob Gibson,gibsobo01,World Series MVP,1967,ML,,

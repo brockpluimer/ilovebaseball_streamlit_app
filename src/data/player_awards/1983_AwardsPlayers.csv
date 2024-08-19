@@ -1,0 +1,79 @@
+IDfg,Name,playerID,awardID,yearID,lgID,tie,notes
+1001111.0,Mike Boddicker,boddimi01,ALCS MVP,1983,AL,,
+1007872.0,Fred Lynn,lynnfr01,All-Star Game MVP,1983,ML,,
+1003203.0,Rick Dempsey,dempsri01,Babe Ruth Award,1983,AL,,C
+1003210.0,John Denny,dennyjo01,Cy Young Award,1983,NL,,
+1009386.0,Eddie Murray,murraed02,Gold Glove,1983,AL,,1B
+1013846.0,Lou Whitaker,whitalo01,Gold Glove,1983,AL,,2B
+1000799.0,Buddy Bell,bellbu01,Gold Glove,1983,AL,,3B
+1010021.0,Lance Parrish,parrila02,Gold Glove,1983,AL,,C
+1003865.0,Dwight Evans,evansdw01,Gold Glove,1983,AL,,OF
+1009359.0,Dwayne Murphy,murphdw01,Gold Glove,1983,AL,,OF
+1014127.0,Dave Winfield,winfida01,Gold Glove,1983,AL,,OF
+1005124.0,Ron Guidry,guidrro01,Gold Glove,1983,AL,,P
+1013157.0,Alan Trammell,trammal01,Gold Glove,1983,AL,,SS
+1005706.0,Keith Hernandez,hernake01,Gold Glove,1983,NL,,1B
+1011411.0,Ryne Sandberg,sandbry01,Gold Glove,1983,NL,,2B
+1011586.0,Mike Schmidt,schmimi01,Gold Glove,1983,NL,,3B
+1010153.0,Tony Pena,penato01,Gold Glove,1983,NL,,C
+1003091.0,Andre Dawson,dawsoan01,Gold Glove,1983,NL,,OF
+1008513.0,Willie McGee,mcgeewi01,Gold Glove,1983,NL,,OF
+1009355.0,Dale Murphy,murphda05,Gold Glove,1983,NL,,OF
+1009583.0,Phil Niekro,niekrph01,Gold Glove,1983,NL,,P
+1012186.0,Ozzie Smith,smithoz01,Gold Glove,1983,NL,,SS
+1007043.0,Ray Knight,knighra01,Hutch Award,1983,ML,,
+1011586.0,Mike Schmidt,schmimi01,Lou Gehrig Memorial Award,1983,ML,,
+1010978.0,Cal Ripken,ripkeca01,Most Valuable Player,1983,AL,,
+1009355.0,Dale Murphy,murphda05,Most Valuable Player,1983,NL,,
+1008255.0,Gary Matthews,matthga01,NLCS MVP,1983,NL,,
+1002592.0,Cecil Cooper,coopece01,Roberto Clemente Award,1983,ML,,
+1010622.0,Dan Quisenberry,quiseda01,Reliever of the Year Award,1983,AL,,
+1005947.0,Al Holland,hollaal01,Reliever of the Year Award,1983,NL,,
+1006982.0,Ron Kittle,kittlro01,Rookie of the Year,1983,AL,,
+1012606.0,Darryl Strawberry,strawda01,Rookie of the Year,1983,NL,,
+1009386.0,Eddie Murray,murraed02,Silver Slugger,1983,AL,,1B
+1013846.0,Lou Whitaker,whitalo01,Silver Slugger,1983,AL,,2B
+1001124.0,Wade Boggs,boggswa01,Silver Slugger,1983,AL,,3B
+1010021.0,Lance Parrish,parrila02,Silver Slugger,1983,AL,,C
+1000700.0,Don Baylor,baylodo01,Silver Slugger,1983,AL,,DH
+1009238.0,Lloyd Moseby,mosebll01,Silver Slugger,1983,AL,,OF
+1010897.0,Jim Rice,riceji01,Silver Slugger,1983,AL,,OF
+1014127.0,Dave Winfield,winfida01,Silver Slugger,1983,AL,,OF
+1010978.0,Cal Ripken,ripkeca01,Silver Slugger,1983,AL,,SS
+1005642.0,George Hendrick,hendrge01,Silver Slugger,1983,NL,,1B
+1010727.0,Johnny Ray,rayjo01,Silver Slugger,1983,NL,,2B
+1011586.0,Mike Schmidt,schmimi01,Silver Slugger,1983,NL,,3B
+1006850.0,Terry Kennedy,kennete02,Silver Slugger,1983,NL,,C
+1002841.0,Jose Cruz,cruzjo01,Silver Slugger,1983,NL,,OF
+1003091.0,Andre Dawson,dawsoan01,Silver Slugger,1983,NL,,OF
+1009355.0,Dale Murphy,murphda05,Silver Slugger,1983,NL,,OF
+1013327.0,Fernando Valenzuela,valenfe01,Silver Slugger,1983,NL,,P
+1013033.0,Dickie Thon,thondi01,Silver Slugger,1983,NL,,SS
+1009386.0,Eddie Murray,murraed02,TSN All-Star,1983,AL,,1B
+1013846.0,Lou Whitaker,whitalo01,TSN All-Star,1983,AL,,2B
+1001124.0,Wade Boggs,boggswa01,TSN All-Star,1983,AL,,3B
+1004101.0,Carlton Fisk,fiskca01,TSN All-Star,1983,AL,,C
+1007855.0,Greg Luzinski,luzingr01,TSN All-Star,1983,AL,,DH
+1005124.0,Ron Guidry,guidrro01,TSN All-Star,1983,AL,,LHP
+1009238.0,Lloyd Moseby,mosebll01,TSN All-Star,1983,AL,,OF
+1010897.0,Jim Rice,riceji01,TSN All-Star,1983,AL,,OF
+1014127.0,Dave Winfield,winfida01,TSN All-Star,1983,AL,,OF
+1010978.0,Cal Ripken,ripkeca01,TSN All-Star,1983,AL,,SS
+1005642.0,George Hendrick,hendrge01,TSN All-Star,1983,NL,,1B
+1006120.0,Glenn Hubbard,hubbagl01,TSN All-Star,1983,NL,,2B
+1011586.0,Mike Schmidt,schmimi01,TSN All-Star,1983,NL,,3B
+1010153.0,Tony Pena,penato01,TSN All-Star,1983,NL,,C
+1008700.0,Larry McWilliams,mcwilla01,TSN All-Star,1983,NL,,LHP
+1003091.0,Andre Dawson,dawsoan01,TSN All-Star,1983,NL,,OF
+1009355.0,Dale Murphy,murphda05,TSN All-Star,1983,NL,,OF
+1406.0,Tim Raines,raineti01,TSN All-Star,1983,NL,,OF
+1003210.0,John Denny,dennyjo01,TSN All-Star,1983,NL,,RHP
+1013033.0,Dickie Thon,thondi01,TSN All-Star,1983,NL,,SS
+1010622.0,Dan Quisenberry,quiseda01,TSN Fireman of the Year,1983,AL,,
+1005947.0,Al Holland,hollaal01,TSN Fireman of the Year,1983,NL,Y,
+1012175.0,Lee Smith,smithle02,TSN Fireman of the Year,1983,NL,Y,
+1010978.0,Cal Ripken,ripkeca01,TSN Major League Player of the Year,1983,ML,,
+1003210.0,John Denny,dennyjo01,TSN Pitcher of the Year,1983,NL,,
+1010978.0,Cal Ripken,ripkeca01,TSN Player of the Year,1983,AL,,
+1009355.0,Dale Murphy,murphda05,TSN Player of the Year,1983,NL,,
+1003203.0,Rick Dempsey,dempsri01,World Series MVP,1983,ML,,

@@ -1,0 +1,86 @@
+IDfg,Name,playerID,awardID,yearID,lgID,tie,notes
+5417.0,Jose Altuve,altuvjo01,Lou Gehrig Memorial Award,2016,ML,,
+3473.0,Anthony Rizzo,rizzoan01,Platinum Glove,2016,NL,,
+12916.0,Francisco Lindor,lindofr01,Platinum Glove,2016,AL,,
+3516.0,Eric Hosmer,hosmeer01,All-Star Game MVP,2016,AL,,
+4930.0,Jon Lester,lestejo01,Babe Ruth Award,2016,ML,,
+8600.0,Dustin McGowan,mcgowdu01,Hutch Award,2016,ML,,
+7304.0,Salvador Perez,perezsa02,Silver Slugger,2016,AL,,C
+1744.0,Miguel Cabrera,cabremi01,Silver Slugger,2016,AL,,1B
+5417.0,Jose Altuve,altuvjo01,Silver Slugger,2016,AL,,2B
+5038.0,Josh Donaldson,donaljo02,Silver Slugger,2016,AL,,3B
+12161.0,Xander Bogaerts,bogaexa01,Silver Slugger,2016,AL,,SS
+13611.0,Mookie Betts,bettsmo01,Silver Slugger,2016,AL,,OF
+10155.0,Mike Trout,troutmi01,Silver Slugger,2016,AL,,OF
+6876.0,Mark Trumbo,trumbma01,Silver Slugger,2016,AL,,OF
+745.0,David Ortiz,ortizda01,Silver Slugger,2016,AL,,DH
+1433.0,Wilson Ramos,ramoswi01,Silver Slugger,2016,NL,,C
+3473.0,Anthony Rizzo,rizzoan01,Silver Slugger,2016,NL,,1B
+4316.0,Daniel Murphy,murphda08,Silver Slugger,2016,NL,,2B
+9777.0,Nolan Arenado,arenano01,Silver Slugger,2016,NL,,3B
+13624.0,Corey Seager,seageco01,Silver Slugger,2016,NL,,SS
+7859.0,Charlie Blackmon,blackch02,Silver Slugger,2016,NL,,OF
+13110.0,Yoenis Cespedes,cespeyo01,Silver Slugger,2016,NL,,OF
+11477.0,Christian Yelich,yelicch01,Silver Slugger,2016,NL,,OF
+4153.0,Jake Arrieta,arrieja01,Silver Slugger,2016,NL,,P
+7304.0,Salvador Perez,perezsa02,Gold Glove,2016,AL,,C
+3086.0,Mitch Moreland,morelmi01,Gold Glove,2016,AL,,1B
+6195.0,Ian Kinsler,kinslia01,Gold Glove,2016,AL,,2B
+639.0,Adrian Beltre,beltrad01,Gold Glove,2016,AL,,3B
+12916.0,Francisco Lindor,lindofr01,Gold Glove,2016,AL,,SS
+9927.0,Brett Gardner,gardnbr01,Gold Glove,2016,AL,,OF
+11038.0,Kevin Kiermaier,kiermke01,Gold Glove,2016,AL,,OF
+13611.0,Mookie Betts,bettsmo01,Gold Glove,2016,AL,,OF
+9434.0,Dallas Keuchel,keuchda01,Gold Glove,2016,AL,,P
+9166.0,Buster Posey,poseybu01,Gold Glove,2016,NL,,C
+3473.0,Anthony Rizzo,rizzoan01,Gold Glove,2016,NL,,1B
+11936.0,Joe Panik,panikjo01,Gold Glove,2016,NL,,2B
+9777.0,Nolan Arenado,arenano01,Gold Glove,2016,NL,,3B
+5343.0,Brandon Crawford,crawfbr01,Gold Glove,2016,NL,,SS
+9241.0,Starling Marte,martest01,Gold Glove,2016,NL,,OF
+4922.0,Ender Inciarte,inciaen01,Gold Glove,2016,NL,,OF
+4940.0,Jason Heyward,heywaja01,Gold Glove,2016,NL,,OF
+1943.0,Zack Greinke,greinza01,Gold Glove,2016,NL,,P
+10155.0,Mike Trout,troutmi01,Most Valuable Player,2016,AL,,
+15429.0,Kris Bryant,bryankr01,Most Valuable Player,2016,NL,,
+2717.0,Rick Porcello,porceri01,Cy Young Award,2016,AL,,
+3137.0,Max Scherzer,scherma01,Cy Young Award,2016,NL,,
+13218.0,Michael Fulmer,fulmemi01,Rookie of the Year,2016,AL,,
+13624.0,Corey Seager,seageco01,Rookie of the Year,2016,NL,,Unanimous
+4747.0,Curtis Granderson,grandcu01,Roberto Clemente Award,2016,ML,,
+745.0,David Ortiz,ortizda01,Hank Aaron Award,2016,AL,,DH
+15429.0,Kris Bryant,bryankr01,Hank Aaron Award,2016,NL,,3B
+7435.0,Ben Zobrist,zobribe01,World Series MVP,2016,ML,,
+6785.0,Andrew Miller,millean01,ALCS MVP,2016,AL,,
+12979.0,Javier Baez,baezja01,NLCS MVP,2016,NL,Y,Co-MVP
+4930.0,Jon Lester,lestejo01,NLCS MVP,2016,NL,Y,Co-MVP
+2717.0,Rick Porcello,porceri01,Comeback Player of the Year,2016,AL,,
+12861.0,Anthony Rendon,rendoan01,Comeback Player of the Year,2016,NL,,
+745.0,David Ortiz,ortizda01,Outstanding DH Award,2016,AL,,
+3240.0,Zack Britton,brittza01,Reliever of the Year Award,2016,AL,,
+3096.0,Kenley Jansen,janseke01,Reliever of the Year Award,2016,NL,,
+5417.0,Jose Altuve,altuvjo01,TSN Major League Player of the Year,2016,ML,,
+3240.0,Zack Britton,brittza01,TSN Reliever of the Year,2016,AL,,
+2429.0,Corey Kluber,klubeco01,TSN Pitcher of the Year,2016,AL,,
+3096.0,Kenley Jansen,janseke01,TSN Reliever of the Year,2016,NL,,
+3137.0,Max Scherzer,scherma01,TSN Pitcher of the Year,2016,NL,,
+9166.0,Buster Posey,poseybu01,TSN All-Star,2016,NL,,C
+5361.0,Freddie Freeman,freemfr01,TSN All-Star,2016,NL,,1B
+4316.0,Daniel Murphy,murphda08,TSN All-Star,2016,NL,,2B
+13624.0,Corey Seager,seageco01,TSN All-Star,2016,NL,,SS
+15429.0,Kris Bryant,bryankr01,TSN All-Star,2016,NL,,3B
+11477.0,Christian Yelich,yelicch01,TSN All-Star,2016,NL,,OF
+13110.0,Yoenis Cespedes,cespeyo01,TSN All-Star,2016,NL,,OF
+9241.0,Starling Marte,martest01,TSN All-Star,2016,NL,,OF
+3137.0,Max Scherzer,scherma01,TSN All-Star,2016,NL,,SP
+3096.0,Kenley Jansen,janseke01,TSN All-Star,2016,NL,,RP
+7304.0,Salvador Perez,perezsa02,TSN All-Star,2016,AL,,C
+1744.0,Miguel Cabrera,cabremi01,TSN All-Star,2016,AL,,1B
+5417.0,Jose Altuve,altuvjo01,TSN All-Star,2016,AL,,2B
+12916.0,Francisco Lindor,lindofr01,TSN All-Star,2016,AL,,SS
+5038.0,Josh Donaldson,donaljo02,TSN All-Star,2016,AL,,3B
+10155.0,Mike Trout,troutmi01,TSN All-Star,2016,AL,,OF
+13611.0,Mookie Betts,bettsmo01,TSN All-Star,2016,AL,,OF
+745.0,David Ortiz,ortizda01,TSN All-Star,2016,AL,,DH
+2429.0,Corey Kluber,klubeco01,TSN All-Star,2016,AL,,SP
+3240.0,Zack Britton,brittza01,TSN All-Star,2016,AL,,RP

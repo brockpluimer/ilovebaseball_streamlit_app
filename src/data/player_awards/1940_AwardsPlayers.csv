@@ -1,0 +1,50 @@
+IDfg,Name,playerID,awardID,yearID,lgID,tie,notes
+1004285,Jimmie Foxx,foxxji01,Baseball Magazine All-Star,1940,AL,,1B
+1004874,Joe Gordon,gordojo01,Baseball Magazine All-Star,1940,AL,,2B
+1002352,Harlond Clift,cliftha01,Baseball Magazine All-Star,1940,AL,,3B
+1005526,Frankie Hayes,hayesfr01,Baseball Magazine All-Star,1940,AL,,C
+1003311,Joe DiMaggio,dimagjo01,Baseball Magazine All-Star,1940,AL,,CF
+1004996,Hank Greenberg,greenha01,Baseball Magazine All-Star,1940,AL,,LF
+1003975,Bob Feller,fellebo01,Baseball Magazine All-Star,1940,AL,,P1
+1009546,Bobo Newsom,newsobo01,Baseball Magazine All-Star,1940,AL,,P2
+1006768,Charlie Keller,kellech01,Baseball Magazine All-Star,1940,AL,,RF
+1000284,Luke Appling,applilu01,Baseball Magazine All-Star,1940,AL,,SS
+1009014,Johnny Mize,mizejo01,Baseball Magazine All-Star,1940,ML,,1B
+1004874,Joe Gordon,gordojo01,Baseball Magazine All-Star,1940,ML,,2B
+1002352,Harlond Clift,cliftha01,Baseball Magazine All-Star,1940,ML,,3B
+1002978,Harry Danning,danniha01,Baseball Magazine All-Star,1940,ML,,C
+1003311,Joe DiMaggio,dimagjo01,Baseball Magazine All-Star,1940,ML,,CF
+1004996,Hank Greenberg,greenha01,Baseball Magazine All-Star,1940,ML,,LF
+1003975,Bob Feller,fellebo01,Baseball Magazine All-Star,1940,ML,,P1
+1013583,Bucky Walters,waltebu01,Baseball Magazine All-Star,1940,ML,,P2
+1009546,Bobo Newsom,newsobo01,Baseball Magazine All-Star,1940,ML,,P3
+1003224,Paul Derringer,derripa01,Baseball Magazine All-Star,1940,ML,,P4
+1009554,Bill Nicholson,nichobi01,Baseball Magazine All-Star,1940,ML,,RF
+1000284,Luke Appling,applilu01,Baseball Magazine All-Star,1940,ML,,SS
+1009014,Johnny Mize,mizejo01,Baseball Magazine All-Star,1940,NL,,1B
+1005692,Billy Herman,hermabi01,Baseball Magazine All-Star,1940,NL,,2B
+1013783,Billy Werber,werbebi01,Baseball Magazine All-Star,1940,NL,,3B
+1002978,Harry Danning,danniha01,Baseball Magazine All-Star,1940,NL,,C
+1007490,Hank Leiber,leibeha01,Baseball Magazine All-Star,1940,NL,,CF
+1008719,Joe Medwick,medwijo01,Baseball Magazine All-Star,1940,NL,,LF
+1013583,Bucky Walters,waltebu01,Baseball Magazine All-Star,1940,NL,,P1
+1003224,Paul Derringer,derripa01,Baseball Magazine All-Star,1940,NL,,P2
+1009554,Bill Nicholson,nichobi01,Baseball Magazine All-Star,1940,NL,,RF
+1008892,Eddie Miller,milleed03,Baseball Magazine All-Star,1940,NL,,SS
+1004996,Hank Greenberg,greenha01,Most Valuable Player,1940,AL,,
+1008413,Frank McCormick,mccorfr01,Most Valuable Player,1940,NL,,
+1003975,Bob Feller,fellebo01,Pitching Triple Crown,1940,AL,,
+1008413,Frank McCormick,mccorfr01,TSN All-Star,1940,ML,,1B
+1004874,Joe Gordon,gordojo01,TSN All-Star,1940,ML,,2B
+1005183,Stan Hack,hackst01,TSN All-Star,1940,ML,,3B
+1002978,Harry Danning,danniha01,TSN All-Star,1940,ML,,C
+1003311,Joe DiMaggio,dimagjo01,TSN All-Star,1940,ML,,OF
+1004996,Hank Greenberg,greenha01,TSN All-Star,1940,ML,,OF
+1014040,Ted Williams,willite01,TSN All-Star,1940,ML,,OF
+1003224,Paul Derringer,derripa01,TSN All-Star,1940,ML,,P
+1003975,Bob Feller,fellebo01,TSN All-Star,1940,ML,,P
+1013583,Bucky Walters,waltebu01,TSN All-Star,1940,ML,,P
+1000284,Luke Appling,applilu01,TSN All-Star,1940,ML,,SS
+1004996,Hank Greenberg,greenha01,TSN Guide MVP,1940,AL,,
+1008413,Frank McCormick,mccorfr01,TSN Guide MVP,1940,NL,,
+1003975,Bob Feller,fellebo01,TSN Major League Player of the Year,1940,ML,,

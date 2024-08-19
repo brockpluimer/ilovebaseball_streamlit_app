@@ -1,0 +1,55 @@
+IDfg,Name,playerID,awardID,yearID,lgID,tie,notes
+1004285.0,Jimmie Foxx,foxxji01,Baseball Magazine All-Star,1941,AL,,1B
+1004874.0,Joe Gordon,gordojo01,Baseball Magazine All-Star,1941,AL,,2B
+1012808.0,Jim Tabor,taborji01,Baseball Magazine All-Star,1941,AL,,3B
+1003271.0,Bill Dickey,dickebi01,Baseball Magazine All-Star,1941,AL,,C
+1003311.0,Joe DiMaggio,dimagjo01,Baseball Magazine All-Star,1941,AL,,CF
+1014040.0,Ted Williams,willite01,Baseball Magazine All-Star,1941,AL,,LF
+1003975.0,Bob Feller,fellebo01,Baseball Magazine All-Star,1941,AL,,P1
+1007468.0,Thornton Lee,leeth01,Baseball Magazine All-Star,1941,AL,,P2
+1011296.0,Red Ruffing,ruffire01,Baseball Magazine All-Star,1941,AL,,P3
+1009547.0,Dick Newsome,newsodi01,Baseball Magazine All-Star,1941,AL,,P4
+1007533.0,Dutch Leonard,leonadu02,Baseball Magazine All-Star,1941,AL,,P5
+1005560.0,Jeff Heath,heathje01,Baseball Magazine All-Star,1941,AL,,RF
+1013162.0,Cecil Travis,travice01,Baseball Magazine All-Star,1941,AL,,SS
+1001860.0,Dolph Camilli,camildo01,Baseball Magazine All-Star,1941,ML,,1B
+1004874.0,Joe Gordon,gordojo01,Baseball Magazine All-Star,1941,ML,,2B
+1001528.0,Jimmy Brown,brownji03,Baseball Magazine All-Star,1941,ML,,3B
+1003271.0,Bill Dickey,dickebi01,Baseball Magazine All-Star,1941,ML,,C
+1003311.0,Joe DiMaggio,dimagjo01,Baseball Magazine All-Star,1941,ML,,CF
+1014040.0,Ted Williams,willite01,Baseball Magazine All-Star,1941,ML,,LF
+1003975.0,Bob Feller,fellebo01,Baseball Magazine All-Star,1941,ML,,P1
+1014304.0,Whit Wyatt,wyattwh01,Baseball Magazine All-Star,1941,ML,,P2
+1007468.0,Thornton Lee,leeth01,Baseball Magazine All-Star,1941,ML,,P3
+1013871.0,Ernie White,whiteer01,Baseball Magazine All-Star,1941,ML,,P4
+1010946.0,Elmer Riddle,riddlel01,Baseball Magazine All-Star,1941,ML,,P5
+1005560.0,Jeff Heath,heathje01,Baseball Magazine All-Star,1941,ML,,RF
+1013162.0,Cecil Travis,travice01,Baseball Magazine All-Star,1941,ML,,SS
+1001860.0,Dolph Camilli,camildo01,Baseball Magazine All-Star,1941,NL,,1B
+1001528.0,Jimmy Brown,brownji03,Baseball Magazine All-Star,1941,NL,,3B
+1007751.0,Al Lopez,lopezal01,Baseball Magazine All-Star,1941,NL,,C
+1010814.0,Pete Reiser,reisepe01,Baseball Magazine All-Star,1941,NL,,CF
+1008719.0,Joe Medwick,medwijo01,Baseball Magazine All-Star,1941,NL,,LF
+1014304.0,Whit Wyatt,wyattwh01,Baseball Magazine All-Star,1941,NL,,P1
+1010946.0,Elmer Riddle,riddlel01,Baseball Magazine All-Star,1941,NL,,P2
+1013871.0,Ernie White,whiteer01,Baseball Magazine All-Star,1941,NL,,P3
+1005782.0,Kirby Higbe,higbeki01,Baseball Magazine All-Star,1941,NL,,P4
+1013637.0,Lon Warneke,warnelo01,Baseball Magazine All-Star,1941,NL,,P5
+1012060.0,Enos Slaughter,slaugen01,Baseball Magazine All-Star,1941,NL,,RF
+1006653.0,Billy Jurges,jurgebi01,Baseball Magazine All-Star,1941,NL,,SS
+1003311.0,Joe DiMaggio,dimagjo01,Most Valuable Player,1941,AL,,
+1001860.0,Dolph Camilli,camildo01,Most Valuable Player,1941,NL,,
+1001860.0,Dolph Camilli,camildo01,TSN All-Star,1941,ML,,1B
+1004874.0,Joe Gordon,gordojo01,TSN All-Star,1941,ML,,2B
+1005183.0,Stan Hack,hackst01,TSN All-Star,1941,ML,,3B
+1003271.0,Bill Dickey,dickebi01,TSN All-Star,1941,ML,,C
+1003311.0,Joe DiMaggio,dimagjo01,TSN All-Star,1941,ML,,OF
+1010814.0,Pete Reiser,reisepe01,TSN All-Star,1941,ML,,OF
+1014040.0,Ted Williams,willite01,TSN All-Star,1941,ML,,OF
+1003975.0,Bob Feller,fellebo01,TSN All-Star,1941,ML,,P
+1007468.0,Thornton Lee,leeth01,TSN All-Star,1941,ML,,P
+1014304.0,Whit Wyatt,wyattwh01,TSN All-Star,1941,ML,,P
+1013162.0,Cecil Travis,travice01,TSN All-Star,1941,ML,,SS
+1003311.0,Joe DiMaggio,dimagjo01,TSN Guide MVP,1941,AL,,
+1001860.0,Dolph Camilli,camildo01,TSN Guide MVP,1941,NL,,
+1014040.0,Ted Williams,willite01,TSN Major League Player of the Year,1941,ML,,

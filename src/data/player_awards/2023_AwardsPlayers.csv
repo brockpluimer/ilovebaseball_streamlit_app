@@ -1,0 +1,88 @@
+IDfg,Name,playerID,awardID,yearID,lgID,tie,notes
+19755.0,Shohei Ohtani,ohtansh01,Most Valuable Player,2023,AL,,
+13613.0,Ketel Marte,marteke01,NLCS MVP,2023,NL,,
+19755.0,Shohei Ohtani,ohtansh01,Outstanding DH Award,2023,ML,,
+19950.0,Andres Gimenez,gimenan01,Platinum Glove,2023,AL,,
+798.0,Fernando Tatis,tatisfe02,Platinum Glove,2023,NL,,
+21534.0,Cal Raleigh,raleica01,TSN All-Star,2023,AL,Y,C
+20503.0,William Contreras,contrwi02,TSN All-Star,2023,NL,Y,C
+26288.0,Adley Rutschman,rutscad01,TSN All-Star,2023,AL,Y,C
+19352.0,Sean Murphy,murphse01,TSN All-Star,2023,NL,Y,C
+8048.0,Will Smith,smithwi05,TSN All-Star,2023,NL,Y,C
+11579.0,Bryce Harper,harpebr03,TSN All-Star,2023,NL,,DH
+19755.0,Shohei Ohtani,ohtansh01,TSN All-Star,2023,AL,,DH
+15998.0,Cody Bellinger,bellico01,TSN All-Star,2023,NL,Y,OF
+20123.0,Juan Soto,sotoju01,TSN All-Star,2023,NL,Y,OF
+23697.0,Julio Rodriguez,rodriju01,TSN All-Star,2023,AL,,OF
+18345.0,Kyle Tucker,tuckeky01,TSN All-Star,2023,AL,,OF
+13611.0,Mookie Betts,bettsmo01,TSN All-Star,2023,NL,,OF
+20043.0,Luis Robert,roberlu01,TSN All-Star,2023,AL,,OF
+15816.0,Devin Williams,willide03,TSN All-Star,2023,NL,,RP
+20666.0,Felix Bautista,bautife01,TSN All-Star,2023,AL,,RP
+13543.0,Blake Snell,snellbl01,TSN All-Star,2023,NL,,SP
+13125.0,Gerrit Cole,colege01,TSN All-Star,2023,AL,,SP
+13624.0,Corey Seager,seageco01,TSN All-Star,2023,AL,,SS
+18360.0,Austin Riley,rileyau01,TSN All-Star,2023,NL,,SS
+13543.0,Blake Snell,snellbl01,TSN Pitcher of the Year,2023,NL,,
+13125.0,Gerrit Cole,colege01,TSN Pitcher of the Year,2023,AL,,
+15816.0,Devin Williams,willide03,TSN Reliever of the Year,2023,NL,,
+20666.0,Felix Bautista,bautife01,TSN Reliever of the Year,2023,AL,,
+13624.0,Corey Seager,seageco01,World Series MVP,2023,ML,,
+19287.0,Adolis Garcia,garciad02,ALCS MVP,2023,AL,,
+11680.0,Elias Diaz,diazel01,All-Star Game MVP,2023,NL,,
+15816.0,Devin Williams,willide03,Reliever of the Year Award,2023,NL,,
+20666.0,Felix Bautista,bautife01,Reliever of the Year Award,2023,AL,,
+15640.0,Aaron Judge,judgeaa01,Roberto Clemente Award,2023,ML,,
+25878.0,Corbin Carroll,carroco02,Rookie of the Year,2023,NL,,
+26289.0,Gunnar Henderson,hendegu01,Rookie of the Year,2023,AL,,
+16578.0,Yandy Diaz,diazya01,Silver Slugger,2023,AL,,1B
+14344.0,Matt Olson,olsonma02,Silver Slugger,2023,NL,,1B
+18568.0,Luis Arraez,arraelu01,Silver Slugger,2023,NL,,2B
+12533.0,Marcus Semien,semiema01,Silver Slugger,2023,AL,,2B
+17350.0,Rafael Devers,deverra01,Silver Slugger,2023,AL,,3B
+18360.0,Austin Riley,rileyau01,Silver Slugger,2023,NL,,3B
+20503.0,William Contreras,contrwi02,Silver Slugger,2023,NL,,C
+26288.0,Adley Rutschman,rutscad01,Silver Slugger,2023,AL,,C
+11579.0,Bryce Harper,harpebr03,Silver Slugger,2023,NL,,DH
+19755.0,Shohei Ohtani,ohtansh01,Silver Slugger,2023,AL,,DH
+13611.0,Mookie Betts,bettsmo01,Silver Slugger,2023,NL,,OF
+20043.0,Luis Robert,roberlu01,Silver Slugger,2023,AL,,OF
+23697.0,Julio Rodriguez,rodriju01,Silver Slugger,2023,AL,,OF
+20123.0,Juan Soto,sotoju01,Silver Slugger,2023,NL,,OF
+18345.0,Kyle Tucker,tuckeky01,Silver Slugger,2023,AL,,OF
+12916.0,Francisco Lindor,lindofr01,Silver Slugger,2023,NL,,SS
+13624.0,Corey Seager,seageco01,Silver Slugger,2023,AL,,SS
+15998.0,Cody Bellinger,bellico01,Silver Slugger,2023,NL,,UT
+26289.0,Gunnar Henderson,hendegu01,Silver Slugger,2023,AL,,UT
+16578.0,Yandy Diaz,diazya01,TSN All-Star,2023,AL,,1B
+5361.0,Freddie Freeman,freemfr01,TSN All-Star,2023,NL,,1B
+16556.0,Ozzie Albies,albieoz01,TSN All-Star,2023,NL,,2B
+12533.0,Marcus Semien,semiema01,TSN All-Star,2023,AL,,2B
+13510.0,Jose Ramirez,ramirjo01,TSN All-Star,2023,AL,,3B
+18314.0,Dansby Swanson,swansda01,TSN All-Star,2023,NL,,3B
+19287.0,Adolis Garcia,garciad02,Babe Ruth Award,2023,ML,,
+15998.0,Cody Bellinger,bellico01,Comeback Player of the Year,2023,NL,,
+3548.0,Liam Hendriks,hendrli01,Comeback Player of the Year,2023,AL,,
+13543.0,Blake Snell,snellbl01,Cy Young Award,2023,NL,,
+13125.0,Gerrit Cole,colege01,Cy Young Award,2023,AL,,
+19566.0,Nathaniel Lowe,lowena01,Gold Glove,2023,AL,,1B
+13419.0,Christian Walker,walkech02,Gold Glove,2023,NL,,1B
+19950.0,Andres Gimenez,gimenan01,Gold Glove,2023,AL,,2B
+21479.0,Nico Hoerner,hoernni01,Gold Glove,2023,NL,,2B
+16505.0,Matt Chapman,chapmma01,Gold Glove,2023,AL,,3B
+18577.0,Ke'Bryan Hayes,hayeske01,Gold Glove,2023,NL,,3B
+16930.0,Jonah Heim,heimjo01,Gold Glove,2023,AL,,C
+22664.0,Gabriel Moreno,morenga01,Gold Glove,2023,NL,,C
+25479.0,Brenton Doyle,doylebr02,Gold Glove,2023,NL,,OF
+19287.0,Adolis Garcia,garciad02,Gold Glove,2023,AL,,OF
+17919.0,Ian Happ,happia01,Gold Glove,2023,NL,,OF
+11038.0,Kevin Kiermaier,kiermke01,Gold Glove,2023,AL,,OF
+24610.0,Steven Kwan,kwanst01,Gold Glove,2023,AL,,OF
+798.0,Fernando Tatis,tatisfe02,Gold Glove,2023,NL,,OF
+14168.0,Jose Berrios,berrijo01,Gold Glove,2023,AL,,P
+10310.0,Zack Wheeler,wheelza01,Gold Glove,2023,NL,,P
+18314.0,Dansby Swanson,swansda01,Gold Glove,2023,NL,,SS
+27647.0,Anthony Volpe,volpean01,Gold Glove,2023,AL,,SS
+16530.0,Mauricio Dubon,dubonma01,Gold Glove,2023,AL,,UT
+19755.0,Shohei Ohtani,ohtansh01,Hank Aaron Award,2023,AL,,
+9218.0,Paul Goldschmidt,goldspa01,Lou Gehrig Memorial Award,2023,ML,,

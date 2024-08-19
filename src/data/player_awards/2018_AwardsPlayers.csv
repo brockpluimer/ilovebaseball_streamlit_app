@@ -1,0 +1,77 @@
+IDfg,Name,playerID,awardID,yearID,lgID,tie,notes
+2429.0,Corey Kluber,klubeco01,Lou Gehrig Memorial Award,2018,ML,,
+13611.0,Mookie Betts,bettsmo01,TSN Major League Player of the Year,2018,ML,,
+10603.0,Chris Sale,salech01,TSN Pitcher of the Year,2018,AL,,
+10954.0,Jacob deGrom,degroja01,TSN Pitcher of the Year,2018,NL,,
+1003266.0,Edwin Diaz,diazed04,TSN Reliever of the Year,2018,AL,,
+14212.0,Josh Hader,haderjo01,TSN Reliever of the Year,2018,NL,,
+17678.0,Alex Bregman,bregmal01,All-Star Game MVP,2018,AL,,
+16505.0,Matt Chapman,chapmma01,Platinum Glove,2018,AL,,
+9777.0,Nolan Arenado,arenano01,Platinum Glove,2018,NL,,
+3184.0,David Price,priceda01,Babe Ruth Award,2018,ML,,
+13367.0,Stephen Piscotty,piscost01,Hutch Award,2018,ML,,
+13510.0,Jose Ramirez,ramirjo01,TSN All-Star,2018,AL,,3B
+5361.0,Freddie Freeman,freemfr01,Gold Glove,2018,NL,Y,1B
+13611.0,Mookie Betts,bettsmo01,Most Valuable Player,2018,AL,,
+11477.0,Christian Yelich,yelicch01,Most Valuable Player,2018,NL,,
+13543.0,Blake Snell,snellbl01,Cy Young Award,2018,AL,,
+10954.0,Jacob deGrom,degroja01,Cy Young Award,2018,NL,,
+19755.0,Shohei Ohtani,ohtansh01,Rookie of the Year,2018,AL,,
+7007.0,Yadier Molina,molinya01,Roberto Clemente Award,2018,ML,,
+11477.0,Christian Yelich,yelicch01,Hank Aaron Award,2018,NL,,
+7304.0,Salvador Perez,perezsa02,Silver Slugger,2018,AL,,C
+15676.0,Jose Abreu,abreujo02,Silver Slugger,2018,AL,,1B
+5417.0,Jose Altuve,altuvjo01,Silver Slugger,2018,AL,,2B
+13510.0,Jose Ramirez,ramirjo01,Silver Slugger,2018,AL,,3B
+12916.0,Francisco Lindor,lindofr01,SIlver Slugger,2018,AL,,SS
+10155.0,Mike Trout,troutmi01,Silver Slugger,2018,AL,,OF
+13611.0,Mookie Betts,bettsmo01,Silver Slugger,2018,AL,,OF
+9218.0,Paul Goldschmidt,goldspa01,Silver Slugger,2018,NL,,1B
+12979.0,Javier Baez,baezja01,Silver Slugger,2018,NL,,2B
+9777.0,Nolan Arenado,arenano01,Silver Slugger,2018,NL,,3B
+12564.0,Trevor Story,storytr01,Silver Slugger,2018,NL,,SS
+5930.0,Nick Markakis,markani01,Silver Slugger,2018,NL,,OF
+2136.0,David Peralta,peralda01,Silver Slugger,2018,NL,,OF
+11477.0,Christian Yelich,yelicch01,Silver Slugger,2018,NL,,OF
+15038.0,German Marquez,marquge01,Silver Slugger,2018,NL,,P
+7304.0,Salvador Perez,perezsa02,Gold Glove,2018,AL,,C
+14344.0,Matt Olson,olsonma02,Gold Glove,2018,AL,,1B
+6195.0,Ian Kinsler,kinslia01,Gold Glove,2018,AL,,2B
+16505.0,Matt Chapman,chapmma01,Gold Glove,2018,AL,,3B
+10847.0,Andrelton Simmons,simmoan01,Gold Glove,2018,AL,,SS
+5209.0,Alex Gordon,gordoal01,Gold Glove,2018,AL,,LF
+13611.0,Mookie Betts,bettsmo01,Gold Glove,2018,AL,,RF
+9434.0,Dallas Keuchel,keuchda01,Gold Glove,2018,AL,,P
+7007.0,Yadier Molina,molinya01,Gold Glove,2018,NL,,C
+3473.0,Anthony Rizzo,rizzoan01,Gold Glove,2018,NL,Y,1B
+9874.0,DJ LeMahieu,lemahdj01,Gold Glove,2018,NL,,2B
+9777.0,Nolan Arenado,arenano01,Gold Glove,2018,NL,,3B
+12147.0,Nick Ahmed,ahmedni01,Gold Glove,2018,NL,,SS
+10762.0,Corey Dickerson,dickeco01,Gold Glove,2018,NL,,LF
+4922.0,Ender Inciarte,inciaen01,Gold Glove,2018,NL,,CF
+5930.0,Nick Markakis,markani01,Gold Glove,2018,NL,,RF
+1943.0,Zack Greinke,greinza01,Gold Glove,2018,NL,,P
+9957.0,Steve Pearce,pearcst01,World Series MVP,2018,ML,,
+15998.0,Cody Bellinger,bellico01,NLCS MVP,2018,NL,,
+3184.0,David Price,priceda01,Comeback Player of the Year,2018,AL,,
+7175.0,Jonny Venters,ventejo01,Comeback Player of the Year,2018,NL,,
+9112.0,Khris Davis,daviskh01,Outstanding DH Award,2018,,,
+1003266.0,Edwin Diaz,diazed04,Reliever of the Year Award,2018,AL,,
+14212.0,Josh Hader,haderjo01,Reliever of the Year Award,2018,NL,,
+9627.0,Yan Gomes,gomesya01,TSN All-Star,2018,AL,,C
+14344.0,Matt Olson,olsonma02,TSN All-Star,2018,AL,,1B
+5417.0,Jose Altuve,altuvjo01,TSN All-Star,2018,AL,,2B
+12916.0,Francisco Lindor,lindofr01,TSN All-Star,2018,AL,,SS
+13611.0,Mookie Betts,bettsmo01,TSN All-Star,2018,AL,,OF
+10155.0,Mike Trout,troutmi01,TSN All-Star,2018,AL,,OF
+15640.0,Aaron Judge,judgeaa01,TSN All-Star,2018,AL,,OF
+10603.0,Chris Sale,salech01,TSN All-Star,2018,AL,,SP
+1003266.0,Edwin Diaz,diazed04,TSN All-Star,2018,AL,,RP
+5361.0,Freddie Freeman,freemfr01,TSN All-Star,2018,NL,,1B
+12979.0,Javier Baez,baezja01,TSN All-Star,2018,NL,,2B
+9777.0,Nolan Arenado,arenano01,TSN All-Star,2018,NL,,3B
+12564.0,Trevor Story,storytr01,TSN All-Star,2018,NL,,SS
+11477.0,Christian Yelich,yelicch01,TSN All-Star,2018,NL,,OF
+9077.0,Lorenzo Cain,cainlo01,TSN All-Star,2018,NL,,OF
+10954.0,Jacob deGrom,degroja01,TSN All-Star,2018,NL,,SP
+14212.0,Josh Hader,haderjo01,TSN All-Star,2018,NL,,RP

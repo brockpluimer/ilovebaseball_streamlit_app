@@ -1,0 +1,23 @@
+IDfg,Name,playerID,awardID,yearID,lgID,tie,notes
+1010406.0,Johnny Podres,podrejo01,Babe Ruth Award,1955,NL,,P
+1000898.0,Yogi Berra,berrayo01,Most Valuable Player,1955,AL,,
+1001871.0,Roy Campanella,camparo01,Most Valuable Player,1955,NL,,
+1011671.0,Herb Score,scorehe01,Rookie of the Year,1955,AL,,
+1013437.0,Bill Virdon,virdobi01,Rookie of the Year,1955,NL,,
+1007020.0,Ted Kluszewski,kluszte01,TSN All-Star,1955,ML,,1B
+1004281.0,Nellie Fox,foxne01,TSN All-Star,1955,ML,,2B
+1008236.0,Eddie Mathews,matheed01,TSN All-Star,1955,ML,,3B
+1001871.0,Roy Campanella,camparo01,TSN All-Star,1955,ML,,C
+1006678.0,Al Kaline,kalinal01,TSN All-Star,1955,ML,,OF
+1012230.0,Duke Snider,snidedu01,TSN All-Star,1955,ML,,OF
+1014040.0,Ted Williams,willite01,TSN All-Star,1955,ML,,OF
+1004227.0,Whitey Ford,fordwh01,TSN All-Star,1955,ML,,P
+1009529.0,Don Newcombe,newcodo01,TSN All-Star,1955,ML,,P
+1011046.0,Robin Roberts,roberro01,TSN All-Star,1955,ML,,P
+1000512.0,Ernie Banks,bankser01,TSN All-Star,1955,ML,,SS
+1012230.0,Duke Snider,snidedu01,TSN Major League Player of the Year,1955,ML,,
+1004227.0,Whitey Ford,fordwh01,TSN Pitcher of the Year,1955,AL,,
+1011046.0,Robin Roberts,roberro01,TSN Pitcher of the Year,1955,NL,,
+1006678.0,Al Kaline,kalinal01,TSN Player of the Year,1955,AL,,
+1012230.0,Duke Snider,snidedu01,TSN Player of the Year,1955,NL,,
+1010406.0,Johnny Podres,podrejo01,World Series MVP,1955,ML,,

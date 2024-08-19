@@ -1,0 +1,62 @@
+IDfg,Name,playerID,awardID,yearID,lgID,tie,notes
+1004557,Steve Garvey,garvest01,All-Star Game MVP,1978,ML,,
+1003212,Bucky Dent,dentbu01,Babe Ruth Award,1978,AL,,SS
+1005124,Ron Guidry,guidrro01,Cy Young Award,1978,AL,,
+1010210,Gaylord Perry,perryga01,Cy Young Award,1978,NL,,
+1002119,Chris Chambliss,chambch01,Gold Glove,1978,AL,,1B
+1013872,Frank White,whitefr01,Gold Glove,1978,AL,,2B
+1009517,Graig Nettles,nettlgr01,Gold Glove,1978,AL,,3B
+1012724,Jim Sundberg,sundbji01,Gold Glove,1978,AL,,C
+1003865,Dwight Evans,evansdw01,Gold Glove,1978,AL,,OF
+1007872,Fred Lynn,lynnfr01,Gold Glove,1978,AL,,OF
+1008928,Rick Miller,milleri01,Gold Glove,1978,AL,,OF
+1009973,Jim Palmer,palmeji01,Gold Glove,1978,AL,,P
+1000786,Mark Belanger,belanma01,Gold Glove,1978,AL,,SS
+1005706,Keith Hernandez,hernake01,Gold Glove,1978,NL,,1B
+1007750,Davey Lopes,lopesda01,Gold Glove,1978,NL,,2B
+1011586,Mike Schmidt,schmimi01,Gold Glove,1978,NL,,3B
+1001183,Bob Boone,boonebo01,Gold Glove,1978,NL,,C
+1007948,Garry Maddox,maddoga01,Gold Glove,1978,NL,,OF
+1010000,Dave Parker,parkeda01,Gold Glove,1978,NL,,OF
+1013326,Ellis Valentine,valenel01,Gold Glove,1978,NL,,OF
+1009583,Phil Niekro,niekrph01,Gold Glove,1978,NL,,P
+1001243,Larry Bowa,bowala01,Gold Glove,1978,NL,,SS
+1012426,Willie Stargell,stargwi01,Hutch Award,1978,ML,,
+1006877,Don Kessinger,kessido01,Lou Gehrig Memorial Award,1978,ML,,
+1010897,Jim Rice,riceji01,Most Valuable Player,1978,AL,,
+1010000,Dave Parker,parkeda01,Most Valuable Player,1978,NL,,
+1004557,Steve Garvey,garvest01,NLCS MVP,1978,NL,,
+1007855,Greg Luzinski,luzingr01,Roberto Clemente Award,1978,ML,,
+1004894,Rich Gossage,gossari01,Reliever of the Year Award,1978,AL,,
+1004051,Rollie Fingers,fingero01,Reliever of the Year Award,1978,NL,,
+1013846,Lou Whitaker,whitalo01,Rookie of the Year,1978,AL,,
+1006026,Bob Horner,hornebo01,Rookie of the Year,1978,NL,,
+1001942,Rod Carew,carewro01,TSN All-Star,1978,AL,,1B
+1013872,Frank White,whitefr01,TSN All-Star,1978,AL,,2B
+1009517,Graig Nettles,nettlgr01,TSN All-Star,1978,AL,,3B
+1012724,Jim Sundberg,sundbji01,TSN All-Star,1978,AL,,C
+1012440,Rusty Staub,staubru01,TSN All-Star,1978,AL,,DH
+1005124,Ron Guidry,guidrro01,TSN All-Star,1978,AL,,LHP
+1005858,Larry Hisle,hislela01,TSN All-Star,1978,AL,,OF
+1007872,Fred Lynn,lynnfr01,TSN All-Star,1978,AL,,OF
+1010897,Jim Rice,riceji01,TSN All-Star,1978,AL,,OF
+1009973,Jim Palmer,palmeji01,TSN All-Star,1978,AL,,RHP
+1014396,Robin Yount,yountro01,TSN All-Star,1978,AL,,SS
+1004557,Steve Garvey,garvest01,TSN All-Star,1978,NL,,1B
+1007750,Davey Lopes,lopesda01,TSN All-Star,1978,NL,,2B
+1011217,Pete Rose,rosepe01,TSN All-Star,1978,NL,,3B
+1011986,Ted Simmons,simmote01,TSN All-Star,1978,NL,,C
+1001094,Vida Blue,bluevi01,TSN All-Star,1978,NL,,LHP
+1002288,Jack Clark,clarkja01,TSN All-Star,1978,NL,,OF
+1004250,George Foster,fostege01,TSN All-Star,1978,NL,,OF
+1010000,Dave Parker,parkeda01,TSN All-Star,1978,NL,,OF
+1010210,Gaylord Perry,perryga01,TSN All-Star,1978,NL,,RHP
+1001243,Larry Bowa,bowala01,TSN All-Star,1978,NL,,SS
+1004894,Rich Gossage,gossari01,TSN Fireman of the Year,1978,AL,,
+1004051,Rollie Fingers,fingero01,TSN Fireman of the Year,1978,NL,,
+1005124,Ron Guidry,guidrro01,TSN Major League Player of the Year,1978,ML,,
+1005124,Ron Guidry,guidrro01,TSN Pitcher of the Year,1978,AL,,
+1001094,Vida Blue,bluevi01,TSN Pitcher of the Year,1978,NL,,
+1010897,Jim Rice,riceji01,TSN Player of the Year,1978,AL,,
+1010000,Dave Parker,parkeda01,TSN Player of the Year,1978,NL,,
+1003212,Bucky Dent,dentbu01,World Series MVP,1978,ML,,

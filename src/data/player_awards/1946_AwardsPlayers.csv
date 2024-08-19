@@ -1,0 +1,48 @@
+IDfg,Name,playerID,awardID,yearID,lgID,tie,notes
+1013416,Mickey Vernon,vernomi01,Baseball Magazine All-Star,1946,AL,,1B
+1003355,Bobby Doerr,doerrbo01,Baseball Magazine All-Star,1946,AL,,2B
+1006783,George Kell,kellge01,Baseball Magazine All-Star,1946,AL,,3B
+1011052,Aaron Robinson,robinaa01,Baseball Magazine All-Star,1946,AL,,C
+1003311,Joe DiMaggio,dimagjo01,Baseball Magazine All-Star,1946,AL,,CF
+1014040,Ted Williams,willite01,Baseball Magazine All-Star,1946,AL,,LF
+1003975,Bob Feller,fellebo01,Baseball Magazine All-Star,1946,AL,,P1
+1009535,Hal Newhouser,newhoha01,Baseball Magazine All-Star,1946,AL,,P2
+1004012,Dave Ferriss,ferrida01,Baseball Magazine All-Star,1946,AL,,P3
+1002861,Roy Cullenbine,cullero01,Baseball Magazine All-Star,1946,AL,,RF
+1001234,Lou Boudreau,boudrlo01,Baseball Magazine All-Star,1946,AL,,SS
+1009405,Stan Musial,musiast01,Baseball Magazine All-Star,1946,ML,,1B
+1003355,Bobby Doerr,doerrbo01,Baseball Magazine All-Star,1946,ML,,2B
+1007215,Whitey Kurowski,kurowwh01,Baseball Magazine All-Star,1946,ML,,3B
+1011052,Aaron Robinson,robinaa01,Baseball Magazine All-Star,1946,ML,,C
+1003311,Joe DiMaggio,dimagjo01,Baseball Magazine All-Star,1946,ML,,CF
+1014040,Ted Williams,willite01,Baseball Magazine All-Star,1946,ML,,LF
+1003975,Bob Feller,fellebo01,Baseball Magazine All-Star,1946,ML,,P1
+1009535,Hal Newhouser,newhoha01,Baseball Magazine All-Star,1946,ML,,P2
+1010423,Howie Pollet,polleho01,Baseball Magazine All-Star,1946,ML,,P3
+1012060,Enos Slaughter,slaugen01,Baseball Magazine All-Star,1946,ML,,RF
+1001234,Lou Boudreau,boudrlo01,Baseball Magazine All-Star,1946,ML,,SS
+1009405,Stan Musial,musiast01,Baseball Magazine All-Star,1946,NL,,1B
+1012406,Eddie Stanky,stanked01,Baseball Magazine All-Star,1946,NL,,2B
+1007215,Whitey Kurowski,kurowwh01,Baseball Magazine All-Star,1946,NL,,3B
+1008435,Clyde McCullough,mcculcl01,Baseball Magazine All-Star,1946,NL,,C
+1002093,Phil Cavarretta,cavarph01,Baseball Magazine All-Star,1946,NL,,CF
+1003786,Del Ennis,ennisde01,Baseball Magazine All-Star,1946,NL,,LF
+1010423,Howie Pollet,polleho01,Baseball Magazine All-Star,1946,NL,,P1
+1011373,Johnny Sain,sainjo01,Baseball Magazine All-Star,1946,NL,,P2
+1001375,Harry Brecheen,brechha01,Baseball Magazine All-Star,1946,NL,,P3
+1012060,Enos Slaughter,slaugen01,Baseball Magazine All-Star,1946,NL,,RF
+1010776,Pee Wee Reese,reesepe01,Baseball Magazine All-Star,1946,NL,,SS
+1014040,Ted Williams,willite01,Most Valuable Player,1946,AL,,
+1009405,Stan Musial,musiast01,Most Valuable Player,1946,NL,,
+1009405,Stan Musial,musiast01,TSN All-Star,1946,ML,,1B
+1003355,Bobby Doerr,doerrbo01,TSN All-Star,1946,ML,,2B
+1006783,George Kell,kellge01,TSN All-Star,1946,ML,,3B
+1011052,Aaron Robinson,robinaa01,TSN All-Star,1946,ML,,C
+1003310,Dom DiMaggio,dimagdo01,TSN All-Star,1946,ML,,OF
+1012060,Enos Slaughter,slaugen01,TSN All-Star,1946,ML,,OF
+1014040,Ted Williams,willite01,TSN All-Star,1946,ML,,OF
+1003975,Bob Feller,fellebo01,TSN All-Star,1946,ML,,P
+1004012,Dave Ferriss,ferrida01,TSN All-Star,1946,ML,,P
+1009535,Hal Newhouser,newhoha01,TSN All-Star,1946,ML,,P
+1010219,Johnny Pesky,peskyjo01,TSN All-Star,1946,ML,,SS
+1009405,Stan Musial,musiast01,TSN Major League Player of the Year,1946,ML,,

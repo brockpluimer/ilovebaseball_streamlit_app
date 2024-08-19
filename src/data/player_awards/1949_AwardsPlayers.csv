@@ -1,0 +1,56 @@
+IDfg,Name,playerID,awardID,yearID,lgID,tie,notes
+1009951,Joe Page,pagejo01,Babe Ruth Award,1949,AL,,P
+1005664,Tommy Henrich,henrito01,Baseball Magazine All-Star,1949,AL,,1B
+1008836,Cass Michaels,michaca01,Baseball Magazine All-Star,1949,AL,,2B
+1006783,George Kell,kellge01,Baseball Magazine All-Star,1949,AL,,3B
+1000898,Yogi Berra,berrayo01,Baseball Magazine All-Star,1949,AL,,C
+1003310,Dom DiMaggio,dimagdo01,Baseball Magazine All-Star,1949,AL,,CF
+1014040,Ted Williams,willite01,Baseball Magazine All-Star,1949,AL,,LF
+1010702,Vic Raschi,raschvi01,Baseball Magazine All-Star,1949,AL,,P1
+1009951,Joe Page,pagejo01,Baseball Magazine All-Star,1949,AL,,P2
+1010017,Mel Parnell,parneme01,Baseball Magazine All-Star,1949,AL,,P3
+1013795,Vic Wertz,wertzvi01,Baseball Magazine All-Star,1949,AL,,RF
+1012501,Vern Stephens,stephve01,Baseball Magazine All-Star,1949,AL,,SS
+1005664,Tommy Henrich,henrito01,Baseball Magazine All-Star,1949,ML,,1B
+1011070,Jackie Robinson,robinja02,Baseball Magazine All-Star,1949,ML,,2B
+1006783,George Kell,kellge01,Baseball Magazine All-Star,1949,ML,,3B
+1000898,Yogi Berra,berrayo01,Baseball Magazine All-Star,1949,ML,,C
+1009405,Stan Musial,musiast01,Baseball Magazine All-Star,1949,ML,,CF
+1014040,Ted Williams,willite01,Baseball Magazine All-Star,1949,ML,,LF
+1010702,Vic Raschi,raschvi01,Baseball Magazine All-Star,1949,ML,,P1
+1010423,Howie Pollet,polleho01,Baseball Magazine All-Star,1949,ML,,P2
+1012299,Warren Spahn,spahnwa01,Baseball Magazine All-Star,1949,ML,,P3
+1010017,Mel Parnell,parneme01,Baseball Magazine All-Star,1949,ML,,P4
+1013795,Vic Wertz,wertzvi01,Baseball Magazine All-Star,1949,ML,,RF
+1012501,Vern Stephens,stephve01,Baseball Magazine All-Star,1949,ML,,SS
+1005883,Gil Hodges,hodgegi01,Baseball Magazine All-Star,1949,NL,,1B
+1011070,Jackie Robinson,robinja02,Baseball Magazine All-Star,1949,NL,,2B
+1004877,Sid Gordon,gordosi01,Baseball Magazine All-Star,1949,NL,,3B
+1001871,Roy Campanella,camparo01,Baseball Magazine All-Star,1949,NL,,C
+1009405,Stan Musial,musiast01,Baseball Magazine All-Star,1949,NL,,CF
+1006923,Ralph Kiner,kinerra01,Baseball Magazine All-Star,1949,NL,,LF
+1010423,Howie Pollet,polleho01,Baseball Magazine All-Star,1949,NL,,P1
+1012299,Warren Spahn,spahnwa01,Baseball Magazine All-Star,1949,NL,,P2
+1009529,Don Newcombe,newcodo01,Baseball Magazine All-Star,1949,NL,,P3
+1012060,Enos Slaughter,slaugen01,Baseball Magazine All-Star,1949,NL,,RF
+1010776,Pee Wee Reese,reesepe01,Baseball Magazine All-Star,1949,NL,,SS
+1014040,Ted Williams,willite01,Most Valuable Player,1949,AL,,
+1011070,Jackie Robinson,robinja02,Most Valuable Player,1949,NL,,
+1011959,Roy Sievers,sievero01,Rookie of the Year,1949,AL,,
+1009529,Don Newcombe,newcodo01,Rookie of the Year,1949,NL,,
+1005664,Tommy Henrich,henrito01,TSN All-Star,1949,ML,,1B
+1011070,Jackie Robinson,robinja02,TSN All-Star,1949,ML,,2B
+1006783,George Kell,kellge01,TSN All-Star,1949,ML,,3B
+1001871,Roy Campanella,camparo01,TSN All-Star,1949,ML,,C
+1006923,Ralph Kiner,kinerra01,TSN All-Star,1949,ML,,OF
+1009405,Stan Musial,musiast01,TSN All-Star,1949,ML,,OF
+1014040,Ted Williams,willite01,TSN All-Star,1949,ML,,OF
+1006922,Ellis Kinder,kindeel01,TSN All-Star,1949,ML,,P
+1009951,Joe Page,pagejo01,TSN All-Star,1949,ML,,P
+1010017,Mel Parnell,parneme01,TSN All-Star,1949,ML,,P
+1011011,Phil Rizzuto,rizzuph01,TSN All-Star,1949,ML,,SS
+1014040,Ted Williams,willite01,TSN Major League Player of the Year,1949,ML,,
+1006922,Ellis Kinder,kindeel01,TSN Pitcher of the Year,1949,AL,,
+1010423,Howie Pollet,polleho01,TSN Pitcher of the Year,1949,NL,,
+1014040,Ted Williams,willite01,TSN Player of the Year,1949,AL,,
+1012060,Enos Slaughter,slaugen01,TSN Player of the Year,1949,NL,,

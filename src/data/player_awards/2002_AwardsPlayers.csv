@@ -1,0 +1,82 @@
+IDfg,Name,playerID,awardID,yearID,lgID,tie,notes
+19,Adam Kennedy,kennead01,ALCS MVP,2002,AL,,
+15,Troy Glaus,glaustr01,Babe Ruth Award,2002,AL,,3B
+1013324,Bobby Valentine,valenbo02,Branch Rickey Award,2002,ML,,
+944,Barry Zito,zitoba01,Cy Young Award,2002,AL,,
+60,Randy Johnson,johnsra05,Cy Young Award,2002,NL,,
+1093,John Olerud,olerujo01,Gold Glove,2002,AL,,1B
+1067,Bret Boone,boonebr01,Gold Glove,2002,AL,,2B
+906,Eric Chavez,chaveer01,Gold Glove,2002,AL,,3B
+24,Bengie Molina,molinbe01,Gold Glove,2002,AL,,C
+11,Darin Erstad,erstada01,Gold Glove,2002,AL,,OF
+731,Torii Hunter,hunteto01,Gold Glove,2002,AL,,OF
+1101,Ichiro Suzuki,suzukic01,Gold Glove,2002,AL,,OF
+1277,Kenny Rogers,rogerke01,Gold Glove,2002,AL,,P
+1274,Alex Rodriguez,rodrial01,Gold Glove,2002,AL,,SS
+432,Todd Helton,heltoto01,Gold Glove,2002,NL,,1B
+1189,Fernando Vina,vinafe01,Gold Glove,2002,NL,,2B
+970,Scott Rolen,rolensc01,Gold Glove,2002,NL,,3B
+546,Brad Ausmus,ausmubr01,Gold Glove,2002,NL,,C
+1153,Jim Edmonds,edmonji01,Gold Glove,2002,NL,,OF
+96,Andruw Jones,jonesan01,Gold Glove,2002,NL,,OF
+455,Larry Walker,walkela01,Gold Glove,2002,NL,,OF
+104,Greg Maddux,maddugr01,Gold Glove,2002,NL,,P
+1178,Edgar Renteria,renteed01,Gold Glove,2002,NL,,SS
+1274,Alex Rodriguez,rodrial01,Hank Aaron Award,2002,AL,,SS
+1109,Barry Bonds,bondsba01,Hank Aaron Award,2002,NL,,OF
+32,Tim Salmon,salmoti01,Hutch Award,2002,ML,,
+326,Danny Graves,graveda01,Lou Gehrig Memorial Award,2002,ML,,
+941,Miguel Tejada,tejadmi01,Most Valuable Player,2002,AL,,
+1109,Barry Bonds,bondsba01,Most Valuable Player,2002,NL,,
+1130,Benito Santiago,santibe01,NLCS MVP,2002,NL,,
+60,Randy Johnson,johnsra05,Pitching Triple Crown,2002,NL,,
+409,Jim Thome,thomeji01,Roberto Clemente Award,2002,ML,,
+924,Billy Koch,kochbi01,Reliever of the Year Award,2002,AL,,
+115,John Smoltz,smoltjo01,Reliever of the Year Award,2002,NL,,
+1305,Eric Hinske,hinsker01,Rookie of the Year,2002,AL,,
+434,Jason Jennings,jennija01,Rookie of the Year,2002,NL,,
+818,Jason Giambi,giambja01,Silver Slugger,2002,AL,,1B
+847,Alfonso Soriano,soriaal01,Silver Slugger,2002,AL,,2B
+906,Eric Chavez,chaveer01,Silver Slugger,2002,AL,,3B
+841,Jorge Posada,posadjo01,Silver Slugger,2002,AL,,C
+210,Manny Ramirez,ramirma02,Silver Slugger,2002,AL,,DH
+2,Garret Anderson,anderga01,Silver Slugger,2002,AL,,OF
+248,Magglio Ordonez,ordonma01,Silver Slugger,2002,AL,,OF
+1013974,Bernie Williams,willibe02,Silver Slugger,2002,AL,,OF
+1274,Alex Rodriguez,rodrial01,Silver Slugger,2002,AL,,SS
+432,Todd Helton,heltoto01,Silver Slugger,2002,NL,,1B
+1119,Jeff Kent,kentje01,Silver Slugger,2002,NL,,2B
+970,Scott Rolen,rolensc01,Silver Slugger,2002,NL,,3B
+893,Mike Piazza,piazzmi01,Silver Slugger,2002,NL,,C
+1109,Barry Bonds,bondsba01,Silver Slugger,2002,NL,,OF
+778,Vladimir Guerrero,guerrvl01,Silver Slugger,2002,NL,,OF
+302,Sammy Sosa,sosasa01,Silver Slugger,2002,NL,,OF
+430,Mike Hampton,hamptmi01,Silver Slugger,2002,NL,,P
+1178,Edgar Renteria,renteed01,Silver Slugger,2002,NL,,SS
+818,Jason Giambi,giambja01,TSN All-Star,2002,AL,,1B
+847,Alfonso Soriano,soriaal01,TSN All-Star,2002,AL,,2B
+906,Eric Chavez,chaveer01,TSN All-Star,2002,AL,,3B
+841,Jorge Posada,posadjo01,TSN All-Star,2002,AL,,C
+210,Manny Ramirez,ramirma02,TSN All-Star,2002,AL,,DH
+944,Barry Zito,zitoba01,TSN All-Star,2002,AL,,LHP
+2,Garret Anderson,anderga01,TSN All-Star,2002,AL,,OF
+731,Torii Hunter,hunteto01,TSN All-Star,2002,AL,,OF
+1013974,Bernie Williams,willibe02,TSN All-Star,2002,AL,,OF
+199,Derek Lowe,lowede01,TSN All-Star,2002,AL,,RHP
+1274,Alex Rodriguez,rodrial01,TSN All-Star,2002,AL,,SS
+432,Todd Helton,heltoto01,TSN All-Star,2002,NL,,1B
+1119,Jeff Kent,kentje01,TSN All-Star,2002,NL,,2B
+970,Scott Rolen,rolensc01,TSN All-Star,2002,NL,,3B
+893,Mike Piazza,piazzmi01,TSN All-Star,2002,NL,,C
+60,Randy Johnson,johnsra05,TSN All-Star,2002,NL,,LHP
+1109,Barry Bonds,bondsba01,TSN All-Star,2002,NL,,OF
+778,Vladimir Guerrero,guerrvl01,TSN All-Star,2002,NL,,OF
+302,Sammy Sosa,sosasa01,TSN All-Star,2002,NL,,OF
+73,Curt Schilling,schilcu01,TSN All-Star,2002,NL,,RHP
+1178,Edgar Renteria,renteed01,TSN All-Star,2002,NL,,SS
+1274,Alex Rodriguez,rodrial01,TSN Major League Player of the Year,2002,ML,,
+944,Barry Zito,zitoba01,TSN Pitcher of the Year,2002,AL,,
+73,Curt Schilling,schilcu01,TSN Pitcher of the Year,2002,NL,,
+924,Billy Koch,kochbi01,TSN Reliever of the Year,2002,AL,,
+115,John Smoltz,smoltjo01,TSN Reliever of the Year,2002,NL,,
+15,Troy Glaus,glaustr01,World Series MVP,2002,ML,,

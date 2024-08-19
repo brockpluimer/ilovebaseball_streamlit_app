@@ -1,0 +1,82 @@
+IDfg,Name,playerID,awardID,yearID,lgID,tie,notes
+1001400.0,George Brett,brettge01,ALCS MVP,1985,AL,,
+1011355.0,Bret Saberhagen,saberbr01,Babe Ruth Award,1985,AL,,P
+1011355.0,Bret Saberhagen,saberbr01,Cy Young Award,1985,AL,,
+1004852.0,Dwight Gooden,goodedw01,Cy Young Award,1985,NL,,
+1008261.0,Don Mattingly,mattido01,Gold Glove,1985,AL,,1B
+1013846.0,Lou Whitaker,whitalo01,Gold Glove,1985,AL,,2B
+1001400.0,George Brett,brettge01,Gold Glove,1985,AL,,3B
+1010021.0,Lance Parrish,parrila02,Gold Glove,1985,AL,,C
+1003865.0,Dwight Evans,evansdw01,Gold Glove,1985,AL,Y,OF
+1009359.0,Dwayne Murphy,murphdw01,Gold Glove,1985,AL,Y,OF
+1010249.0,Gary Pettis,pettiga01,Gold Glove,1985,AL,,OF
+1014127.0,Dave Winfield,winfida01,Gold Glove,1985,AL,,OF
+1005124.0,Ron Guidry,guidrro01,Gold Glove,1985,AL,,P
+1005036.0,Alfredo Griffin,griffal01,Gold Glove,1985,AL,,SS
+1005706.0,Keith Hernandez,hernake01,Gold Glove,1985,NL,,1B
+1011411.0,Ryne Sandberg,sandbry01,Gold Glove,1985,NL,,2B
+1013554.0,Tim Wallach,wallati01,Gold Glove,1985,NL,,3B
+1010153.0,Tony Pena,penato01,Gold Glove,1985,NL,,C
+1003091.0,Andre Dawson,dawsoan01,Gold Glove,1985,NL,,OF
+1008513.0,Willie McGee,mcgeewi01,Gold Glove,1985,NL,,OF
+1009355.0,Dale Murphy,murphda05,Gold Glove,1985,NL,,OF
+1010852.0,Rick Reuschel,reuscri01,Gold Glove,1985,NL,,P
+1012186.0,Ozzie Smith,smithoz01,Gold Glove,1985,NL,,SS
+1010852.0,Rick Reuschel,reuscri01,Hutch Award,1985,ML,,
+1009355.0,Dale Murphy,murphda05,Lou Gehrig Memorial Award,1985,ML,,
+1008261.0,Don Mattingly,mattido01,Most Valuable Player,1985,AL,,
+1008513.0,Willie McGee,mcgeewi01,Most Valuable Player,1985,NL,,
+1012186.0,Ozzie Smith,smithoz01,NLCS MVP,1985,NL,,
+1004852.0,Dwight Gooden,goodedw01,Pitching Triple Crown,1985,NL,,
+1000700.0,Don Baylor,baylodo01,Roberto Clemente Award,1985,ML,,
+1010622.0,Dan Quisenberry,quiseda01,Reliever of the Year Award,1985,AL,,
+1010741.0,Jeff Reardon,reardje01,Reliever of the Year Award,1985,NL,,
+1005125.0,Ozzie Guillen,guilloz01,Rookie of the Year,1985,AL,,
+1002433.0,Vince Coleman,colemvi01,Rookie of the Year,1985,NL,,
+1008261.0,Don Mattingly,mattido01,Silver Slugger,1985,AL,,1B
+1013846.0,Lou Whitaker,whitalo01,Silver Slugger,1985,AL,,2B
+1001400.0,George Brett,brettge01,Silver Slugger,1985,AL,,3B
+1004101.0,Carlton Fisk,fiskca01,Silver Slugger,1985,AL,,C
+1000700.0,Don Baylor,baylodo01,Silver Slugger,1985,AL,,DH
+1000808.0,George Bell,bellge02,Silver Slugger,1985,AL,,OF
+194.0,Rickey Henderson,henderi01,Silver Slugger,1985,AL,,OF
+1014127.0,Dave Winfield,winfida01,Silver Slugger,1985,AL,,OF
+1010978.0,Cal Ripken,ripkeca01,Silver Slugger,1985,AL,,SS
+1002288.0,Jack Clark,clarkja01,Silver Slugger,1985,NL,,1B
+1011411.0,Ryne Sandberg,sandbry01,Silver Slugger,1985,NL,,2B
+1013554.0,Tim Wallach,wallati01,Silver Slugger,1985,NL,,3B
+1002015.0,Gary Carter,cartega01,Silver Slugger,1985,NL,,C
+1008513.0,Willie McGee,mcgeewi01,Silver Slugger,1985,NL,,OF
+1009355.0,Dale Murphy,murphda05,Silver Slugger,1985,NL,,OF
+1010000.0,Dave Parker,parkeda01,Silver Slugger,1985,NL,,OF
+1010887.0,Rick Rhoden,rhoderi01,Silver Slugger,1985,NL,,P
+1001472.0,Hubie Brooks,brookhu01,Silver Slugger,1985,NL,,SS
+1008261.0,Don Mattingly,mattido01,TSN All-Star,1985,AL,,1B
+1004498.0,Damaso Garcia,garcida01,TSN All-Star,1985,AL,,2B
+1001124.0,Wade Boggs,boggswa01,TSN All-Star,1985,AL,,3B
+1004101.0,Carlton Fisk,fiskca01,TSN All-Star,1985,AL,,C
+1000700.0,Don Baylor,baylodo01,TSN All-Star,1985,AL,,DH
+1005124.0,Ron Guidry,guidrro01,TSN All-Star,1985,AL,,LHP
+1000434.0,Harold Baines,baineha01,TSN All-Star,1985,AL,,OF
+1001313.0,Phil Bradley,bradlph01,TSN All-Star,1985,AL,,OF
+194.0,Rickey Henderson,henderi01,TSN All-Star,1985,AL,,OF
+1011355.0,Bret Saberhagen,saberbr01,TSN All-Star,1985,AL,,RHP
+1010978.0,Cal Ripken,ripkeca01,TSN All-Star,1985,AL,,SS
+1005706.0,Keith Hernandez,hernake01,TSN All-Star,1985,NL,,1B
+1005737.0,Tom Herr,herrto01,TSN All-Star,1985,NL,,2B
+1013554.0,Tim Wallach,wallati01,TSN All-Star,1985,NL,,3B
+1002015.0,Gary Carter,cartega01,TSN All-Star,1985,NL,,C
+1013215.0,John Tudor,tudorjo01,TSN All-Star,1985,NL,,LHP
+1008513.0,Willie McGee,mcgeewi01,TSN All-Star,1985,NL,,OF
+1009355.0,Dale Murphy,murphda05,TSN All-Star,1985,NL,,OF
+1010000.0,Dave Parker,parkeda01,TSN All-Star,1985,NL,,OF
+1004852.0,Dwight Gooden,goodedw01,TSN All-Star,1985,NL,,RHP
+1012186.0,Ozzie Smith,smithoz01,TSN All-Star,1985,NL,,SS
+1010622.0,Dan Quisenberry,quiseda01,TSN Fireman of the Year,1985,AL,,
+1010741.0,Jeff Reardon,reardje01,TSN Fireman of the Year,1985,NL,,
+1008261.0,Don Mattingly,mattido01,TSN Major League Player of the Year,1985,ML,,
+1011355.0,Bret Saberhagen,saberbr01,TSN Pitcher of the Year,1985,AL,,
+1004852.0,Dwight Gooden,goodedw01,TSN Pitcher of the Year,1985,NL,,
+1008261.0,Don Mattingly,mattido01,TSN Player of the Year,1985,AL,,
+1008513.0,Willie McGee,mcgeewi01,TSN Player of the Year,1985,NL,,
+1011355.0,Bret Saberhagen,saberbr01,World Series MVP,1985,ML,,

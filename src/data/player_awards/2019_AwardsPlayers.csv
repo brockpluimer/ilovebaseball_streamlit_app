@@ -1,0 +1,82 @@
+IDfg,Name,playerID,awardID,yearID,lgID,tie,notes
+9166.0,Buster Posey,poseybu01,Lou Gehrig Memorial Award,2019,ML,,
+10155.0,Mike Trout,troutmi01,TSN Major League Player of the Year,2019,ML,,
+13125.0,Gerrit Cole,colege01,TSN Pitcher of the Year,2019,AL,,
+10954.0,Jacob deGrom,degroja01,TSN Pitcher of the Year,2019,NL,,
+9073.0,Kirby Yates,yateski01,TSN Reliever of the Year,2019,NL,,
+3548.0,Liam Hendriks,hendrli01,TSN Reliever of the Year,2019,AL,,
+19427.0,Shane Bieber,biebesh01,All-Star Game MVP,2019,AL,,
+16505.0,Matt Chapman,chapmma01,Platinum Glove,2019,AL,,
+9777.0,Nolan Arenado,arenano01,Platinum Glove,2019,NL,,
+20123.0,Juan Soto,sotoju01,Babe Ruth Award,2019,ML,Y,
+10131.0,Stephen Strasburg,strasst01,Babe Ruth Award,2019,ML,Y,
+8203.0,Dee Strange-Gordon,gordode01,Hutch Award,2019,ML,,
+10155.0,Mike Trout,troutmi01,Most Valuable Player,2019,AL,,
+15998.0,Cody Bellinger,bellico01,Most Valuable Player,2019,NL,,
+8700.0,Justin Verlander,verlaju01,Cy Young Award,2019,AL,,
+10954.0,Jacob deGrom,degroja01,Cy Young Award,2019,NL,,
+19556.0,Yordan Alvarez,alvaryo01,Rookie of the Year,2019,AL,,
+19251.0,Pete Alonso,alonspe01,Rookie of the Year,2019,NL,,
+6632.0,Carlos Carrasco,carraca01,Roberto Clemente Award,2019,ML,,
+10155.0,Mike Trout,troutmi01,Hank Aaron Award,2019,AL,,
+11477.0,Christian Yelich,yelicch01,Hank Aaron Award,2019,NL,,
+15161.0,Mitch Garver,garvemi01,Silver Slugger,2019,AL,,C
+2396.0,Carlos Santana,santaca01,Silver Slugger,2019,AL,,1B
+9874.0,DJ LeMahieu,lemahdj01,Silver Slugger,2019,AL,,2B
+17678.0,Alex Bregman,bregmal01,Silver Slugger,2019,AL,,3B
+12161.0,Xander Bogaerts,bogaexa01,SIlver Slugger,2019,AL,,SS
+12856.0,George Springer,springe01,Silver Slugger,2019,AL,,OF
+10155.0,Mike Trout,troutmi01,Silver Slugger,2019,AL,,OF
+13611.0,Mookie Betts,bettsmo01,Silver Slugger,2019,AL,,OF
+2434.0,Nelson Cruz,cruzne02,Silver Slugger,2019,AL,,DH
+5361.0,Freddie Freeman,freemfr01,Silver Slugger,2019,NL,,1B
+16556.0,Ozzie Albies,albieoz01,Silver Slugger,2019,NL,,2B
+12861.0,Anthony Rendon,rendoan01,Silver Slugger,2019,NL,,3B
+12564.0,Trevor Story,storytr01,Silver Slugger,2019,NL,,SS
+11477.0,Christian Yelich,yelicch01,Silver Slugger,2019,NL,,OF
+15998.0,Cody Bellinger,bellico01,Silver Slugger,2019,NL,,OF
+1943.0,Zack Greinke,greinza01,Silver Slugger,2019,NL,,P
+2900.0,Roberto Perez,perezro02,Gold Glove,2019,AL,,C
+14344.0,Matt Olson,olsonma02,Gold Glove,2019,AL,,1B
+16505.0,Matt Chapman,chapmma01,Gold Glove,2019,AL,,3B
+12916.0,Francisco Lindor,lindofr01,Gold Glove,2019,AL,,SS
+5209.0,Alex Gordon,gordoal01,Gold Glove,2019,AL,,LF
+11038.0,Kevin Kiermaier,kiermke01,Gold Glove,2019,AL,,CF
+13611.0,Mookie Betts,bettsmo01,Gold Glove,2019,AL,,RF
+10130.0,Mike Leake,leakemi01,Gold Glove,2019,AL,,P
+3473.0,Anthony Rizzo,rizzoan01,Gold Glove,2019,NL,,1B
+12532.0,Kolten Wong,wongko01,Gold Glove,2019,NL,,2B
+9777.0,Nolan Arenado,arenano01,Gold Glove,2019,NL,,3B
+12147.0,Nick Ahmed,ahmedni01,Gold Glove,2019,NL,,SS
+9077.0,Lorenzo Cain,cainlo01,Gold Glove,2019,NL,,LF
+15998.0,Cody Bellinger,bellico01,Gold Glove,2019,NL,,CF
+2136.0,David Peralta,peralda01,Gold Glove,2019,NL,,RF
+1943.0,Zack Greinke,greinza01,Gold Glove,2019,NL,,P
+10131.0,Stephen Strasburg,strasst01,World Series MVP,2019,ML,,
+5417.0,Jose Altuve,altuvjo01,ALCS MVP,2019,AL,,
+4229.0,Howie Kendrick,kendrho01,NLCS MVP,2019,NL,,
+6632.0,Carlos Carrasco,carraca01,Comeback Player of the Year,2019,AL,,
+5038.0,Josh Donaldson,donaljo02,Comeback Player of the Year,2019,NL,,
+2434.0,Nelson Cruz,cruzne02,Outstanding DH Award,2019,,,
+10233.0,Aroldis Chapman,chapmar01,Reliever of the Year Award,2019,AL,,
+14212.0,Josh Hader,haderjo01,Reliever of the Year Award,2019,NL,,
+9774.0,Christian Vazquez,vazquch01,TSN All-Star,2019,AL,,C
+14344.0,Matt Olson,olsonma02,TSN All-Star,2019,AL,Y,1B
+9874.0,DJ LeMahieu,lemahdj01,TSN All-Star,2019,AL,,2B
+12533.0,Marcus Semien,semiema01,TSN All-Star,2019,AL,,SS
+10155.0,Mike Trout,troutmi01,TSN All-Star,2019,AL,,OF
+12856.0,George Springer,springe01,TSN All-Star,2019,AL,,OF
+13611.0,Mookie Betts,bettsmo01,TSN All-Star,2019,AL,,OF
+2434.0,Nelson Cruz,cruzne02,TSN All-Star,2019,AL,,DH
+13125.0,Gerrit Cole,colege01,TSN All-Star,2019,AL,,SP
+3548.0,Liam Hendriks,hendrli01,TSN All-Star,2019,AL,,RP
+5361.0,Freddie Freeman,freemfr01,TSN All-Star,2019,NL,,1B
+13613.0,Ketel Marte,marteke01,TSN All-Star,2019,NL,,2B
+12861.0,Anthony Rendon,rendoan01,TSN All-Star,2019,NL,,3B
+12564.0,Trevor Story,storytr01,TSN All-Star,2019,NL,,SS
+15998.0,Cody Bellinger,bellico01,TSN All-Star,2019,NL,,OF
+11477.0,Christian Yelich,yelicch01,TSN All-Star,2019,NL,,OF
+10954.0,Jacob deGrom,degroja01,TSN All-Star,2019,NL,,SP
+9073.0,Kirby Yates,yateski01,TSN All-Star,2019,NL,,RP
+17678.0,Alex Bregman,bregmal01,TSN All-Star,2019,AL,,3B
+2396.0,Carlos Santana,santaca01,TSN All-Star,2019,AL,Y,1B

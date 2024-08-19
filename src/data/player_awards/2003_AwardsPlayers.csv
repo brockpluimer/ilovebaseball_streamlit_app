@@ -1,0 +1,81 @@
+IDfg,Name,playerID,awardID,yearID,lgID,tie,notes
+844.0,Mariano Rivera,riverma01,ALCS MVP,2003,AL,,
+2.0,Garret Anderson,anderga01,All-Star Game MVP,2003,ML,,
+510.0,Josh Beckett,beckejo02,Babe Ruth Award,2003,NL,,P
+1303.0,Roy Halladay,hallaro01,Cy Young Award,2003,AL,,
+650.0,Eric Gagne,gagneer01,Cy Young Award,2003,NL,,
+1093.0,John Olerud,olerujo01,Gold Glove,2003,AL,,1B
+1067.0,Bret Boone,boonebr01,Gold Glove,2003,AL,,2B
+906.0,Eric Chavez,chaveer01,Gold Glove,2003,AL,,3B
+24.0,Bengie Molina,molinbe01,Gold Glove,2003,AL,,C
+1070.0,Mike Cameron,camermi01,Gold Glove,2003,AL,,OF
+731.0,Torii Hunter,hunteto01,Gold Glove,2003,AL,,OF
+1101.0,Ichiro Suzuki,suzukic01,Gold Glove,2003,AL,,OF
+837.0,Mike Mussina,mussimi01,Gold Glove,2003,AL,,P
+1274.0,Alex Rodriguez,rodrial01,Gold Glove,2003,AL,,SS
+525.0,Derrek Lee,leede02,Gold Glove,2003,NL,,1B
+513.0,Luis Castillo,castilu01,Gold Glove,2003,NL,,2B
+970.0,Scott Rolen,rolensc01,Gold Glove,2003,NL,,3B
+1169.0,Mike Matheny,mathemi01,Gold Glove,2003,NL,,C
+1002841.0,Jose Cruz,cruzjo02,Gold Glove,2003,NL,,OF
+1153.0,Jim Edmonds,edmonji01,Gold Glove,2003,NL,,OF
+96.0,Andruw Jones,jonesan01,Gold Glove,2003,NL,,OF
+430.0,Mike Hampton,hamptmi01,Gold Glove,2003,NL,,P
+1178.0,Edgar Renteria,renteed01,Gold Glove,2003,NL,,SS
+1274.0,Alex Rodriguez,rodrial01,Hank Aaron Award,2003,AL,,
+1177.0,Albert Pujols,pujolal01,Hank Aaron Award,2003,NL,,
+1091.0,Jamie Moyer,moyerja01,Hutch Award,2003,ML,,
+1091.0,Jamie Moyer,moyerja01,Lou Gehrig Memorial Award,2003,ML,,
+1274.0,Alex Rodriguez,rodrial01,Most Valuable Player,2003,AL,,
+1109.0,Barry Bonds,bondsba01,Most Valuable Player,2003,NL,,
+1275.0,Ivan Rodriguez,rodriiv01,NLCS MVP,2003,NL,,
+1091.0,Jamie Moyer,moyerja01,Roberto Clemente Award,2003,ML,,
+231.0,Keith Foulke,foulkke01,Reliever of the Year Award,2003,AL,,
+650.0,Eric Gagne,gagneer01,Reliever of the Year Award,2003,NL,,
+591.0,Angel Berroa,berroan01,Rookie of the Year,2003,AL,,
+1703.0,Dontrelle Willis,willido03,Rookie of the Year,2003,NL,,
+1297.0,Carlos Delgado,delgaca01,Silver Slugger,2003,AL,,1B
+1067.0,Bret Boone,boonebr01,Silver Slugger,2003,AL,,2B
+295.0,Bill Mueller,muellbi02,Silver Slugger,2003,AL,,3B
+841.0,Jorge Posada,posadjo01,Silver Slugger,2003,AL,,C
+1086.0,Edgar Martinez,martied01,Silver Slugger,2003,AL,,DH
+2.0,Garret Anderson,anderga01,Silver Slugger,2003,AL,,OF
+210.0,Manny Ramirez,ramirma02,Silver Slugger,2003,AL,,OF
+1326.0,Vernon Wells,wellsve01,Silver Slugger,2003,AL,,OF
+1274.0,Alex Rodriguez,rodrial01,Silver Slugger,2003,AL,,SS
+432.0,Todd Helton,heltoto01,Silver Slugger,2003,NL,,1B
+802.0,Jose Vidro,vidrojo01,Silver Slugger,2003,NL,,2B
+527.0,Mike Lowell,lowelmi01,Silver Slugger,2003,NL,,3B
+103.0,Javy Lopez,lopezja01,Silver Slugger,2003,NL,,C
+1109.0,Barry Bonds,bondsba01,Silver Slugger,2003,NL,,OF
+1177.0,Albert Pujols,pujolal01,Silver Slugger,2003,NL,,OF
+114.0,Gary Sheffield,sheffga01,Silver Slugger,2003,NL,,OF
+430.0,Mike Hampton,hamptmi01,Silver Slugger,2003,NL,,P
+1178.0,Edgar Renteria,renteed01,Silver Slugger,2003,NL,,SS
+1297.0,Carlos Delgado,delgaca01,TSN All-Star,2003,AL,,1B
+1067.0,Bret Boone,boonebr01,TSN All-Star,2003,AL,,2B
+295.0,Bill Mueller,muellbi02,TSN All-Star,2003,AL,,3B
+841.0,Jorge Posada,posadjo01,TSN All-Star,2003,AL,,C
+1012976.0,Frank Thomas,thomafr04,TSN All-Star,2003,AL,,DH
+840.0,Andy Pettitte,pettian01,TSN All-Star,2003,AL,,LHP
+2.0,Garret Anderson,anderga01,TSN All-Star,2003,AL,,OF
+248.0,Magglio Ordonez,ordonma01,TSN All-Star,2003,AL,,OF
+1326.0,Vernon Wells,wellsve01,TSN All-Star,2003,AL,,OF
+1303.0,Roy Halladay,hallaro01,TSN All-Star,2003,AL,,RHP
+1274.0,Alex Rodriguez,rodrial01,TSN All-Star,2003,AL,,SS
+432.0,Todd Helton,heltoto01,TSN All-Star,2003,NL,,1B
+89.0,Marcus Giles,gilesma01,TSN All-Star,2003,NL,,2B
+970.0,Scott Rolen,rolensc01,TSN All-Star,2003,NL,,3B
+103.0,Javy Lopez,lopezja01,TSN All-Star,2003,NL,,C
+976.0,Randy Wolf,wolfra02,TSN All-Star,2003,NL,,LHP
+1109.0,Barry Bonds,bondsba01,TSN All-Star,2003,NL,,OF
+1177.0,Albert Pujols,pujolal01,TSN All-Star,2003,NL,,OF
+114.0,Gary Sheffield,sheffga01,TSN All-Star,2003,NL,,OF
+650.0,Eric Gagne,gagneer01,TSN All-Star,2003,NL,,RHP
+1178.0,Edgar Renteria,renteed01,TSN All-Star,2003,NL,,SS
+1177.0,Albert Pujols,pujolal01,TSN Major League Player of the Year,2003,ML,,
+1303.0,Roy Halladay,hallaro01,TSN Pitcher of the Year,2003,AL,,
+650.0,Eric Gagne,gagneer01,TSN Pitcher of the Year,2003,NL,,
+231.0,Keith Foulke,foulkke01,TSN Reliever of the Year,2003,AL,,
+650.0,Eric Gagne,gagneer01,TSN Reliever of the Year,2003,NL,,
+510.0,Josh Beckett,beckejo02,World Series MVP,2003,ML,,

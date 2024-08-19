@@ -1,0 +1,58 @@
+IDfg,Name,playerID,awardID,yearID,lgID,tie,notes
+1003848,Nick Etten,ettenni01,Baseball Magazine All-Star,1945,AL,,1B
+1012546,Snuffy Stirnweiss,stirnsn01,Baseball Magazine All-Star,1945,AL,,2B
+1002848,Tony Cuccinello,cuccito01,Baseball Magazine All-Star,1945,AL,,3B
+1010918,Paul Richards,richapa01,Baseball Magazine All-Star,1945,AL,,C
+1005560,Jeff Heath,heathje01,Baseball Magazine All-Star,1945,AL,,CF
+1004996,Hank Greenberg,greenha01,Baseball Magazine All-Star,1945,AL,,LF
+1009535,Hal Newhouser,newhoha01,Baseball Magazine All-Star,1945,AL,,P1
+1004012,Dave Ferriss,ferrida01,Baseball Magazine All-Star,1945,AL,,P2
+1005080,Steve Gromek,gromest01,Baseball Magazine All-Star,1945,AL,,P3
+1014193,Roger Wolff,wolffro01,Baseball Magazine All-Star,1945,AL,,P4
+1002861,Roy Cullenbine,cullero01,Baseball Magazine All-Star,1945,AL,,RF
+1012501,Vern Stephens,stephve01,Baseball Magazine All-Star,1945,AL,,SS
+1002093,Phil Cavarretta,cavarph01,Baseball Magazine All-Star,1945,ML,,1B
+1012546,Snuffy Stirnweiss,stirnsn01,Baseball Magazine All-Star,1945,ML,,2B
+1007215,Whitey Kurowski,kurowwh01,Baseball Magazine All-Star,1945,ML,,3B
+1010918,Paul Richards,richapa01,Baseball Magazine All-Star,1945,ML,,C
+1009948,Andy Pafko,pafkoan01,Baseball Magazine All-Star,1945,ML,,CF
+1004996,Hank Greenberg,greenha01,Baseball Magazine All-Star,1945,ML,,LF
+1009535,Hal Newhouser,newhoha01,Baseball Magazine All-Star,1945,ML,,P1
+1001375,Harry Brecheen,brechha01,Baseball Magazine All-Star,1945,ML,,P2
+1004012,Dave Ferriss,ferrida01,Baseball Magazine All-Star,1945,ML,,P3
+1001208,Hank Borowy,borowha01,Baseball Magazine All-Star,1945,ML,,P4
+1013512,Dixie Walker,walkedi02,Baseball Magazine All-Star,1945,ML,,RF
+1012501,Vern Stephens,stephve01,Baseball Magazine All-Star,1945,ML,,SS
+1002093,Phil Cavarretta,cavarph01,Baseball Magazine All-Star,1945,NL,,1B
+1013406,Emil Verban,verbaem01,Baseball Magazine All-Star,1945,NL,,2B
+1007215,Whitey Kurowski,kurowwh01,Baseball Magazine All-Star,1945,NL,,3B
+1007751,Al Lopez,lopezal01,Baseball Magazine All-Star,1945,NL,,C
+1009948,Andy Pafko,pafkoan01,Baseball Magazine All-Star,1945,NL,,CF
+1005980,Tommy Holmes,holmeto01,Baseball Magazine All-Star,1945,NL,,LF
+1001375,Harry Brecheen,brechha01,Baseball Magazine All-Star,1945,NL,,P1
+1001208,Hank Borowy,borowha01,Baseball Magazine All-Star,1945,NL,,P2
+1000600,Red Barrett,barrere01,Baseball Magazine All-Star,1945,NL,,P3
+1014315,Hank Wyse,wyseha01,Baseball Magazine All-Star,1945,NL,,P4
+1013512,Dixie Walker,walkedi02,Baseball Magazine All-Star,1945,NL,,RF
+1008108,Marty Marion,marioma01,Baseball Magazine All-Star,1945,NL,,SS
+1009535,Hal Newhouser,newhoha01,Most Valuable Player,1945,AL,,
+1002093,Phil Cavarretta,cavarph01,Most Valuable Player,1945,NL,,
+1009535,Hal Newhouser,newhoha01,Pitching Triple Crown,1945,AL,,
+1002093,Phil Cavarretta,cavarph01,TSN All-Star,1945,ML,,1B
+1012546,Snuffy Stirnweiss,stirnsn01,TSN All-Star,1945,ML,,2B
+1007215,Whitey Kurowski,kurowwh01,TSN All-Star,1945,ML,,3B
+1010918,Paul Richards,richapa01,TSN All-Star,1945,ML,,C
+1005980,Tommy Holmes,holmeto01,TSN All-Star,1945,ML,,OF
+1009948,Andy Pafko,pafkoan01,TSN All-Star,1945,ML,,OF
+1011209,Goody Rosen,rosengo01,TSN All-Star,1945,ML,,OF
+1001208,Hank Borowy,borowha01,TSN All-Star,1945,ML,,P
+1004012,Dave Ferriss,ferrida01,TSN All-Star,1945,ML,,P
+1009535,Hal Newhouser,newhoha01,TSN All-Star,1945,ML,,P
+1008108,Marty Marion,marioma01,TSN All-Star,1945,ML,,SS
+1008307,Eddie Mayo,mayoed01,TSN Guide MVP,1945,AL,,
+1005980,Tommy Holmes,holmeto01,TSN Guide MVP,1945,NL,,
+1009535,Hal Newhouser,newhoha01,TSN Major League Player of the Year,1945,ML,,
+1009535,Hal Newhouser,newhoha01,TSN Pitcher of the Year,1945,AL,,
+1001208,Hank Borowy,borowha01,TSN Pitcher of the Year,1945,NL,,
+1008307,Eddie Mayo,mayoed01,TSN Player of the Year,1945,AL,,
+1005980,Tommy Holmes,holmeto01,TSN Player of the Year,1945,NL,,

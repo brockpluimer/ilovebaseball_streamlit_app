@@ -1,0 +1,51 @@
+IDfg,Name,playerID,awardID,yearID,lgID,tie,notes
+1004285.0,Jimmie Foxx,foxxji01,Baseball Magazine All-Star,1933,AL,,1B
+1004596.0,Charlie Gehringer,gehrich01,Baseball Magazine All-Star,1933,AL,,2B
+1005793.0,Pinky Higgins,higgipi01,Baseball Magazine All-Star,1933,AL,,3B
+1002384.0,Mickey Cochrane,cochrmi01,Baseball Magazine All-Star,1933,AL,,C
+1000379.0,Earl Averill,averiea01,Baseball Magazine All-Star,1933,AL,,OF
+1011978.0,Al Simmons,simmoal01,Baseball Magazine All-Star,1933,AL,,OF
+1013813.0,Sam West,westsa01,Baseball Magazine All-Star,1933,AL,,OF
+1005099.0,Lefty Grove,grovele01,Baseball Magazine All-Star,1933,AL,,P1
+1013866.0,Earl Whitehill,whiteea01,Baseball Magazine All-Star,1933,AL,,P2
+1001421.0,Tommy Bridges,bridgto01,Baseball Magazine All-Star,1933,AL,,P4
+1002796.0,Joe Cronin,cronijo01,Baseball Magazine All-Star,1933,AL,,SS
+1004285.0,Jimmie Foxx,foxxji01,Baseball Magazine All-Star,1933,ML,,1B
+1004596.0,Charlie Gehringer,gehrich01,Baseball Magazine All-Star,1933,ML,,2B
+1013165.0,Pie Traynor,traynpi01,Baseball Magazine All-Star,1933,ML,,3B
+1002384.0,Mickey Cochrane,cochrmi01,Baseball Magazine All-Star,1933,ML,,C
+1000875.0,Wally Berger,bergewa01,Baseball Magazine All-Star,1933,ML,,CF
+1011978.0,Al Simmons,simmoal01,Baseball Magazine All-Star,1933,ML,,LF
+1006123.0,Carl Hubbell,hubbeca01,Baseball Magazine All-Star,1933,ML,,P1
+1005099.0,Lefty Grove,grovele01,Baseball Magazine All-Star,1933,ML,,P2
+1013866.0,Earl Whitehill,whiteea01,Baseball Magazine All-Star,1933,ML,,P3
+1003106.0,Dizzy Dean,deandi01,Baseball Magazine All-Star,1933,ML,,P4
+1006991.0,Chuck Klein,kleinch01,Baseball Magazine All-Star,1933,ML,,RF
+1002796.0,Joe Cronin,cronijo01,Baseball Magazine All-Star,1933,ML,,SS
+1012927.0,Bill Terry,terrybi01,Baseball Magazine All-Star,1933,NL,,1B
+1004364.0,Frankie Frisch,friscfr01,Baseball Magazine All-Star,1933,NL,,2B
+1013165.0,Pie Traynor,traynpi01,Baseball Magazine All-Star,1933,NL,,3B
+1007751.0,Al Lopez,lopezal01,Baseball Magazine All-Star,1933,NL,,C
+1000875.0,Wally Berger,bergewa01,Baseball Magazine All-Star,1933,NL,,CF
+1008719.0,Joe Medwick,medwijo01,Baseball Magazine All-Star,1933,NL,,LF
+1006123.0,Carl Hubbell,hubbeca01,Baseball Magazine All-Star,1933,NL,,P1
+1003106.0,Dizzy Dean,deandi01,Baseball Magazine All-Star,1933,NL,,P2
+1001921.0,Ben Cantwell,cantwbe01,Baseball Magazine All-Star,1933,NL,,P3
+1013637.0,Lon Warneke,warnelo01,Baseball Magazine All-Star,1933,NL,,P4
+1006991.0,Chuck Klein,kleinch01,Baseball Magazine All-Star,1933,NL,,RF
+1013377.0,Arky Vaughan,vaughar01,Baseball Magazine All-Star,1933,NL,,SS
+1004285.0,Jimmie Foxx,foxxji01,Most Valuable Player,1933,AL,,
+1006123.0,Carl Hubbell,hubbeca01,Most Valuable Player,1933,NL,,
+1004285.0,Jimmie Foxx,foxxji01,Triple Crown,1933,AL,,
+1006991.0,Chuck Klein,kleinch01,Triple Crown,1933,NL,,
+1004285.0,Jimmie Foxx,foxxji01,TSN All-Star,1933,ML,,1B
+1004596.0,Charlie Gehringer,gehrich01,TSN All-Star,1933,ML,,2B
+1013165.0,Pie Traynor,traynpi01,TSN All-Star,1933,ML,,3B
+1003271.0,Bill Dickey,dickebi01,TSN All-Star,1933,ML,,C
+1000875.0,Wally Berger,bergewa01,TSN All-Star,1933,ML,,OF
+1006991.0,Chuck Klein,kleinch01,TSN All-Star,1933,ML,,OF
+1011978.0,Al Simmons,simmoal01,TSN All-Star,1933,ML,,OF
+1006123.0,Carl Hubbell,hubbeca01,TSN All-Star,1933,ML,,P
+1002796.0,Joe Cronin,cronijo01,TSN All-Star,1933,ML,,SS
+1004285.0,Jimmie Foxx,foxxji01,TSN Guide MVP,1933,AL,,
+1006123.0,Carl Hubbell,hubbeca01,TSN Guide MVP,1933,NL,,

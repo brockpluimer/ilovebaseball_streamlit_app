@@ -1,0 +1,82 @@
+IDfg,Name,playerID,awardID,yearID,lgID,tie,notes
+19755.0,Shohei Ohtani,ohtansh01,TSN Major League Player of the Year,2021,ML,,
+13125.0,Gerrit Cole,colege01,TSN Pitcher of the Year,2021,AL,,
+3137.0,Max Scherzer,scherma01,TSN Pitcher of the Year,2021,NL,,
+14212.0,Josh Hader,haderjo01,TSN Reliever of the Year,2021,NL,,
+3548.0,Liam Hendriks,hendrli01,TSN Reliever of the Year,2021,AL,,
+798.0,Fernando Tatis,tatisfe02,TSN All-Star,2021,NL,,SS
+20123.0,Juan Soto,sotoju01,TSN All-Star,2021,NL,,OF
+11579.0,Bryce Harper,harpebr03,TSN All-Star,2021,NL,,OF
+19326.0,Bryan Reynolds,reynobr01,TSN All-Star,2021,NL,,OF
+3137.0,Max Scherzer,scherma01,TSN All-Star,2021,NL,,SP
+14212.0,Josh Hader,haderjo01,TSN All-Star,2021,NL,,RP
+13743.0,Max Fried,friedma01,Silver Slugger,2021,NL,,P
+13510.0,Jose Ramirez,ramirjo01,TSN All-Star,2021,AL,,3B
+778.0,Vladimir Guerrero,guerrvl02,All-Star Game MVP,2021,AL,,
+14162.0,Carlos Correa,correca01,Platinum Glove,2021,AL,,
+9777.0,Nolan Arenado,arenano01,Platinum Glove,2021,NL,,
+5361.0,Freddie Freeman,freemfr01,Babe Ruth Award,2021,ML,,
+9166.0,Buster Posey,poseybu01,Comeback Player of the Year,2021,NL,,
+15149.0,Trey Mancini,mancitr01,Comeback Player of the Year,2021,AL,,
+7304.0,Salvador Perez,perezsa02,Lou Gehrig Memorial Award,2021,ML,,
+19755.0,Shohei Ohtani,ohtansh01,Most Valuable Player,2021,AL,,
+11579.0,Bryce Harper,harpebr03,Most Valuable Player,2021,NL,,
+11486.0,Robbie Ray,rayro02,Cy Young Award,2021,AL,,
+19361.0,Corbin Burnes,burneco01,Cy Young Award,2021,NL,,
+19290.0,Randy Arozarena,arozara01,Rookie of the Year,2021,AL,,
+21523.0,Jonathan India,indiajo01,Rookie of the Year,2021,NL,,
+2434.0,Nelson Cruz,cruzne02,Roberto Clemente Award,2021,ML,,
+778.0,Vladimir Guerrero,guerrvl02,Hank Aaron Award,2021,AL,,
+11579.0,Bryce Harper,harpebr03,Hank Aaron Award,2021,NL,,
+7304.0,Salvador Perez,perezsa02,Silver Slugger,2021,AL,,C
+778.0,Vladimir Guerrero,guerrvl02,Silver Slugger,2021,AL,,1B
+12533.0,Marcus Semien,semiema01,Silver Slugger,2021,AL,,2B
+17350.0,Rafael Devers,deverra01,Silver Slugger,2021,AL,,3B
+12161.0,Xander Bogaerts,bogaexa01,SIlver Slugger,2021,AL,,SS
+15640.0,Aaron Judge,judgeaa01,Silver Slugger,2021,AL,,OF
+13066.0,Teoscar Hernandez,hernate01,Silver Slugger,2021,AL,,OF
+19755.0,Shohei Ohtani,ohtansh01,Silver Slugger,2021,AL,,DH
+9166.0,Buster Posey,poseybu01,Silver Slugger,2021,NL,,C
+5361.0,Freddie Freeman,freemfr01,Silver Slugger,2021,NL,,1B
+16556.0,Ozzie Albies,albieoz01,Silver Slugger,2021,NL,,2B
+18360.0,Austin Riley,rileyau01,Silver Slugger,2021,NL,,3B
+798.0,Fernando Tatis,tatisfe02,Silver Slugger,2021,NL,,SS
+11579.0,Bryce Harper,harpebr03,Silver Slugger,2021,NL,,OF
+11737.0,Nick Castellanos,casteni01,Silver Slugger,2021,NL,,OF
+20123.0,Juan Soto,sotoju01,Silver Slugger,2021,NL,,OF
+19352.0,Sean Murphy,murphse01,Gold Glove,2021,AL,,C
+19198.0,Yuli Gurriel,gourryu01,Gold Glove,2021,AL,,1B
+12533.0,Marcus Semien,semiema01,Gold Glove,2021,AL,,2B
+16505.0,Matt Chapman,chapmma01,Gold Glove,2021,AL,,3B
+14162.0,Carlos Correa,correca01,Gold Glove,2021,AL,,SS
+2591.0,Michael Taylor,taylomi02,Gold Glove,2021,AL,,LF
+14128.0,Joey Gallo,gallojo01,Gold Glove,2021,AL,,CF
+17901.0,Andrew Benintendi,beninan01,Gold Glove,2021,AL,,RF
+9434.0,Dallas Keuchel,keuchda01,Gold Glove,2021,AL,,P
+13723.0,Jacob Stallings,stallja01,Gold Glove,2021,NL,,C
+9218.0,Paul Goldschmidt,goldspa01,Gold Glove,2021,NL,,1B
+19470.0,Tommy Edman,edmanto01,Gold Glove,2021,NL,,2B
+9777.0,Nolan Arenado,arenano01,Gold Glove,2021,NL,,3B
+5343.0,Brandon Crawford,crawfbr01,Gold Glove,2021,NL,,SS
+15711.0,Tyler O'Neill,oneilty01,Gold Glove,2021,NL,,LF
+10950.0,Adam Duvall,duvalad01,Gold Glove,2021,NL,,CF
+18030.0,Harrison Bader,baderha01,Gold Glove,2021,NL,,RF
+13743.0,Max Fried,friedma01,Gold Glove,2021,NL,,P
+14221.0,Jorge Soler,solerjo01,World Series MVP,2021,ML,,
+19556.0,Yordan Alvarez,alvaryo01,ALCS MVP,2021,AL,,
+12155.0,Eddie Rosario,rosared01,NLCS MVP,2021,NL,,
+19755.0,Shohei Ohtani,ohtansh01,Outstanding DH Award,2021,,,
+3548.0,Liam Hendriks,hendrli01,Reliever of the Year Award,2021,AL,,
+14212.0,Josh Hader,haderjo01,Reliever of the Year Award,2021,NL,,
+7304.0,Salvador Perez,perezsa02,TSN All-Star,2021,AL,,C
+778.0,Vladimir Guerrero,guerrvl02,TSN All-Star,2021,AL,,1B
+12533.0,Marcus Semien,semiema01,TSN All-Star,2021,AL,,2B
+14162.0,Carlos Correa,correca01,TSN All-Star,2021,AL,,SS
+15640.0,Aaron Judge,judgeaa01,TSN All-Star,2021,AL,,OF
+18345.0,Kyle Tucker,tuckeky01,TSN All-Star,2021,AL,,OF
+19755.0,Shohei Ohtani,ohtansh01,TSN All-Star,2021,AL,,DH
+13125.0,Gerrit Cole,colege01,TSN All-Star,2021,AL,,SP
+3548.0,Liam Hendriks,hendrli01,TSN All-Star,2021,AL,,RP
+5361.0,Freddie Freeman,freemfr01,TSN All-Star,2021,NL,,1B
+16556.0,Ozzie Albies,albieoz01,TSN All-Star,2021,NL,,2B
+11493.0,Manny Machado,machama01,TSN All-Star,2021,NL,,3B

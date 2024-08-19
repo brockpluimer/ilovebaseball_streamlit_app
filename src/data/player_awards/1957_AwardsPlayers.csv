@@ -1,0 +1,34 @@
+IDfg,Name,playerID,awardID,yearID,lgID,tie,notes
+1001662,Lew Burdette,burdele01,Babe Ruth Award,1957,NL,,P
+1012299,Warren Spahn,spahnwa01,Cy Young Award,1957,ML,,
+1005883,Gil Hodges,hodgegi01,Gold Glove,1957,ML,,1B
+1004281,Nellie Fox,foxne01,Gold Glove,1957,ML,,2B
+1008048,Frank Malzone,malzofr01,Gold Glove,1957,ML,,3B
+1007714,Sherm Lollar,lollash01,Gold Glove,1957,ML,,C
+1008315,Willie Mays,mayswi01,Gold Glove,1957,ML,,CF
+1008984,Minnie Minoso,minosmi01,Gold Glove,1957,ML,,LF
+1011804,Bobby Shantz,shantbo01,Gold Glove,1957,ML,,P
+1006678,Al Kaline,kalinal01,Gold Glove,1957,ML,,RF
+1008643,Roy McMillan,mcmilro01,Gold Glove,1957,ML,,SS
+1009405,Stan Musial,musiast01,Lou Gehrig Memorial Award,1957,ML,,
+1008082,Mickey Mantle,mantlmi01,Most Valuable Player,1957,AL,,
+1000001,Hank Aaron,aaronha01,Most Valuable Player,1957,NL,,
+1007188,Tony Kubek,kubekto01,Rookie of the Year,1957,AL,,
+1011432,Jack Sanford,sanfoja02,Rookie of the Year,1957,NL,,
+1009405,Stan Musial,musiast01,TSN All-Star,1957,ML,,1B
+1011600,Red Schoendienst,schoere01,TSN All-Star,1957,ML,,2B
+1008236,Eddie Mathews,matheed01,TSN All-Star,1957,ML,,3B
+1000898,Yogi Berra,berrayo01,TSN All-Star,1957,ML,,C
+1008082,Mickey Mantle,mantlmi01,TSN All-Star,1957,ML,,OF
+1008315,Willie Mays,mayswi01,TSN All-Star,1957,ML,,OF
+1014040,Ted Williams,willite01,TSN All-Star,1957,ML,,OF
+1001653,Jim Bunning,bunniji01,TSN All-Star,1957,ML,,P
+1010326,Billy Pierce,piercbi02,TSN All-Star,1957,ML,,P
+1012299,Warren Spahn,spahnwa01,TSN All-Star,1957,ML,,P
+1008471,Gil McDougald,mcdougi01,TSN All-Star,1957,ML,,SS
+1014040,Ted Williams,willite01,TSN Major League Player of the Year,1957,ML,,
+1010326,Billy Pierce,piercbi02,TSN Pitcher of the Year,1957,AL,,
+1012299,Warren Spahn,spahnwa01,TSN Pitcher of the Year,1957,NL,,
+1014040,Ted Williams,willite01,TSN Player of the Year,1957,AL,,
+1009405,Stan Musial,musiast01,TSN Player of the Year,1957,NL,,
+1001662,Lew Burdette,burdele01,World Series MVP,1957,ML,,

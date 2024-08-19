@@ -1,0 +1,48 @@
+IDfg,Name,playerID,awardID,yearID,lgID,tie,notes
+1004285.0,Jimmie Foxx,foxxji01,Baseball Magazine All-Star,1932,AL,,1B
+1004596.0,Charlie Gehringer,gehrich01,Baseball Magazine All-Star,1932,AL,,2B
+1006683.0,Willie Kamm,kammwi01,Baseball Magazine All-Star,1932,AL,,3B
+1002384.0,Mickey Cochrane,cochrmi01,Baseball Magazine All-Star,1932,AL,,C
+1000379.0,Earl Averill,averiea01,Baseball Magazine All-Star,1932,AL,,CF
+1011978.0,Al Simmons,simmoal01,Baseball Magazine All-Star,1932,AL,,LF
+1005099.0,Lefty Grove,grovele01,Baseball Magazine All-Star,1932,AL,,P1
+1004821.0,Lefty Gomez,gomezle01,Baseball Magazine All-Star,1932,AL,,P3
+1004010.0,Wes Ferrell,ferrewe01,Baseball Magazine All-Star,1932,AL,,P4
+1011327.0,Babe Ruth,ruthba01,Baseball Magazine All-Star,1932,AL,,RF
+1002796.0,Joe Cronin,cronijo01,Baseball Magazine All-Star,1932,AL,,SS
+1004285.0,Jimmie Foxx,foxxji01,Baseball Magazine All-Star,1932,ML,,1B
+1004596.0,Charlie Gehringer,gehrich01,Baseball Magazine All-Star,1932,ML,,2B
+1013165.0,Pie Traynor,traynpi01,Baseball Magazine All-Star,1932,ML,,3B
+1002384.0,Mickey Cochrane,cochrmi01,Baseball Magazine All-Star,1932,ML,,C
+1013596.0,Lloyd Waner,wanerll01,Baseball Magazine All-Star,1932,ML,,CF
+1009734.0,Lefty O'Doul,odoulle01,Baseball Magazine All-Star,1932,ML,,LF
+1005099.0,Lefty Grove,grovele01,Baseball Magazine All-Star,1932,ML,,P1
+1004821.0,Lefty Gomez,gomezle01,Baseball Magazine All-Star,1932,ML,,P3
+1013637.0,Lon Warneke,warnelo01,Baseball Magazine All-Star,1932,ML,,P4
+1006991.0,Chuck Klein,kleinch01,Baseball Magazine All-Star,1932,ML,,RF
+1002796.0,Joe Cronin,cronijo01,Baseball Magazine All-Star,1932,ML,,SS
+1012927.0,Bill Terry,terrybi01,Baseball Magazine All-Star,1932,NL,,1B
+1005692.0,Billy Herman,hermabi01,Baseball Magazine All-Star,1932,NL,,2B
+1013165.0,Pie Traynor,traynpi01,Baseball Magazine All-Star,1932,NL,,3B
+1005458.0,Gabby Hartnett,hartnga01,Baseball Magazine All-Star,1932,NL,,C
+1013596.0,Lloyd Waner,wanerll01,Baseball Magazine All-Star,1932,NL,,CF
+1009734.0,Lefty O'Doul,odoulle01,Baseball Magazine All-Star,1932,NL,,LF
+1013637.0,Lon Warneke,warnelo01,Baseball Magazine All-Star,1932,NL,,P1
+1006123.0,Carl Hubbell,hubbeca01,Baseball Magazine All-Star,1932,NL,,P2
+1003106.0,Dizzy Dean,deandi01,Baseball Magazine All-Star,1932,NL,,P4
+1006991.0,Chuck Klein,kleinch01,Baseball Magazine All-Star,1932,NL,,RF
+1000621.0,Dick Bartell,bartedi01,Baseball Magazine All-Star,1932,NL,,SS
+1004285.0,Jimmie Foxx,foxxji01,Most Valuable Player,1932,AL,,
+1006991.0,Chuck Klein,kleinch01,Most Valuable Player,1932,NL,,
+1004285.0,Jimmie Foxx,foxxji01,TSN All-Star,1932,ML,,1B
+1007422.0,Tony Lazzeri,lazzeto01,TSN All-Star,1932,ML,,2B
+1013165.0,Pie Traynor,traynpi01,TSN All-Star,1932,ML,,3B
+1003271.0,Bill Dickey,dickebi01,TSN All-Star,1932,ML,,C
+1000379.0,Earl Averill,averiea01,TSN All-Star,1932,ML,,OF
+1006991.0,Chuck Klein,kleinch01,TSN All-Star,1932,ML,,OF
+1009734.0,Lefty O'Doul,odoulle01,TSN All-Star,1932,ML,,OF
+1005099.0,Lefty Grove,grovele01,TSN All-Star,1932,ML,,P
+1013637.0,Lon Warneke,warnelo01,TSN All-Star,1932,ML,,P
+1002796.0,Joe Cronin,cronijo01,TSN All-Star,1932,ML,,SS
+1004285.0,Jimmie Foxx,foxxji01,TSN Guide MVP,1932,AL,,
+1006991.0,Chuck Klein,kleinch01,TSN Guide MVP,1932,NL,,

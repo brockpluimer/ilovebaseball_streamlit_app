@@ -1,0 +1,22 @@
+IDfg,Name,playerID,awardID,yearID,lgID,tie,notes
+1011011,Phil Rizzuto,rizzuph01,Babe Ruth Award,1951,AL,,SS
+1000898,Yogi Berra,berrayo01,Most Valuable Player,1951,AL,,
+1001871,Roy Campanella,camparo01,Most Valuable Player,1951,NL,,
+1008471,Gil McDougald,mcdougi01,Rookie of the Year,1951,AL,,
+1008315,Willie Mays,mayswi01,Rookie of the Year,1951,NL,,
+1003902,Ferris Fain,fainfe01,TSN All-Star,1951,ML,,1B
+1011070,Jackie Robinson,robinja02,TSN All-Star,1951,ML,,2B
+1006783,George Kell,kellge01,TSN All-Star,1951,ML,,3B
+1001871,Roy Campanella,camparo01,TSN All-Star,1951,ML,,C
+1006923,Ralph Kiner,kinerra01,TSN All-Star,1951,ML,,OF
+1009405,Stan Musial,musiast01,TSN All-Star,1951,ML,,OF
+1014040,Ted Williams,willite01,TSN All-Star,1951,ML,,OF
+1007968,Sal Maglie,maglisa01,TSN All-Star,1951,ML,,P
+1010860,Allie Reynolds,reynoal01,TSN All-Star,1951,ML,,P
+1011122,Preacher Roe,roepr01,TSN All-Star,1951,ML,,P
+1011011,Phil Rizzuto,rizzuph01,TSN All-Star,1951,ML,,SS
+1009405,Stan Musial,musiast01,TSN Major League Player of the Year,1951,ML,,
+1003975,Bob Feller,fellebo01,TSN Pitcher of the Year,1951,AL,,
+1011122,Preacher Roe,roepr01,TSN Pitcher of the Year,1951,NL,,
+1003902,Ferris Fain,fainfe01,TSN Player of the Year,1951,AL,,
+1009405,Stan Musial,musiast01,TSN Player of the Year,1951,NL,,

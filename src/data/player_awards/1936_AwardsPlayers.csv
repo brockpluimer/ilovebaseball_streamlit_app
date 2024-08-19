@@ -1,0 +1,52 @@
+IDfg,Name,playerID,awardID,yearID,lgID,tie,notes
+1004598,Lou Gehrig,gehrilo01,Baseball Magazine All-Star,1936,AL,,1B
+1004596,Charlie Gehringer,gehrich01,Baseball Magazine All-Star,1936,AL,,2B
+1009918,Marv Owen,owenma01,Baseball Magazine All-Star,1936,AL,,3B
+1003271,Bill Dickey,dickebi01,Baseball Magazine All-Star,1936,AL,,C
+1000379,Earl Averill,averiea01,Baseball Magazine All-Star,1936,AL,,CF
+1003311,Joe DiMaggio,dimagjo01,Baseball Magazine All-Star,1936,AL,,LF
+1001421,Tommy Bridges,bridgto01,Baseball Magazine All-Star,1936,AL,,P1
+1006851,Vern Kennedy,kenneve01,Baseball Magazine All-Star,1936,AL,,P2
+1004010,Wes Ferrell,ferrewe01,Baseball Magazine All-Star,1936,AL,,P3
+1000150,Johnny Allen,allenjo02,Baseball Magazine All-Star,1936,AL,,P4
+1009244,Wally Moses,moseswa01,Baseball Magazine All-Star,1936,AL,,RF
+1000284,Luke Appling,applilu01,Baseball Magazine All-Star,1936,AL,,SS
+1004598,Lou Gehrig,gehrilo01,Baseball Magazine All-Star,1936,ML,,1B
+1004596,Charlie Gehringer,gehrich01,Baseball Magazine All-Star,1936,ML,,2B
+1005183,Stan Hack,hackst01,Baseball Magazine All-Star,1936,ML,,3B
+1003271,Bill Dickey,dickebi01,Baseball Magazine All-Star,1936,ML,,C
+1000379,Earl Averill,averiea01,Baseball Magazine All-Star,1936,ML,,CF
+1003311,Joe DiMaggio,dimagjo01,Baseball Magazine All-Star,1936,ML,,LF
+1006123,Carl Hubbell,hubbeca01,Baseball Magazine All-Star,1936,ML,,P1
+1003106,Dizzy Dean,deandi01,Baseball Magazine All-Star,1936,ML,,P2
+1001421,Tommy Bridges,bridgto01,Baseball Magazine All-Star,1936,ML,,P3
+1006851,Vern Kennedy,kenneve01,Baseball Magazine All-Star,1936,ML,,P4
+1013597,Paul Waner,wanerpa01,Baseball Magazine All-Star,1936,ML,,RF
+1000284,Luke Appling,applilu01,Baseball Magazine All-Star,1936,ML,,SS
+1012674,Gus Suhr,suhrgu01,Baseball Magazine All-Star,1936,NL,,1B
+1005692,Billy Herman,hermabi01,Baseball Magazine All-Star,1936,NL,,2B
+1005183,Stan Hack,hackst01,Baseball Magazine All-Star,1936,NL,,3B
+1005458,Gabby Hartnett,hartnga01,Baseball Magazine All-Star,1936,NL,,C
+1002914,Kiki Cuyler,cuyleki01,Baseball Magazine All-Star,1936,NL,,CF
+1008719,Joe Medwick,medwijo01,Baseball Magazine All-Star,1936,NL,,LF
+1006123,Carl Hubbell,hubbeca01,Baseball Magazine All-Star,1936,NL,,P1
+1003106,Dizzy Dean,deandi01,Baseball Magazine All-Star,1936,NL,,P2
+1004338,Larry French,frencla01,Baseball Magazine All-Star,1936,NL,,P3
+1007904,Danny MacFayden,macfada01,Baseball Magazine All-Star,1936,NL,,P4
+1013597,Paul Waner,wanerpa01,Baseball Magazine All-Star,1936,NL,,RF
+1013377,Arky Vaughan,vaughar01,Baseball Magazine All-Star,1936,NL,,SS
+1004598,Lou Gehrig,gehrilo01,Most Valuable Player,1936,AL,,
+1006123,Carl Hubbell,hubbeca01,Most Valuable Player,1936,NL,,
+1004598,Lou Gehrig,gehrilo01,TSN All-Star,1936,ML,,1B
+1004596,Charlie Gehringer,gehrich01,TSN All-Star,1936,ML,,2B
+1005793,Pinky Higgins,higgipi01,TSN All-Star,1936,ML,,3B
+1003271,Bill Dickey,dickebi01,TSN All-Star,1936,ML,,C
+1000379,Earl Averill,averiea01,TSN All-Star,1936,ML,,OF
+1008719,Joe Medwick,medwijo01,TSN All-Star,1936,ML,,OF
+1009904,Mel Ott,ottme01,TSN All-Star,1936,ML,,OF
+1003106,Dizzy Dean,deandi01,TSN All-Star,1936,ML,,P
+1006123,Carl Hubbell,hubbeca01,TSN All-Star,1936,ML,,P
+1000284,Luke Appling,applilu01,TSN All-Star,1936,ML,,SS
+1004598,Lou Gehrig,gehrilo01,TSN Guide MVP,1936,AL,,
+1006123,Carl Hubbell,hubbeca01,TSN Guide MVP,1936,NL,,
+1006123,Carl Hubbell,hubbeca01,TSN Major League Player of the Year,1936,ML,,

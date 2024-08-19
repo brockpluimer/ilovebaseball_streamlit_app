@@ -1,0 +1,87 @@
+IDfg,Name,playerID,awardID,yearID,lgID,tie,notes
+4314,Joey Votto,vottojo01,Lou Gehrig Memorial Award,2017,ML,,
+5417,Jose Altuve,altuvjo01,TSN Major League Player of the Year,2017,ML,,
+10603,Chris Sale,salech01,TSN Pitcher of the Year,2017,AL,,
+3137,Max Scherzer,scherma01,TSN Pitcher of the Year,2017,NL,,
+6655,Craig Kimbrel,kimbrcr01,TSN Reliever of the Year,2017,AL,,
+3096,Kenley Jansen,janseke01,TSN Reliever of the Year,2017,NL,,
+3269,Robinson Cano,canoro01,All-Star Game MVP,2017,AL,,
+14161,Byron Buxton,buxtoby01,Platinum Glove,2017,AL,,
+9777,Nolan Arenado,arenano01,Platinum Glove,2017,NL,,
+5417,Jose Altuve,altuvjo01,Babe Ruth Award,2017,ML,Y,
+8700,Justin Verlander,verlaju01,Babe Ruth Award,2017,ML,Y,
+5003,Jake Diekman,diekmja01,Hutch Award,2017,ML,,
+10324,Marcell Ozuna,ozunama01,Gold Glove,2017,NL,,LF
+4922,Ender Inciarte,inciaen01,Gold Glove,2017,NL,,CF
+4940,Jason Heyward,heywaja01,Gold Glove,2017,NL,,RF
+1943,Zack Greinke,greinza01,Gold Glove,2017,NL,,P
+12856,George Springer,springe01,World Series MVP,2017,ML,,
+8700,Justin Verlander,verlaju01,ALCS MVP,2017,AL,,
+5235,Justin Turner,turneju01,NLCS MVP,2017,NL,Y,Co-MVP
+13757,Chris Taylor,tayloch03,NLCS MVP,2017,NL,Y,Co-MVP
+4892,Mike Moustakas,moustmi01,Comeback Player of the Year,2017,AL,,
+4220,Ryan Zimmerman,zimmery01,Comeback Player of the Year,2017,NL,,
+2434,Nelson Cruz,cruzne02,Outstanding DH Award,2017,AL,,
+6655,Craig Kimbrel,kimbrcr01,Reliever of the Year Award,2017,AL,,
+3096,Kenley Jansen,janseke01,Reliever of the Year Award,2017,NL,,
+11442,Gary Sanchez,sanchga02,TSN All-Star,2017,AL,,C
+3516,Eric Hosmer,hosmeer01,TSN All-Star,2017,AL,,1B
+5417,Jose Altuve,altuvjo01,TSN All-Star,2017,AL,,2B
+12916,Francisco Lindor,lindofr01,TSN All-Star,2017,AL,,SS
+15640,Aaron Judge,judgeaa01,TSN All-Star,2017,AL,,OF
+13611,Mookie Betts,bettsmo01,TSN All-Star,2017,AL,,OF
+10155,Mike Trout,troutmi01,TSN All-Star,2017,AL,,OF
+2434,Nelson Cruz,cruzne02,TSN All-Star,2017,AL,,DH
+10603,Chris Sale,salech01,TSN All-Star,2017,AL,,SP
+6655,Craig Kimbrel,kimbrcr01,TSN All-Star,2017,AL,,RP
+9166,Buster Posey,poseybu01,TSN All-Star,2017,NL,,C
+4314,Joey Votto,vottojo01,TSN All-Star,2017,NL,,1B
+4316,Daniel Murphy,murphda08,TSN All-Star,2017,NL,,2B
+12861,Anthony Rendon,rendoan01,TSN All-Star,2017,NL,,3B
+13624,Corey Seager,seageco01,TSN All-Star,2017,NL,,SS
+4949,Giancarlo Stanton,stantmi03,TSN All-Star,2017,NL,,OF
+7859,Charlie Blackmon,blackch02,TSN All-Star,2017,NL,,OF
+10324,Marcell Ozuna,ozunama01,TSN All-Star,2017,NL,,OF
+3137,Max Scherzer,scherma01,TSN All-Star,2017,NL,,SP
+3096,Kenley Jansen,janseke01,TSN All-Star,2017,NL,,RP
+5417,Jose Altuve,altuvjo01,Most Valuable Player,2017,AL,,
+4949,Giancarlo Stanton,stantmi03,Most Valuable Player,2017,NL,,
+2429,Corey Kluber,klubeco01,Cy Young Award,2017,AL,,
+3137,Max Scherzer,scherma01,Cy Young Award,2017,NL,,
+15640,Aaron Judge,judgeaa01,Rookie of the Year,2017,AL,,
+15998,Cody Bellinger,bellico01,Rookie of the Year,2017,NL,,
+3473,Anthony Rizzo,rizzoan01,Roberto Clemente Award,2017,ML,,
+5417,Jose Altuve,altuvjo01,Hank Aaron Award,2017,AL,,
+4949,Giancarlo Stanton,stantmi03,Hank Aaron Award,2017,NL,,
+11442,Gary Sanchez,sanchga02,Silver Slugger,2017,AL,,C
+3516,Eric Hosmer,hosmeer01,Silver Slugger,2017,AL,,1B
+5417,Jose Altuve,altuvjo01,Silver Slugger,2017,AL,,2B
+13510,Jose Ramirez,ramirjo01,Silver Slugger,2017,AL,,3B
+12916,Francisco Lindor,lindofr01,SIlver Slugger,2017,AL,,SS
+15640,Aaron Judge,judgeaa01,Silver Slugger,2017,AL,,OF
+12856,George Springer,springe01,Silver Slugger,2017,AL,,OF
+5222,Justin Upton,uptonju01,Silver Slugger,2017,AL,,OF
+2434,Nelson Cruz,cruzne02,Silver Slugger,2017,AL,,DH
+9166,Buster Posey,poseybu01,Silver Slugger,2017,NL,,C
+9218,Paul Goldschmidt,goldspa01,Silver Slugger,2017,NL,,1B
+4316,Daniel Murphy,murphda08,Silver Slugger,2017,NL,,2B
+9777,Nolan Arenado,arenano01,Silver Slugger,2017,NL,,3B
+13624,Corey Seager,seageco01,Silver Slugger,2017,NL,,SS
+4949,Giancarlo Stanton,stantmi03,Silver Slugger,2017,NL,,OF
+10324,Marcell Ozuna,ozunama01,Silver Slugger,2017,NL,,OF
+7859,Charlie Blackmon,blackch02,Silver Slugger,2017,NL,,OF
+2233,Adam Wainwright,wainwad01,Silver Slugger,2017,NL,,P
+6887,Martin Maldonado,maldoma01,Gold Glove,2017,AL,,C
+3516,Eric Hosmer,hosmeer01,Gold Glove,2017,AL,,1B
+9810,Brian Dozier,doziebr01,Gold Glove,2017,AL,,2B
+9368,Evan Longoria,longoev01,Gold Glove,2017,AL,,3B
+10847,Andrelton Simmons,simmoan01,Gold Glove,2017,AL,,SS
+5209,Alex Gordon,gordoal01,Gold Glove,2017,AL,,LF
+14161,Byron Buxton,buxtoby01,Gold Glove,2017,AL,,CF
+13611,Mookie Betts,bettsmo01,Gold Glove,2017,AL,,RF
+13431,Marcus Stroman,stromma01,Gold Glove,2017,AL,,P
+10200,Tucker Barnhart,barnhtu01,Gold Glove,2017,NL,,C
+9218,Paul Goldschmidt,goldspa01,Gold Glove,2017,NL,,1B
+9874,DJ LeMahieu,lemahdj01,Gold Glove,2017,NL,,2B
+9777,Nolan Arenado,arenano01,Gold Glove,2017,NL,,3B
+5343,Brandon Crawford,crawfbr01,Gold Glove,2017,NL,,SS

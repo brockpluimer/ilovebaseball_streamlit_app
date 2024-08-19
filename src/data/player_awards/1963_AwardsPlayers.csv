@@ -1,0 +1,56 @@
+IDfg,Name,playerID,awardID,yearID,lgID,tie,notes
+1000001,Hank Aaron,aaronha01,TSN Player of the Year,1963,NL,,
+1007124,Sandy Koufax,koufasa01,World Series MVP,1963,ML,,
+1008315,Willie Mays,mayswi01,All-Star Game MVP,1963,ML,,
+1007124,Sandy Koufax,koufasa01,Babe Ruth Award,1963,NL,,P
+1007124,Sandy Koufax,koufasa01,Cy Young Award,1963,ML,,
+1010506,Vic Power,powervi01,Gold Glove,1963,AL,,1B
+1010903,Bobby Richardson,richabo01,Gold Glove,1963,AL,,2B
+1011055,Brooks Robinson,robinbr01,Gold Glove,1963,AL,,3B
+1006079,Elston Howard,howarel01,Gold Glove,1963,AL,,C
+1006678,Al Kaline,kalinal01,Gold Glove,1963,AL,,OF
+1007296,Jim Landis,landiji01,Gold Glove,1963,AL,,OF
+1014326,Carl Yastrzemski,yastrca01,Gold Glove,1963,AL,,OF
+1006660,Jim Kaat,kaatji01,Gold Glove,1963,AL,,P
+1013417,Zoilo Versalles,versazo01,Gold Glove,1963,AL,,SS
+1013855,Bill White,whitebi03,Gold Glove,1963,NL,,1B
+1008316,Bill Mazeroski,mazerbi01,Gold Glove,1963,NL,,2B
+1001283,Ken Boyer,boyerke01,Gold Glove,1963,NL,,3B
+1003689,Johnny Edwards,edwarjo01,Gold Glove,1963,NL,,C
+1002340,Roberto Clemente,clemero01,Gold Glove,1963,NL,,OF
+1004165,Curt Flood,floodcu01,Gold Glove,1963,NL,,OF
+1008315,Willie Mays,mayswi01,Gold Glove,1963,NL,,OF
+1011804,Bobby Shantz,shantbo01,Gold Glove,1963,NL,,P
+1014124,Bobby Wine,winebo01,Gold Glove,1963,NL,,SS
+1010903,Bobby Richardson,richabo01,Lou Gehrig Memorial Award,1963,ML,,
+1006079,Elston Howard,howarel01,Most Valuable Player,1963,AL,,
+1007124,Sandy Koufax,koufasa01,Most Valuable Player,1963,NL,,
+1007124,Sandy Koufax,koufasa01,Pitching Triple Crown,1963,NL,,
+1010228,Gary Peters,peterga01,Rookie of the Year,1963,AL,,
+1011217,Pete Rose,rosepe01,Rookie of the Year,1963,NL,,
+1010167,Joe Pepitone,pepitjo01,TSN All-Star,1963,AL,,1B
+1010903,Bobby Richardson,richabo01,TSN All-Star,1963,AL,,2B
+1008048,Frank Malzone,malzofr01,TSN All-Star,1963,AL,,3B
+1006079,Elston Howard,howarel01,TSN All-Star,1963,AL,,C
+1006678,Al Kaline,kalinal01,TSN All-Star,1963,AL,,OF
+1010108,Albie Pearson,pearsal02,TSN All-Star,1963,AL,,OF
+1014326,Carl Yastrzemski,yastrca01,TSN All-Star,1963,AL,,OF
+1004227,Whitey Ford,fordwh01,TSN All-Star,1963,AL,,P
+1010228,Gary Peters,peterga01,TSN All-Star,1963,AL,,P
+1000278,Luis Aparicio,aparilu01,TSN All-Star,1963,AL,,SS
+1013855,Bill White,whitebi03,TSN All-Star,1963,NL,,1B
+1004724,Jim Gilliam,gilliji01,TSN All-Star,1963,NL,,2B
+1001283,Ken Boyer,boyerke01,TSN All-Star,1963,NL,,3B
+1003689,Johnny Edwards,edwarjo01,TSN All-Star,1963,NL,,C
+1000001,Hank Aaron,aaronha01,TSN All-Star,1963,NL,,OF
+1003084,Tommy Davis,davisto02,TSN All-Star,1963,NL,,OF
+1008315,Willie Mays,mayswi01,TSN All-Star,1963,NL,,OF
+1007124,Sandy Koufax,koufasa01,TSN All-Star,1963,NL,,P
+1008106,Juan Marichal,maricju01,TSN All-Star,1963,NL,,P
+1005075,Dick Groat,groatdi01,TSN All-Star,1963,NL,,SS
+1008935,Stu Miller,millest01,TSN Fireman of the Year,1963,AL,,
+1008441,Lindy McDaniel,mcdanli01,TSN Fireman of the Year,1963,NL,,
+1007124,Sandy Koufax,koufasa01,TSN Major League Player of the Year,1963,ML,,
+1004227,Whitey Ford,fordwh01,TSN Pitcher of the Year,1963,AL,,
+1007124,Sandy Koufax,koufasa01,TSN Pitcher of the Year,1963,NL,,
+1006678,Al Kaline,kalinal01,TSN Player of the Year,1963,AL,,

@@ -1,0 +1,80 @@
+IDfg,Name,playerID,awardID,yearID,lgID,tie,notes
+19427.0,Shane Bieber,biebesh01,Pitching Triple Crown,2020,AL,,
+15676.0,Jose Abreu,abreujo02,TSN Major League Player of the Year,2020,ML,,
+10954.0,Jacob deGrom,degroja01,TSN Pitcher of the Year,2020,NL,,
+19427.0,Shane Bieber,biebesh01,TSN Pitcher of the Year,2020,AL,,
+15816.0,Devin Williams,willide03,TSN Reliever of the Year,2020,NL,,
+3548.0,Liam Hendriks,hendrli01,TSN Reliever of the Year,2020,AL,,
+5209.0,Alex Gordon,gordoal01,Platinum Glove,2020,AL,,
+9777.0,Nolan Arenado,arenano01,Platinum Glove,2020,NL,,
+16512.0,Isiah Kiner-Falefa,kineris01,Gold Glove,2020,AL,,3B
+20043.0,Luis Robert,roberlu01,Gold Glove,2020,AL,,LF
+5209.0,Alex Gordon,gordoal01,Gold Glove,2020,AL,,CF
+14128.0,Joey Gallo,gallojo01,Gold Glove,2020,AL,,RF
+19867.0,Griffin Canning,cannigr01,Gold Glove,2020,AL,,P
+10200.0,Tucker Barnhart,barnhtu01,Gold Glove,2020,NL,,C
+3473.0,Anthony Rizzo,rizzoan01,Gold Glove,2020,NL,,1B
+12532.0,Kolten Wong,wongko01,Gold Glove,2020,NL,,2B
+9777.0,Nolan Arenado,arenano01,Gold Glove,2020,NL,,3B
+12979.0,Javier Baez,baezja01,Gold Glove,2020,NL,,SS
+15711.0,Tyler O'Neill,oneilty01,Gold Glove,2020,NL,,LF
+18564.0,Trent Grisham,grishtr01,Gold Glove,2020,NL,,CF
+13611.0,Mookie Betts,bettsmo01,Gold Glove,2020,NL,,RF
+13743.0,Max Fried,friedma01,Gold Glove,2020,NL,,P
+13624.0,Corey Seager,seageco01,World Series MVP,2020,ML,,
+19290.0,Randy Arozarena,arozara01,ALCS MVP,2020,AL,,
+13624.0,Corey Seager,seageco01,NLCS MVP,2020,NL,,
+10324.0,Marcell Ozuna,ozunama01,Outstanding DH Award,2020,,,
+3548.0,Liam Hendriks,hendrli01,Reliever of the Year Award,2020,AL,,
+19290.0,Randy Arozarena,arozara01,Babe Ruth Award,2020,ML,,
+13367.0,Stephen Piscotty,piscost01,Lou Gehrig Memorial Award,2020,ML,,
+15816.0,Devin Williams,willide03,Reliever of the Year Award,2020,NL,,
+7304.0,Salvador Perez,perezsa02,TSN All-Star,2020,AL,,C
+15676.0,Jose Abreu,abreujo02,TSN All-Star,2020,AL,,1B
+9874.0,DJ LeMahieu,lemahdj01,TSN All-Star,2020,AL,,2B
+15172.0,Tim Anderson,anderti01,TSN All-Star,2020,AL,,SS
+10155.0,Mike Trout,troutmi01,TSN All-Star,2020,AL,,OF
+13066.0,Teoscar Hernandez,hernate01,TSN All-Star,2020,AL,,OF
+12856.0,George Springer,springe01,TSN All-Star,2020,AL,,OF
+2434.0,Nelson Cruz,cruzne02,TSN All-Star,2020,AL,,DH
+19427.0,Shane Bieber,biebesh01,TSN All-Star,2020,AL,,SP
+3548.0,Liam Hendriks,hendrli01,TSN All-Star,2020,AL,,RP
+5361.0,Freddie Freeman,freemfr01,TSN All-Star,2020,NL,,1B
+8623.0,Donovan Solano,solando01,TSN All-Star,2020,NL,,2B
+11493.0,Manny Machado,machama01,TSN All-Star,2020,NL,,3B
+798.0,Fernando Tatis,tatisfe02,TSN All-Star,2020,NL,,SS
+13611.0,Mookie Betts,bettsmo01,TSN All-Star,2020,NL,,OF
+20123.0,Juan Soto,sotoju01,TSN All-Star,2020,NL,,OF
+10954.0,Jacob deGrom,degroja01,TSN All-Star,2020,NL,,SP
+15816.0,Devin Williams,willide03,TSN All-Star,2020,NL,,RP
+10324.0,Marcell Ozuna,ozunama01,Silver Slugger,2020,NL,,DH
+13510.0,Jose Ramirez,ramirjo01,TSN All-Star,2020,AL,,3B
+10324.0,Marcell Ozuna,ozunama01,TSN All-Star,2020,NL,,DH
+15676.0,Jose Abreu,abreujo02,Most Valuable Player,2020,AL,,
+5361.0,Freddie Freeman,freemfr01,Most Valuable Player,2020,NL,,
+19427.0,Shane Bieber,biebesh01,Cy Young Award,2020,AL,,
+12703.0,Trevor Bauer,bauertr01,Cy Young Award,2020,NL,,
+19508.0,Kyle Lewis,lewisky01,Rookie of the Year,2020,AL,,
+15816.0,Devin Williams,willide03,Rookie of the Year,2020,NL,,
+2233.0,Adam Wainwright,wainwad01,Roberto Clemente Award,2020,ML,,
+15676.0,Jose Abreu,abreujo02,Hank Aaron Award,2020,AL,,
+5361.0,Freddie Freeman,freemfr01,Hank Aaron Award,2020,NL,,
+7304.0,Salvador Perez,perezsa02,Silver Slugger,2020,AL,,C
+15676.0,Jose Abreu,abreujo02,Silver Slugger,2020,AL,,1B
+9874.0,DJ LeMahieu,lemahdj01,Silver Slugger,2020,AL,,2B
+13510.0,Jose Ramirez,ramirjo01,Silver Slugger,2020,AL,,3B
+15172.0,Tim Anderson,anderti01,SIlver Slugger,2020,AL,,SS
+17484.0,Eloy Jimenez,jimenel02,Silver Slugger,2020,AL,,OF
+13066.0,Teoscar Hernandez,hernate01,Silver Slugger,2020,AL,,OF
+10155.0,Mike Trout,troutmi01,Silver Slugger,2020,AL,,OF
+2434.0,Nelson Cruz,cruzne02,Silver Slugger,2020,AL,,DH
+7739.0,Travis d'Arnaud,darnatr01,Silver Slugger,2020,NL,,C
+5361.0,Freddie Freeman,freemfr01,Silver Slugger,2020,NL,,1B
+8623.0,Donovan Solano,solando01,Silver Slugger,2020,NL,,2B
+11493.0,Manny Machado,machama01,Silver Slugger,2020,NL,,3B
+798.0,Fernando Tatis,tatisfe02,Silver Slugger,2020,NL,,SS
+20123.0,Juan Soto,sotoju01,Silver Slugger,2020,NL,,OF
+13611.0,Mookie Betts,bettsmo01,Silver Slugger,2020,NL,,OF
+2900.0,Roberto Perez,perezro02,Gold Glove,2020,AL,,C
+20078.0,Evan White,whiteev01,Gold Glove,2020,AL,,1B
+10556.0,Cesar Hernandez,hernace02,Gold Glove,2020,AL,,2B

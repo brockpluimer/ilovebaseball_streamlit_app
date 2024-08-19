@@ -1,0 +1,54 @@
+IDfg,Name,playerID,awardID,yearID,lgID,tie,notes
+1004598,Lou Gehrig,gehrilo01,Baseball Magazine All-Star,1934,AL,,1B
+1004596,Charlie Gehringer,gehrich01,Baseball Magazine All-Star,1934,AL,,2B
+1013783,Billy Werber,werbebi01,Baseball Magazine All-Star,1934,AL,,3B
+1002384,Mickey Cochrane,cochrmi01,Baseball Magazine All-Star,1934,AL,,C
+1013813,Sam West,westsa01,Baseball Magazine All-Star,1934,AL,,CF
+1011978,Al Simmons,simmoal01,Baseball Magazine All-Star,1934,AL,,LF
+1004821,Lefty Gomez,gomezle01,Baseball Magazine All-Star,1934,AL,,P1
+1011259,Schoolboy Rowe,rowesc01,Baseball Magazine All-Star,1934,AL,,P2
+1005339,Mel Harder,hardeme01,Baseball Magazine All-Star,1934,AL,,P3
+1001421,Tommy Bridges,bridgto01,Baseball Magazine All-Star,1934,AL,,P4
+1008089,Heinie Manush,manushe01,Baseball Magazine All-Star,1934,AL,,RF
+1007037,Bill Knickerbocker,knickbi01,Baseball Magazine All-Star,1934,AL,,SS
+1004598,Lou Gehrig,gehrilo01,Baseball Magazine All-Star,1934,ML,,1B
+1004596,Charlie Gehringer,gehrich01,Baseball Magazine All-Star,1934,ML,,2B
+1013165,Pie Traynor,traynpi01,Baseball Magazine All-Star,1934,ML,,3B
+1002384,Mickey Cochrane,cochrmi01,Baseball Magazine All-Star,1934,ML,,C
+1009904,Mel Ott,ottme01,Baseball Magazine All-Star,1934,ML,,CF
+1011978,Al Simmons,simmoal01,Baseball Magazine All-Star,1934,ML,,LF
+1003106,Dizzy Dean,deandi01,Baseball Magazine All-Star,1934,ML,,P1
+1004821,Lefty Gomez,gomezle01,Baseball Magazine All-Star,1934,ML,,P2
+1006123,Carl Hubbell,hubbeca01,Baseball Magazine All-Star,1934,ML,,P3
+1011259,Schoolboy Rowe,rowesc01,Baseball Magazine All-Star,1934,ML,,P4
+1013597,Paul Waner,wanerpa01,Baseball Magazine All-Star,1934,ML,,RF
+1013377,Arky Vaughan,vaughar01,Baseball Magazine All-Star,1934,ML,,SS
+1012927,Bill Terry,terrybi01,Baseball Magazine All-Star,1934,NL,,1B
+1004364,Frankie Frisch,friscfr01,Baseball Magazine All-Star,1934,NL,,2B
+1013165,Pie Traynor,traynpi01,Baseball Magazine All-Star,1934,NL,,3B
+1005458,Gabby Hartnett,hartnga01,Baseball Magazine All-Star,1934,NL,,C
+1009904,Mel Ott,ottme01,Baseball Magazine All-Star,1934,NL,,CF
+1009117,Jo-Jo Moore,moorejo02,Baseball Magazine All-Star,1934,NL,,LF
+1003106,Dizzy Dean,deandi01,Baseball Magazine All-Star,1934,NL,,P1
+1006123,Carl Hubbell,hubbeca01,Baseball Magazine All-Star,1934,NL,,P2
+1013637,Lon Warneke,warnelo01,Baseball Magazine All-Star,1934,NL,,P3
+1011648,Hal Schumacher,schumha02,Baseball Magazine All-Star,1934,NL,,P4
+1013597,Paul Waner,wanerpa01,Baseball Magazine All-Star,1934,NL,,RF
+1013377,Arky Vaughan,vaughar01,Baseball Magazine All-Star,1934,NL,,SS
+1002384,Mickey Cochrane,cochrmi01,Most Valuable Player,1934,AL,,
+1003106,Dizzy Dean,deandi01,Most Valuable Player,1934,NL,,
+1004821,Lefty Gomez,gomezle01,Pitching Triple Crown,1934,AL,,
+1004598,Lou Gehrig,gehrilo01,Triple Crown,1934,AL,,
+1004598,Lou Gehrig,gehrilo01,TSN All-Star,1934,ML,,1B
+1004596,Charlie Gehringer,gehrich01,TSN All-Star,1934,ML,,2B
+1005793,Pinky Higgins,higgipi01,TSN All-Star,1934,ML,,3B
+1002384,Mickey Cochrane,cochrmi01,TSN All-Star,1934,ML,,C
+1000379,Earl Averill,averiea01,TSN All-Star,1934,ML,,OF
+1009904,Mel Ott,ottme01,TSN All-Star,1934,ML,,OF
+1011978,Al Simmons,simmoal01,TSN All-Star,1934,ML,,OF
+1003106,Dizzy Dean,deandi01,TSN All-Star,1934,ML,,P
+1004821,Lefty Gomez,gomezle01,TSN All-Star,1934,ML,,P
+1011259,Schoolboy Rowe,rowesc01,TSN All-Star,1934,ML,,P
+1002796,Joe Cronin,cronijo01,TSN All-Star,1934,ML,,SS
+1004598,Lou Gehrig,gehrilo01,TSN Guide MVP,1934,AL,,
+1003106,Dizzy Dean,deandi01,TSN Guide MVP,1934,NL,,
