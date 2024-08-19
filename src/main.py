@@ -4,6 +4,9 @@ import pandas as pd
 import numpy as np
 import random
 import streamlit as st
+
+st.set_page_config(page_title="Brock's Baseball Stats Explorer", page_icon="⚾", layout="wide")
+
 #plotting and stats
 import plotly.express as px
 import plotly.graph_objects as go
