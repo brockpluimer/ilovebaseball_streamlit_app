@@ -2,6 +2,8 @@
 
 This repository contains a baseball analytics tool I built with Python and Streamlit. It offers different modes for analyzing player statistics, comparing players, visualizing historical data, and performing advanced analytics. It's based on the pybaseball database, consisting of hitting and pitching data. I'll be adding fielding statistics, playoff statistics and additional features soon.
 
+You can access the current version of the app here and on ilovemoneyball.streamlit.app
+
 ## Features
 
 - **Individual Player Analysis**: View statistics for individual players.
