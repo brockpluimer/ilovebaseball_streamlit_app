@@ -42,7 +42,8 @@ def main():
                                  "Milestone Tracker", "Find Outliers", "Career Stat Race", "Player Similarity", 
                                  "Custom WAR Generator", "How is he the GOAT?", "Era Adjustment Tool", 
                                  #"Basic Statistics", 
-                                # "Supervised Learning", "Unsupervised Learning"])
+                                # "Supervised Learning", "Unsupervised Learning"
+                                ])
     
     if app_mode == "Home":
         display_home_screen()
