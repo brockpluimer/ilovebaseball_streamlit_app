@@ -23,8 +23,8 @@ def display_home_screen():
         "How is he the GOAT?": "Explore what makes certain players stand out as the 'Greatest of All Time'.",
         "Era Adjustment Tool": "Adjust statistics to account for different eras in baseball.",
         #"Basic Statistics": "Perform basic statistical analyses on player data.",
-        "Supervised Learning": "Use machine learning to classify players or predict career outcomes e.g. Hall of Fame.",
-        "Unsupervised Learning": "Discover hidden patterns and groupings in player data."
+       # "Supervised Learning": "Use machine learning to classify players or predict career outcomes e.g. Hall of Fame.",
+       # "Unsupervised Learning": "Discover hidden patterns and groupings in player data."
     }
 
     for tool, description in tools.items():
