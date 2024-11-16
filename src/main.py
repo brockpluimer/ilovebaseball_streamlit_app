@@ -68,10 +68,10 @@ def main():
         how_is_he_the_goat()
     # elif app_mode == "Basic Statistics":
     #     basic_statistics_mode()
-    elif app_mode == "Supervised Learning":
-        supervised_learning_mode()
-    elif app_mode == "Unsupervised Learning":
-        unsupervised_learning_mode()
+    #elif app_mode == "Supervised Learning":
+     #   supervised_learning_mode()
+    #elif app_mode == "Unsupervised Learning":
+    #    unsupervised_learning_mode()
 
     # Display the Astros cheating fact at the bottom of each page
     display_astros_cheating_fact()
