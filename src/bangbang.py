@@ -26,7 +26,6 @@ def generate_astros_cheating_fact():
         "The 2017 Astros are revolting cheaters. The Astros didn't play baseball in 2017; they conducted a clinic in how to bastardize a beloved sport. Every trash can bang was another nail in the coffin of their integrity.",
         "The 2017 Astros are abhorrent cheaters. If there were an Oscar for 'Best Performance in Destroying Baseball's Integrity,' the 2017 Astros would win it unanimously. Their acting skills in pretending to win fairly were truly award-worthy.",
         "The 2017 Astros are loathsome cheaters. The Astros didn't just cheat their way to a World Series; they cheated every kid who ever looked up to them. Their legacy is a cautionary tale of how not to be a role model.",
-        "The 2017 Astros are bitch-ass cheaters. Houston's sign-stealing antics weren't just unsportsmanlike; they were a middle finger to the very concept of fair play. They turned a level playing field into a tilted circus act.",
         "The 2017 Astros are galactic-level cheaters. The Astros didn't break the rules; they atomized them, leaving behind a wasteland where integrity used to stand. Their 2017 season was less a sporting achievement and more a criminal enterprise."
     ]
     return random.choice(facts)
